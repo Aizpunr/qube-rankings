@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QotW — Qube of the Week</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎲</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root { --green:#10b981; --red:#ef4444; --mono:'JetBrains Mono',monospace;
+        --gold:#f59e0b; --silver:#9eb1cf; --bronze:#b45309; }
+[data-theme="dark"] { --accent:#F5A9B8; --bg:#15092e; --surface:rgba(245,169,184,0.04);
+  --border:rgba(245,169,184,0.10); --border-bright:rgba(245,169,184,0.14);
+  --text:#f3e9f7; --text-dim:#c4b3d4; --text-muted:#8b7aa3; --text-dark:#5e4f78;
+  --surface-hover:rgba(245,169,184,0.08); --row-hover:rgba(91,206,250,0.05);
+  --row-border:rgba(245,169,184,0.06); --scrollbar:rgba(245,169,184,0.18);
+  --btn-hover:rgba(245,169,184,0.4); --tooltip-bg:rgba(21,9,46,0.97);
+  --tooltip-border:rgba(245,169,184,0.22); }
+[data-theme="light"] { --accent:#DB2777; --bg:#f5f5f7; --surface:rgba(0,0,0,0.02);
+  --border:rgba(0,0,0,0.08); --border-bright:rgba(0,0,0,0.12);
+  --text:#1f2937; --text-dim:#4b5563; --text-muted:#6b7280; --text-dark:#9ca3af;
+  --surface-hover:rgba(0,0,0,0.05); --row-hover:rgba(0,0,0,0.03);
+  --row-border:rgba(0,0,0,0.05); --scrollbar:rgba(0,0,0,0.15);
+  --btn-hover:rgba(0,0,0,0.3); --tooltip-bg:rgba(255,255,255,0.95);
+  --tooltip-border:rgba(0,0,0,0.15); }
+
+html { background: var(--bg); color: var(--text); }
+body { font-family: 'Space Grotesk', system-ui, sans-serif; min-height: 100vh; padding: 20px 12px; }
+::selection { background: rgba(245,169,184,0.3); }
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--scrollbar); border-radius: 3px; }
+
+.container { max-width: 1080px; margin: 0 auto; }
+
+.header { text-align: center; margin-bottom: 28px; position: relative; }
+.header h1 {
+  font-size: 28px; font-weight: 800; margin: 0;
+  background: linear-gradient(135deg, #5BCEFA, #F5A9B8, #FFFFFF, #F5A9B8, #5BCEFA);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.header .sub { font-family: var(--mono); font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+.twitch-link {
+  color: var(--accent); text-decoration: none; font-weight: 600;
+  display: inline-flex; align-items: center; gap: 4px;
+  transition: color 0.15s;
+}
+.twitch-link:hover { color: #9146ff; }
+.twitch-icon { vertical-align: -1px; }
+
+.theme-toggle {
+  position: absolute; top: 8px; right: 0;
+  background: var(--surface-hover); border: 1px solid var(--border);
+  border-radius: 8px; padding: 5px 10px; cursor: pointer;
+  font-size: 16px; line-height: 1; transition: border-color 0.15s;
+}
+.theme-toggle:hover { border-color: var(--btn-hover); }
+
+.controls { display: flex; gap: 10px; margin-bottom: 16px; flex-wrap: wrap; align-items: center;
+  position: sticky; top: 0; z-index: 20; background: var(--bg); padding: 8px 0; }
+.tabs { display: flex; gap: 3px; background: var(--surface-hover); border-radius: 8px; padding: 3px; }
+.tab {
+  padding: 6px 16px; border-radius: 6px; border: none; font-size: 12px;
+  font-family: var(--mono); font-weight: 600; cursor: pointer;
+  background: transparent; color: var(--text-muted); transition: all 0.15s;
+}
+.tab.active { background: rgba(245,169,184,0.22); color: var(--accent); }
+.tab:hover:not(.active) { color: var(--text-dim); }
+.tab.disabled { opacity: 0.4; cursor: not-allowed; }
+.tab.disabled:hover { color: var(--text-muted); }
+
+.search-input {
+  background: var(--surface-hover); border: 1px solid var(--border);
+  border-radius: 6px; padding: 5px 10px; font-size: 11px;
+  font-family: var(--mono); color: var(--text); outline: none;
+  width: 180px; transition: border-color 0.15s; margin-left: auto;
+}
+.search-input::placeholder { color: var(--text-dark); }
+.search-input:focus { border-color: rgba(245,169,184,0.5); }
+
+.tg { display: grid; align-items: center; }
+.tg-head {
+  display: grid; padding: 8px 12px; font-family: var(--mono); font-size: 10px;
+  color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px;
+  border-bottom: 1px solid var(--border-bright);
+}
+.tg-head div { cursor: pointer; user-select: none; }
+.tg-head div:hover { color: var(--text-dim); }
+.tg-head .sort-arrow { color: var(--accent); margin-left: 3px; }
+
+.row {
+  display: grid; padding: 7px 12px; border-bottom: 1px solid var(--row-border);
+  font-size: 13px; transition: background 0.1s; align-items: center;
+}
+.row:hover { background: var(--row-hover); }
+.rank { font-family: var(--mono); font-size: 12px; color: var(--text-muted); }
+.pname { font-weight: 600; font-size: 13px; }
+.player { display: flex; align-items: center; gap: 6px; min-width: 0; }
+.player .pname { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.gold-name { color: var(--gold); }
+.silver-name {
+  background: linear-gradient(135deg, #6b7d99 0%, #d8e3f5 45%, #ffffff 50%, #d8e3f5 55%, #6b7d99 100%);
+  background-size: 200% 100%; background-position: 50% 0;
+  -webkit-background-clip: text; background-clip: text;
+  -webkit-text-fill-color: transparent; color: transparent;
+  text-shadow: 0 0 1px rgba(158, 177, 207, 0.4);
+}
+.bronze-name { color: var(--bronze); }
+
+.medal {
+  display: inline-block; min-width: 22px; padding: 2px 6px; margin-left: 2px;
+  border-radius: 5px; font-family: var(--mono); font-size: 11px; font-weight: 700;
+  text-align: center; line-height: 1.1;
+}
+.medal-gold   { color: var(--gold);   background: rgba(245,158,11,0.14); border: 1px solid rgba(245,158,11,0.35); }
+.medal-silver { color: var(--silver); background: rgba(203,213,225,0.10); border: 1px solid rgba(203,213,225,0.30); }
+.medal-bronze { color: var(--bronze); background: rgba(180,83,9,0.12);   border: 1px solid rgba(180,83,9,0.32); }
+.medal-dim    { opacity: 0.25; font-weight: 400; }
+
+.info-tip-wrap { position: relative; display: inline-flex; align-items: center; }
+.info-btn {
+  background: none; border: 1px solid var(--border-bright); color: var(--text-muted);
+  border-radius: 4px; padding: 2px 7px; cursor: pointer; font-size: 11px;
+  font-family: var(--mono); margin-left: 4px; transition: all 0.15s; line-height: 1;
+}
+.info-btn:hover { border-color: var(--btn-hover); color: var(--accent); }
+.info-tip {
+  display: none; position: absolute; top: 110%; left: 0; z-index: 30;
+  background: var(--tooltip-bg); border: 1px solid var(--tooltip-border);
+  border-radius: 8px; padding: 10px 12px; min-width: 280px; max-width: 360px;
+  font-size: 11px; color: var(--text-dim); line-height: 1.5;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+}
+.info-tip.show { display: block; }
+.info-tip strong { color: var(--text); }
+
+.coming-soon {
+  text-align: center; padding: 60px 20px;
+  font-family: var(--mono); font-size: 13px; color: var(--text-muted);
+  border: 1px dashed var(--border-bright); border-radius: 8px; margin-top: 12px;
+}
+
+/* Event row + inline detail */
+.row.event-row { cursor: pointer; }
+.row.event-row.selected { background: rgba(91,206,250,0.08); }
+
+/* Player row click-to-expand */
+.row.player-row { cursor: pointer; }
+.row.player-row.selected { background: rgba(245,169,184,0.10); }
+
+.player-tooltip {
+  position: absolute; background: var(--tooltip-bg);
+  border: 1px solid var(--tooltip-border); border-radius: 6px;
+  padding: 6px 10px; font-family: var(--mono); font-size: 11px;
+  color: var(--text-dim); pointer-events: none; z-index: 10;
+  line-height: 1.5; white-space: nowrap;
+}
+.player-tooltip b { color: var(--text); }
+.detail {
+  background: var(--surface); border-bottom: 1px solid var(--border);
+  padding: 12px 14px 16px; animation: slideDown 0.15s ease-out;
+}
+@keyframes slideDown { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: translateY(0); } }
+.cup-head {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
+  padding: 6px 0 10px; flex-wrap: wrap;
+  border-bottom: 1px solid var(--border); margin-bottom: 10px;
+}
+.cup-head .cup-title { font-size: 14px; font-weight: 700; color: var(--text); }
+.cup-head .cup-meta {
+  font-family: var(--mono); font-size: 10px; color: var(--text-dim);
+  display: flex; gap: 14px; flex-wrap: wrap;
+}
+.cup-head .cup-meta b { color: var(--text); font-weight: 700; }
+.cup-table { display: grid; grid-template-columns: 50px 1fr 90px 60px; gap: 0;
+  font-size: 12px; }
+.cup-table .ch {
+  font-family: var(--mono); font-size: 9px; color: var(--text-muted);
+  text-transform: uppercase; letter-spacing: 0.5px;
+  padding: 4px 8px; border-bottom: 1px solid var(--border);
+}
+.cup-table .cv {
+  padding: 4px 8px; border-bottom: 1px solid var(--row-border);
+}
+.cup-table .cv-pos { font-family: var(--mono); color: var(--text-muted); }
+.cup-table .cv-time, .cup-table .cv-elim {
+  font-family: var(--mono); font-size: 11px; color: var(--text-dim);
+  text-align: right;
+}
+.dnf-badge { font-family: var(--mono); font-size: 9px;
+  color: var(--text-muted); padding: 1px 5px; border-radius: 3px;
+  background: var(--surface-hover); margin-left: 4px; }
+
+.footer { margin-top: 24px; padding: 16px 0 8px; border-top: 1px solid var(--border);
+  font-family: var(--mono); font-size: 10px; color: var(--text-dark); text-align: center; line-height: 1.6; }
+
+@media (max-width: 700px) {
+  .m-hide { display: none !important; }
+  .header h1 { font-size: 22px; }
+  .search-input { width: 130px; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>QotW</h1>
+    <div class="sub">Qube of the Week — hosted by <a href="https://www.twitch.tv/lillyfenn" target="_blank" rel="noopener" class="twitch-link" title="lillyfenn on Twitch"><svg class="twitch-icon" viewBox="0 0 24 24" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/></svg> lillyfenn</a></div>
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+  </div>
+
+  <div class="controls">
+    <div class="tabs" id="viewTabs">
+      <button class="tab active" data-view="rankings">Rankings</button>
+      <button class="tab" data-view="events">Events</button>
+    </div>
+    <div class="info-tip-wrap" id="infoWrap">
+      <button class="info-btn" id="infoBtn">ⓘ</button>
+      <div class="info-tip" id="infoTip"></div>
+    </div>
+    <input type="text" id="searchBox" class="search-input" placeholder="Search players..." />
+  </div>
+
+  <div id="content"></div>
+
+  <div class="footer">
+    QotW data &middot; rebuilt from <code>QotW leaderboards.xlsx</code>
+    <br>Generated <span id="genStamp">…</span>
+  </div>
+</div>
+
+<script>
+// ── Theme ─────────────────────────────────────────────────────────────
+(function () {
+  var saved = (function(){ try { return localStorage.getItem('theme'); } catch(_){ return null; } })();
+  var t = saved === 'light' || saved === 'dark' ? saved : 'dark';
+  document.documentElement.setAttribute('data-theme', t);
+  document.addEventListener('DOMContentLoaded', function(){
+    var btn = document.getElementById('themeToggle');
+    btn.textContent = t === 'dark' ? '🌙' : '☀️';
+    btn.addEventListener('click', function(){
+      t = (t === 'dark') ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+      btn.textContent = t === 'dark' ? '🌙' : '☀️';
+      try { localStorage.setItem('theme', t); } catch(_){}
+    });
+  });
+})();
+
+// ── State ─────────────────────────────────────────────────────────────
+let DATA = null;
+let view = 'rankings';
+let rankSort = { col: 'rating', dir: -1 };
+let eventSort = { col: 'event', dir: -1 };  // newest first by default
+let searchTerm = '';
+let expandedEvent = null;
+let expandedPlayer = null;  // player.key when row is expanded
+
+// ── Helpers ───────────────────────────────────────────────────────────
+function escapeHtml(s) { return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function nameClass(p) {
+  if (p.gold && p.cups >= 2) return 'gold-name';
+  if (p.silver && !p.gold) return 'silver-name';
+  if (p.bronze && !p.gold && !p.silver) return 'bronze-name';
+  return '';
+}
+function medalCell(g, s, b) {
+  return `<span class="medal medal-gold ${g?'':'medal-dim'}">${g||0}</span>` +
+         `<span class="medal medal-silver ${s?'':'medal-dim'}">${s||0}</span>` +
+         `<span class="medal medal-bronze ${b?'':'medal-dim'}">${b||0}</span>`;
+}
+
+// ── Rankings ──────────────────────────────────────────────────────────
+const RANK_COLS = '40px 1fr 80px 70px 50px 50px 130px';
+
+function rankSortCmp(a, b) {
+  const c = rankSort.col, d = rankSort.dir;
+  if (c === 'name') return d * a.name.localeCompare(b.name);
+  if (c === 'medals') {
+    var av = (a.gold||0)*100 + (a.silver||0)*10 + (a.bronze||0);
+    var bv = (b.gold||0)*100 + (b.silver||0)*10 + (b.bronze||0);
+    return d * (av - bv);
+  }
+  return d * (((a[c]||0)) - ((b[c]||0)));
+}
+
+function rankArrow(c) {
+  return rankSort.col === c ? `<span class="sort-arrow">${rankSort.dir<0?'▼':'▲'}</span>` : '';
+}
+
+function renderRankings() {
+  const players = DATA.ranking.players.slice();
+  let filtered = players;
+  if (searchTerm) {
+    const q = searchTerm.toLowerCase();
+    filtered = players.filter(p => p.name.toLowerCase().includes(q));
+  }
+  filtered.sort(rankSortCmp);
+
+  const head = `
+    <div class="tg-head" id="rankHead" style="grid-template-columns:${RANK_COLS};">
+      <div class="m-hide" data-sort="rank">#${rankArrow('rank')}</div>
+      <div data-sort="name">Player${rankArrow('name')}</div>
+      <div data-sort="rating" style="text-align:right">Rating${rankArrow('rating')}</div>
+      <div data-sort="peak" style="text-align:right" class="m-hide">Peak${rankArrow('peak')}</div>
+      <div data-sort="cups" style="text-align:right" class="m-hide">Cups${rankArrow('cups')}</div>
+      <div data-sort="avg_pos" style="text-align:right" class="m-hide" title="Average finishing position">Avg Pos${rankArrow('avg_pos')}</div>
+      <div data-sort="medals" style="text-align:right" class="m-hide">Podiums${rankArrow('medals')}</div>
+    </div>`;
+
+  const body = filtered.map(p => {
+    const isOpen = expandedPlayer === p.key;
+    return `
+    <div class="row player-row ${isOpen ? 'selected' : ''}"
+         data-pkey="${p.key}" style="grid-template-columns:${RANK_COLS};">
+      <div class="rank m-hide">${p.rank}</div>
+      <div class="player">
+        <span class="pname ${nameClass(p)}">${escapeHtml(p.name)}</span>
+      </div>
+      <div style="text-align:right;font-family:var(--mono);font-weight:700;color:var(--accent)">
+        ${p.rating.toFixed(1)}
+      </div>
+      <div class="m-hide" style="text-align:right;font-family:var(--mono);color:var(--text-muted);font-size:11px">${p.peak.toFixed(1)}</div>
+      <div class="m-hide" style="text-align:right;font-family:var(--mono);font-size:12px">${p.cups}</div>
+      <div class="m-hide" style="text-align:right;font-family:var(--mono);font-size:12px">${p.avg_pos != null ? p.avg_pos.toFixed(1) : '—'}</div>
+      <div class="m-hide" style="text-align:right">${medalCell(p.gold, p.silver, p.bronze)}</div>
+    </div>
+    ${isOpen ? `<div class="detail">${renderPlayerDetail(p)}</div>` : ''}
+    `;
+  }).join('');
+
+  return head + body;
+}
+
+function renderPlayerDetail(p) {
+  const cupsByEvt = {};
+  DATA.cups.forEach(c => { cupsByEvt[c.event] = c; });
+  const history = (p.history || []).slice().sort((a,b) => a.e - b.e);
+
+  const startR = history.length ? history[0].r : null;
+  const endR = p.rating;
+  const peak = p.peak;
+  const trough = history.reduce((m, h) => h.r < m ? h.r : m, Infinity);
+  const bestPos = history.reduce((m, h) => h.p < m ? h.p : m, Infinity);
+
+  const rows = history.slice().reverse().map(h => {
+    const c = cupsByEvt[h.e] || {};
+    const podiumCls = h.p === 1 ? 'gold-name' : h.p === 2 ? 'silver-name' : h.p === 3 ? 'bronze-name' : '';
+    const date = c.date || '—';
+    const map = c.map ? escapeHtml(c.map) : '—';
+    return `
+      <div class="cv cv-pos">#${h.e}</div>
+      <div class="cv" style="font-family:var(--mono);font-size:10px;color:var(--text-dim)">${date}</div>
+      <div class="cv" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${map}</div>
+      <div class="cv cv-elim ${podiumCls}" style="text-align:center">${h.p}</div>
+      <div class="cv cv-time">${h.r.toFixed(1)}</div>
+    `;
+  }).join('');
+
+  return `
+    <div class="cup-head">
+      <div class="cup-title">${escapeHtml(p.name)}</div>
+      <div class="cup-meta">
+        <span>rating: <b style="color:var(--accent)">${endR.toFixed(1)}</b></span>
+        <span>cups: <b>${p.cups}</b></span>
+        <span>peak: <b>${peak.toFixed(1)}</b></span>
+        ${startR !== null ? `<span>start: <b>${startR.toFixed(1)}</b></span>` : ''}
+        <span>avg pos: <b>${p.avg_pos != null ? p.avg_pos.toFixed(1) : '—'}</b></span>
+        ${bestPos !== Infinity ? `<span>best: <b>${bestPos}</b></span>` : ''}
+        <span>🥇/🥈/🥉: <b>${p.gold||0}/${p.silver||0}/${p.bronze||0}</b></span>
+      </div>
+    </div>
+    <div class="player-chart-wrap" style="position:relative;width:100%;height:180px;margin:8px 0 12px">
+      <canvas id="chart-${p.key}" style="width:100%;height:180px"></canvas>
+      <div id="tt-${p.key}" class="player-tooltip" style="display:none"></div>
+    </div>
+    <div class="player-cup-table" style="display:grid;grid-template-columns:50px 78px 1fr 50px 60px;gap:0;font-size:12px">
+      <div class="ch">Cup</div>
+      <div class="ch">Date</div>
+      <div class="ch">Map</div>
+      <div class="ch" style="text-align:center">Pos</div>
+      <div class="ch" style="text-align:right">Rating</div>
+      ${rows}
+    </div>`;
+}
+
+function drawPlayerChart(canvas, player, cupsByEvt) {
+  const dpr = window.devicePixelRatio || 1;
+  const W = canvas.clientWidth, H = canvas.clientHeight;
+  canvas.width = W * dpr; canvas.height = H * dpr;
+  const ctx = canvas.getContext('2d');
+  ctx.scale(dpr, dpr);
+  ctx.clearRect(0, 0, W, H);
+
+  const css = getComputedStyle(document.documentElement);
+  const accent = (css.getPropertyValue('--accent') || '#F5A9B8').trim();
+  const textMuted = (css.getPropertyValue('--text-muted') || '#8b7aa3').trim();
+  const textDim = (css.getPropertyValue('--text-dim') || '#c4b3d4').trim();
+  const border = (css.getPropertyValue('--border') || 'rgba(245,169,184,0.10)').trim();
+
+  const history = (player.history || []).slice().sort((a, b) => a.e - b.e);
+  if (history.length === 0) return;
+
+  const events = history.map(h => h.e);
+  const ratings = history.map(h => h.r);
+  const minE = Math.min(...events) - 0.5;
+  const maxE = Math.max(...events) + 0.5;
+  const minR = Math.min(...ratings, 1500) - 30;
+  const maxR = Math.max(...ratings, 1500) + 30;
+
+  const padL = 40, padR = 16, padT = 12, padB = 22;
+  const plotW = W - padL - padR, plotH = H - padT - padB;
+
+  const xAt = (e) => padL + (e - minE) / (maxE - minE) * plotW;
+  const yAt = (r) => padT + (1 - (r - minR) / (maxR - minR)) * plotH;
+
+  // Grid (every 100 rating)
+  ctx.strokeStyle = border; ctx.lineWidth = 1;
+  ctx.fillStyle = textMuted; ctx.font = '10px JetBrains Mono, monospace';
+  for (let r = Math.ceil(minR/100)*100; r <= maxR; r += 100) {
+    const y = yAt(r);
+    ctx.beginPath(); ctx.moveTo(padL, y); ctx.lineTo(W - padR, y); ctx.stroke();
+    ctx.fillText(r, 4, y + 3);
+  }
+
+  // Baseline 1500 (dashed)
+  if (1500 >= minR && 1500 <= maxR) {
+    ctx.strokeStyle = textMuted; ctx.setLineDash([4, 4]);
+    const y = yAt(1500);
+    ctx.beginPath(); ctx.moveTo(padL, y); ctx.lineTo(W - padR, y); ctx.stroke();
+    ctx.setLineDash([]);
+  }
+
+  // X-axis cup labels (up to 6 markers)
+  ctx.fillStyle = textMuted;
+  const step = Math.max(1, Math.ceil(history.length / 6));
+  for (let i = 0; i < history.length; i += step) {
+    const x = xAt(history[i].e);
+    ctx.fillText('#' + history[i].e, x - 8, H - 6);
+  }
+
+  // Line
+  ctx.strokeStyle = accent; ctx.lineWidth = 2;
+  ctx.beginPath();
+  history.forEach((h, i) => {
+    const x = xAt(h.e), y = yAt(h.r);
+    if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+  });
+  ctx.stroke();
+
+  // Dots colored by placement (gold/silver/bronze/accent)
+  const dots = [];
+  history.forEach(h => {
+    const x = xAt(h.e), y = yAt(h.r);
+    let color;
+    if (h.p === 1) color = '#f59e0b';        // gold
+    else if (h.p === 2) color = '#9eb1cf';   // silver
+    else if (h.p === 3) color = '#b45309';   // bronze
+    else color = accent;
+    ctx.fillStyle = color;
+    ctx.beginPath();
+    ctx.arc(x, y, h.p === 1 ? 5 : 4, 0, Math.PI * 2);
+    ctx.fill();
+    if (h.p === 1) {
+      ctx.strokeStyle = '#fbbf24'; ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.arc(x, y, 7, 0, Math.PI * 2);
+      ctx.stroke();
+    }
+    dots.push({ x, y, h });
+  });
+
+  canvas._dots = dots;
+  canvas._cupsByEvt = cupsByEvt;
+}
+
+function attachPlayerChartHover(canvas, player) {
+  const tt = document.getElementById('tt-' + player.key);
+  if (!tt || !canvas._dots) return;
+  canvas.onmousemove = (e) => {
+    const rect = canvas.getBoundingClientRect();
+    const mx = e.clientX - rect.left;
+    const my = e.clientY - rect.top;
+    let nearest = null, bestD = 16 * 16;
+    for (const d of canvas._dots) {
+      const dx = mx - d.x, dy = my - d.y;
+      const dd = dx * dx + dy * dy;
+      if (dd < bestD) { bestD = dd; nearest = d; }
+    }
+    if (!nearest) { tt.style.display = 'none'; return; }
+    const c = canvas._cupsByEvt[nearest.h.e] || {};
+    tt.innerHTML = `<b>QotW #${nearest.h.e}</b>` +
+      (c.date ? ` · ${c.date}` : '') +
+      `<br>pos <b>${nearest.h.p}</b> · rating <b>${nearest.h.r.toFixed(1)}</b>` +
+      (c.map ? `<br><span style="color:var(--text-muted)">${escapeHtml(c.map)}</span>` : '');
+    tt.style.display = 'block';
+    tt.style.left = Math.min(rect.width - 200, Math.max(0, nearest.x - 80)) + 'px';
+    tt.style.top = (nearest.y + 14) + 'px';
+  };
+  canvas.onmouseleave = () => { tt.style.display = 'none'; };
+}
+
+// ── Events ────────────────────────────────────────────────────────────
+const EVENT_COLS = '40px 70px 90px 1fr 1fr 60px 60px';
+
+function eventSortCmp(a, b) {
+  const c = eventSort.col, d = eventSort.dir;
+  if (c === 'map')    return d * (a.map || '').localeCompare(b.map || '');
+  if (c === 'mapper') return d * (a.mapper || '').localeCompare(b.mapper || '');
+  if (c === 'date')   return d * (a.date || '').localeCompare(b.date || '');
+  if (c === 'lobby_size') return d * ((a.lobby_size||0) - (b.lobby_size||0));
+  if (c === 'sof')    return d * ((a.sof==null?-1:a.sof) - (b.sof==null?-1:b.sof));
+  return d * ((a.event||0) - (b.event||0));
+}
+function eventArrow(c) {
+  return eventSort.col === c ? `<span class="sort-arrow">${eventSort.dir<0?'▼':'▲'}</span>` : '';
+}
+
+function renderEvents() {
+  const cups = DATA.cups.slice();
+  cups.sort(eventSortCmp);
+
+  const head = `
+    <div class="tg-head" id="evHead" style="grid-template-columns:${EVENT_COLS};">
+      <div class="m-hide">#</div>
+      <div data-sort="event">Event${eventArrow('event')}</div>
+      <div class="m-hide" data-sort="date">Date${eventArrow('date')}</div>
+      <div data-sort="map">Map${eventArrow('map')}</div>
+      <div class="m-hide" data-sort="mapper">Mapper${eventArrow('mapper')}</div>
+      <div data-sort="lobby_size" style="text-align:right">Players${eventArrow('lobby_size')}</div>
+      <div data-sort="sof" style="text-align:right" class="m-hide" title="Strength of Field (cross-comp formula)">SOF${eventArrow('sof')}</div>
+    </div>`;
+
+  const body = cups.map((c, i) => {
+    const isOpen = expandedEvent === c.event;
+    return `
+      <div class="row event-row ${isOpen ? 'selected' : ''}"
+           data-event="${c.event}" style="grid-template-columns:${EVENT_COLS};">
+        <div class="rank m-hide">${i + 1}</div>
+        <div style="font-family:var(--mono);font-size:12px;font-weight:700">#${c.event}</div>
+        <div class="m-hide" style="font-family:var(--mono);font-size:11px;color:var(--text-dim)">${c.date || '?'}</div>
+        <div style="font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escapeHtml(c.map || '?')}</div>
+        <div class="m-hide" style="color:var(--text-dim);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escapeHtml(c.mapper || '—')}</div>
+        <div style="text-align:right;font-family:var(--mono);font-size:11px;color:var(--text-muted)">${c.lobby_size}</div>
+        <div class="m-hide" style="text-align:right;font-family:var(--mono);font-size:11px;color:var(--text-muted)">${c.sof==null?'—':c.sof.toFixed(1)}</div>
+      </div>
+      ${isOpen ? `<div class="detail">${renderCupDetail(c)}</div>` : ''}
+    `;
+  }).join('');
+
+  return head + `<div id="evBody">${body}</div>`;
+}
+
+function renderCupDetail(c) {
+  const sorted = c.results.slice().sort((a, b) => a.placement - b.placement);
+  const rows = sorted.map(r => {
+    const isWinner = r.placement === 1;
+    const cls = isWinner ? 'gold-name' : (r.placement === 2 ? 'silver-name' : (r.placement === 3 ? 'bronze-name' : ''));
+    const elim = r.elim_round == null ? '—' : `R${r.elim_round}`;
+    return `
+      <div class="cv cv-pos">${r.placement}</div>
+      <div class="cv pname ${cls}">${escapeHtml(r.name)}</div>
+      <div class="cv cv-time">${elim === '—' ? '<span class="dnf-badge">final</span>' : ''}</div>
+      <div class="cv cv-elim">${elim}</div>
+    `;
+  }).join('');
+  return `
+    <div class="cup-head">
+      <div class="cup-title">QotW #${c.event}${c.map ? ` · ${escapeHtml(c.map)}` : ''}</div>
+      <div class="cup-meta">
+        ${c.date ? `<span><b>${c.date}</b></span>` : ''}
+        ${c.mapper ? `<span>mapper: <b>${escapeHtml(c.mapper)}</b></span>` : ''}
+        <span>lobby: <b>${c.lobby_size}</b></span>
+        ${c.sof != null ? `<span>SOF: <b>${c.sof.toFixed(1)}</b></span>` : ''}
+        ${c.winner_name ? `<span>winner: <b class="gold-name">${escapeHtml(c.winner_name)}</b></span>` : ''}
+      </div>
+    </div>
+    <div class="cup-table">
+      <div class="ch">#</div>
+      <div class="ch">Player</div>
+      <div class="ch" style="text-align:right">Status</div>
+      <div class="ch" style="text-align:right">Elim</div>
+      ${rows}
+    </div>`;
+}
+
+function attachEventHandlers() {
+  document.querySelectorAll('#evHead div[data-sort]').forEach(el => {
+    el.onclick = () => {
+      const c = el.dataset.sort;
+      if (eventSort.col === c) eventSort.dir = -eventSort.dir;
+      else { eventSort.col = c; eventSort.dir = (c === 'event' || c === 'date' || c === 'lobby_size' || c === 'sof') ? -1 : 1; }
+      render();
+    };
+  });
+  document.querySelectorAll('.row.event-row').forEach(row => {
+    row.onclick = () => {
+      const ev = parseInt(row.dataset.event, 10);
+      expandedEvent = (expandedEvent === ev) ? null : ev;
+      render();
+    };
+  });
+}
+
+// ── Render dispatch ───────────────────────────────────────────────────
+function render() {
+  const content = document.getElementById('content');
+  if (view === 'rankings') {
+    content.innerHTML = renderRankings();
+    attachRankHandlers();
+  } else if (view === 'events') {
+    content.innerHTML = renderEvents();
+    attachEventHandlers();
+  }
+  updateInfoTip();
+}
+
+function attachRankHandlers() {
+  document.querySelectorAll('#rankHead div[data-sort]').forEach(el => {
+    el.onclick = () => {
+      const c = el.dataset.sort;
+      if (rankSort.col === c) rankSort.dir = -rankSort.dir;
+      else { rankSort.col = c; rankSort.dir = (c === 'name' || c === 'avg_pos') ? 1 : -1; }
+      render();
+    };
+  });
+  document.querySelectorAll('.row.player-row').forEach(row => {
+    row.onclick = () => {
+      const k = row.dataset.pkey;
+      expandedPlayer = (expandedPlayer === k) ? null : k;
+      render();
+      if (expandedPlayer === k) {
+        const player = DATA.ranking.players.find(p => p.key === k);
+        if (!player) return;
+        const canvas = document.getElementById('chart-' + k);
+        if (!canvas) return;
+        const cupsByEvt = {};
+        DATA.cups.forEach(c => { cupsByEvt[c.event] = c; });
+        // Defer to next tick so layout settles for clientWidth
+        requestAnimationFrame(() => {
+          drawPlayerChart(canvas, player, cupsByEvt);
+          attachPlayerChartHover(canvas, player);
+        });
+      }
+    };
+  });
+}
+
+// ── Info tip ──────────────────────────────────────────────────────────
+function updateInfoTip() {
+  const tip = document.getElementById('infoTip');
+  if (view === 'rankings') {
+    const p = DATA.ranking.params;
+    tip.innerHTML = `<strong>Pairwise FFA ELO.</strong> Each cup, every pair of attendees plays a "match" by cup placement (lower = win, ties draw). K=${p.k_base} per pair, K=${p.k_prov} during a player's first ${p.prov_cups} cups (placement period). No SOF scaling, no decay. Starting rating ${p.starting}. Filtered to <code>cups ≥ ${p.min_cups_display}</code>.`;
+  } else if (view === 'events') {
+    const p = DATA.ranking.params;
+    tip.innerHTML = `<strong>Strength of Field</strong> uses pre-event ratings: top-10 highest-rated attendees averaged, then mapped to <code>(avg − floor) / (peak − floor) × 100</code> with floor=${p.sof_floor.toFixed(1)} and peak=${p.sof_peak.toFixed(1)} (the cross-comp normalization, so SOF is comparable across comps).`;
+  } else {
+    tip.innerHTML = `<strong>Coming soon.</strong>`;
+  }
+}
+
+document.getElementById('infoBtn').addEventListener('click', () => {
+  document.getElementById('infoTip').classList.toggle('show');
+});
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('#infoWrap')) {
+    document.getElementById('infoTip').classList.remove('show');
+  }
+});
+
+// ── View tabs ─────────────────────────────────────────────────────────
+document.querySelectorAll('#viewTabs .tab').forEach(t => {
+  t.addEventListener('click', () => {
+    if (t.classList.contains('disabled')) return;
+    document.querySelectorAll('#viewTabs .tab').forEach(x => x.classList.remove('active'));
+    t.classList.add('active');
+    view = t.dataset.view;
+    render();
+  });
+});
+
+// ── Search ────────────────────────────────────────────────────────────
+document.getElementById('searchBox').addEventListener('input', (e) => {
+  searchTerm = e.target.value.trim();
+  if (view === 'rankings') render();
+});
+
+// ── Boot ──────────────────────────────────────────────────────────────
+fetch('qube.json?v=' + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    DATA = d;
+    document.getElementById('genStamp').textContent = (d.meta && d.meta.generated) || '?';
+    render();
+  })
+  .catch(err => {
+    document.getElementById('content').innerHTML =
+      `<div class="coming-soon" style="color:var(--red)">Failed to load qube.json: ${escapeHtml(err)}</div>`;
+  });
+</script>
+
+<script data-goatcounter="https://aizpun.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

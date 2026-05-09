@@ -1,0 +1,8460 @@
+{
+  "meta": {
+    "generated": "2026-05-09T09:49:43Z",
+    "total_cups": 15,
+    "total_players": 62,
+    "first_event": 1,
+    "last_event": 30
+  },
+  "cups": [
+    {
+      "event": 1,
+      "date": "2025-03-27",
+      "map": "Metallic",
+      "mapper": "[bnuy]ttv/Lilly the Bun",
+      "lobby_size": 20,
+      "sof": 29.31,
+      "winner_name": "Redstony",
+      "winner_key": "76561198430273427",
+      "results": [
+        {
+          "placement": 1,
+          "name": "Redstony",
+          "steamid": "76561198430273427",
+          "key": "76561198430273427",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 9
+        },
+        {
+          "placement": 3,
+          "name": "Wheelie",
+          "steamid": "76561199218214543",
+          "key": "76561199218214543",
+          "elim_round": 8
+        },
+        {
+          "placement": 4,
+          "name": "Hi Im Yolo",
+          "steamid": "76561198091849339",
+          "key": "76561198091849339",
+          "elim_round": 7
+        },
+        {
+          "placement": 5,
+          "name": "frenchtoast",
+          "steamid": null,
+          "key": "name:frenchtoast",
+          "elim_round": 6
+        },
+        {
+          "placement": 6,
+          "name": "Lynhardt",
+          "steamid": "76561198072912743",
+          "key": "76561198072912743",
+          "elim_round": 5
+        },
+        {
+          "placement": 7,
+          "name": "Heart-TGV",
+          "steamid": "76561198364662649",
+          "key": "76561198364662649",
+          "elim_round": 4
+        },
+        {
+          "placement": 8,
+          "name": "Clowny",
+          "steamid": "76561199366940380",
+          "key": "76561199366940380",
+          "elim_round": 4
+        },
+        {
+          "placement": 9,
+          "name": "Bank Waffles",
+          "steamid": "76561198868271852",
+          "key": "76561198868271852",
+          "elim_round": 3
+        },
+        {
+          "placement": 10,
+          "name": "Arder",
+          "steamid": "76561197996376845",
+          "key": "76561197996376845",
+          "elim_round": 3
+        },
+        {
+          "placement": 11,
+          "name": "OLR94",
+          "steamid": "76561198314583077",
+          "key": "76561198314583077",
+          "elim_round": 2
+        },
+        {
+          "placement": 12,
+          "name": "Trickshot",
+          "steamid": null,
+          "key": "name:Trickshot",
+          "elim_round": 2
+        },
+        {
+          "placement": 13,
+          "name": "SirTronick",
+          "steamid": null,
+          "key": "name:SirTronick",
+          "elim_round": 1
+        },
+        {
+          "placement": 13,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 1
+        },
+        {
+          "placement": 13,
+          "name": "DragonShadow84290",
+          "steamid": "76561198070406017",
+          "key": "76561198070406017",
+          "elim_round": 1
+        },
+        {
+          "placement": 13,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 1
+        },
+        {
+          "placement": 13,
+          "name": "justMaki",
+          "steamid": "76561198050792757",
+          "key": "76561198050792757",
+          "elim_round": 1
+        },
+        {
+          "placement": 13,
+          "name": "gameface",
+          "steamid": null,
+          "key": "name:gameface",
+          "elim_round": 1
+        },
+        {
+          "placement": 13,
+          "name": "Yikesu",
+          "steamid": null,
+          "key": "name:Yikesu",
+          "elim_round": 1
+        },
+        {
+          "placement": 13,
+          "name": "jofk2415",
+          "steamid": "76561199589394762",
+          "key": "76561199589394762",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 2,
+      "date": "2025-04-03",
+      "map": "Burst",
+      "mapper": "justMaki",
+      "lobby_size": 30,
+      "sof": 38.36,
+      "winner_name": "RoundNzt",
+      "winner_key": "76561198896246339",
+      "results": [
+        {
+          "placement": 1,
+          "name": "RoundNzt",
+          "steamid": "76561198896246339",
+          "key": "76561198896246339",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "rtube",
+          "steamid": "76561199208124083",
+          "key": "76561199208124083",
+          "elim_round": 12
+        },
+        {
+          "placement": 3,
+          "name": "Warsnac",
+          "steamid": "76561198001387193",
+          "key": "76561198001387193",
+          "elim_round": 11
+        },
+        {
+          "placement": 4,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": 10
+        },
+        {
+          "placement": 5,
+          "name": "A2 Zecklord",
+          "steamid": "76561198335037968",
+          "key": "76561198335037968",
+          "elim_round": 9
+        },
+        {
+          "placement": 6,
+          "name": "redal",
+          "steamid": "76561198181691229",
+          "key": "76561198181691229",
+          "elim_round": 8
+        },
+        {
+          "placement": 7,
+          "name": "Stick",
+          "steamid": "76561199590715014",
+          "key": "76561199590715014",
+          "elim_round": 8
+        },
+        {
+          "placement": 8,
+          "name": "R0nanC",
+          "steamid": "76561198259463003",
+          "key": "76561198259463003",
+          "elim_round": 7
+        },
+        {
+          "placement": 9,
+          "name": "L3it3R",
+          "steamid": "76561197965640463",
+          "key": "76561197965640463",
+          "elim_round": 7
+        },
+        {
+          "placement": 10,
+          "name": "Metalted",
+          "steamid": "76561198932043314",
+          "key": "76561198932043314",
+          "elim_round": 6
+        },
+        {
+          "placement": 11,
+          "name": "Sterben",
+          "steamid": "76561198877428244",
+          "key": "76561198877428244",
+          "elim_round": 6
+        },
+        {
+          "placement": 12,
+          "name": "Irisdice",
+          "steamid": "76561198125000151",
+          "key": "76561198125000151",
+          "elim_round": 5
+        },
+        {
+          "placement": 13,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 5
+        },
+        {
+          "placement": 14,
+          "name": "icRS",
+          "steamid": "76561199278221929",
+          "key": "76561199278221929",
+          "elim_round": 4
+        },
+        {
+          "placement": 15,
+          "name": "RubenBML",
+          "steamid": null,
+          "key": "name:RubenBML",
+          "elim_round": 4
+        },
+        {
+          "placement": 16,
+          "name": "wunderBarr",
+          "steamid": "76561198040861578",
+          "key": "76561198040861578",
+          "elim_round": 4
+        },
+        {
+          "placement": 17,
+          "name": "Hi Im Yolo",
+          "steamid": "76561198091849339",
+          "key": "76561198091849339",
+          "elim_round": 4
+        },
+        {
+          "placement": 18,
+          "name": "Heart-TGV",
+          "steamid": "76561198364662649",
+          "key": "76561198364662649",
+          "elim_round": 3
+        },
+        {
+          "placement": 19,
+          "name": "Hairybroness",
+          "steamid": null,
+          "key": "name:Hairybroness",
+          "elim_round": 3
+        },
+        {
+          "placement": 20,
+          "name": "Gnomo",
+          "steamid": null,
+          "key": "name:Gnomo",
+          "elim_round": 3
+        },
+        {
+          "placement": 21,
+          "name": "F1Y1NGDUTCHM8N",
+          "steamid": "76561198988960546",
+          "key": "76561198988960546",
+          "elim_round": 3
+        },
+        {
+          "placement": 22,
+          "name": "Kilandor",
+          "steamid": "76561197993793009",
+          "key": "76561197993793009",
+          "elim_round": 2
+        },
+        {
+          "placement": 23,
+          "name": "RadAbsRad",
+          "steamid": "76561198840040581",
+          "key": "76561198840040581",
+          "elim_round": 2
+        },
+        {
+          "placement": 24,
+          "name": "OLR94",
+          "steamid": "76561198314583077",
+          "key": "76561198314583077",
+          "elim_round": 2
+        },
+        {
+          "placement": 25,
+          "name": "Eagle26",
+          "steamid": null,
+          "key": "name:Eagle26",
+          "elim_round": 2
+        },
+        {
+          "placement": 26,
+          "name": "Wheelie",
+          "steamid": "76561199218214543",
+          "key": "76561199218214543",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "koz",
+          "steamid": "76561198096236961",
+          "key": "76561198096236961",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "[ZET]maskeddog",
+          "steamid": "76561198076209946",
+          "key": "76561198076209946",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "XxLordBelxX",
+          "steamid": null,
+          "key": "name:XxLordBelxX",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 11,
+      "date": "2025-06-05",
+      "map": "Nostalgia",
+      "mapper": "[CSC]Shadynook (in-cup); GTR registers as \"Synth Wave\" by another author",
+      "lobby_size": 22,
+      "sof": 43.27,
+      "winner_name": "justMaki",
+      "winner_key": "76561198050792757",
+      "results": [
+        {
+          "placement": 1,
+          "name": "justMaki",
+          "steamid": "76561198050792757",
+          "key": "76561198050792757",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": 10
+        },
+        {
+          "placement": 3,
+          "name": "Khord",
+          "steamid": "76561198115077065",
+          "key": "76561198115077065",
+          "elim_round": 9
+        },
+        {
+          "placement": 4,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 8
+        },
+        {
+          "placement": 5,
+          "name": "frenchteost",
+          "steamid": "76561199807320700",
+          "key": "76561199807320700",
+          "elim_round": 7
+        },
+        {
+          "placement": 6,
+          "name": "Whatsapp (=Principe)",
+          "steamid": null,
+          "key": "name:Whatsapp (=Principe)",
+          "elim_round": 6
+        },
+        {
+          "placement": 7,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 5
+        },
+        {
+          "placement": 8,
+          "name": "daytime",
+          "steamid": "76561198258069505",
+          "key": "76561198258069505",
+          "elim_round": 5
+        },
+        {
+          "placement": 9,
+          "name": "DorJis",
+          "steamid": "76561198082902698",
+          "key": "76561198082902698",
+          "elim_round": 4
+        },
+        {
+          "placement": 9,
+          "name": "redal",
+          "steamid": "76561198181691229",
+          "key": "76561198181691229",
+          "elim_round": 4
+        },
+        {
+          "placement": 11,
+          "name": "Pants",
+          "steamid": "76561199498272376",
+          "key": "76561199498272376",
+          "elim_round": 3
+        },
+        {
+          "placement": 11,
+          "name": "rtube",
+          "steamid": "76561199208124083",
+          "key": "76561199208124083",
+          "elim_round": 3
+        },
+        {
+          "placement": 13,
+          "name": "aizpun",
+          "steamid": "76561197972890120",
+          "key": "76561197972890120",
+          "elim_round": 2
+        },
+        {
+          "placement": 13,
+          "name": "Quickracer10",
+          "steamid": "76561198149636594",
+          "key": "76561198149636594",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "TheGreatChewbelini",
+          "steamid": null,
+          "key": "name:TheGreatChewbelini",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "krisu",
+          "steamid": "76561198042873074",
+          "key": "76561198042873074",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "b17bobby",
+          "steamid": "76561198171222118",
+          "key": "76561198171222118",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "groovy",
+          "steamid": null,
+          "key": "name:groovy",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "burnsidequest",
+          "steamid": null,
+          "key": "name:burnsidequest",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "Lucid Omenz",
+          "steamid": null,
+          "key": "name:Lucid Omenz",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "JustDom",
+          "steamid": null,
+          "key": "name:JustDom",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 12,
+      "date": "2025-06-12",
+      "map": "QOTD #12 - Cube En Verre Rose",
+      "mapper": "[CSC]OLR94 (in-cup); GTR registers as \"The Black Mamba\" by another author",
+      "lobby_size": 18,
+      "sof": 45.59,
+      "winner_name": "RoundNzt",
+      "winner_key": "76561198896246339",
+      "results": [
+        {
+          "placement": 1,
+          "name": "RoundNzt",
+          "steamid": "76561198896246339",
+          "key": "76561198896246339",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": 10
+        },
+        {
+          "placement": 3,
+          "name": "AndMe",
+          "steamid": "76561198067925412",
+          "key": "76561198067925412",
+          "elim_round": 9
+        },
+        {
+          "placement": 4,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 8
+        },
+        {
+          "placement": 5,
+          "name": "JobW",
+          "steamid": "76561198125435428",
+          "key": "76561198125435428",
+          "elim_round": 7
+        },
+        {
+          "placement": 6,
+          "name": "Mokster",
+          "steamid": "76561197979087520",
+          "key": "76561197979087520",
+          "elim_round": 6
+        },
+        {
+          "placement": 7,
+          "name": "Yoshi",
+          "steamid": null,
+          "key": "name:Yoshi",
+          "elim_round": 5
+        },
+        {
+          "placement": 8,
+          "name": "PandaMane",
+          "steamid": "76561198253679880",
+          "key": "76561198253679880",
+          "elim_round": 5
+        },
+        {
+          "placement": 9,
+          "name": "Mortishade",
+          "steamid": "76561197991251753",
+          "key": "76561197991251753",
+          "elim_round": 4
+        },
+        {
+          "placement": 10,
+          "name": "Waaksaam",
+          "steamid": "76561198122894680",
+          "key": "76561198122894680",
+          "elim_round": 4
+        },
+        {
+          "placement": 11,
+          "name": "daytime",
+          "steamid": "76561198258069505",
+          "key": "76561198258069505",
+          "elim_round": 3
+        },
+        {
+          "placement": 12,
+          "name": "Shinikage221",
+          "steamid": null,
+          "key": "name:Shinikage221",
+          "elim_round": 3
+        },
+        {
+          "placement": 13,
+          "name": "Pants",
+          "steamid": "76561199498272376",
+          "key": "76561199498272376",
+          "elim_round": 2
+        },
+        {
+          "placement": 14,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "[ZET]maskeddog",
+          "steamid": "76561198076209946",
+          "key": "76561198076209946",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "OLR94",
+          "steamid": "76561198314583077",
+          "key": "76561198314583077",
+          "elim_round": 1
+        },
+        {
+          "placement": 15,
+          "name": "rtube",
+          "steamid": "76561199208124083",
+          "key": "76561199208124083",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 13,
+      "date": "2025-06-19",
+      "map": "Qubic Coppice",
+      "mapper": "[CSC] redal",
+      "lobby_size": 25,
+      "sof": 48.79,
+      "winner_name": "Kernkob",
+      "winner_key": "76561199024808939",
+      "results": [
+        {
+          "placement": 1,
+          "name": "Kernkob",
+          "steamid": "76561199024808939",
+          "key": "76561199024808939",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Clowny",
+          "steamid": "76561199366940380",
+          "key": "76561199366940380",
+          "elim_round": 11
+        },
+        {
+          "placement": 3,
+          "name": "ZOMAN",
+          "steamid": "76561199126724675",
+          "key": "76561199126724675",
+          "elim_round": 10
+        },
+        {
+          "placement": 4,
+          "name": "Warsnac",
+          "steamid": "76561198001387193",
+          "key": "76561198001387193",
+          "elim_round": 9
+        },
+        {
+          "placement": 5,
+          "name": "R0nanC",
+          "steamid": "76561198259463003",
+          "key": "76561198259463003",
+          "elim_round": 8
+        },
+        {
+          "placement": 6,
+          "name": "MackCheesy",
+          "steamid": "76561198865432343",
+          "key": "76561198865432343",
+          "elim_round": 7
+        },
+        {
+          "placement": 7,
+          "name": "rtube",
+          "steamid": "76561199208124083",
+          "key": "76561199208124083",
+          "elim_round": 6
+        },
+        {
+          "placement": 8,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": 6
+        },
+        {
+          "placement": 9,
+          "name": "An Actual g00se",
+          "steamid": "76561199147780037",
+          "key": "76561199147780037",
+          "elim_round": 5
+        },
+        {
+          "placement": 9,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 5
+        },
+        {
+          "placement": 11,
+          "name": "stindt",
+          "steamid": "76561198213715297",
+          "key": "76561198213715297",
+          "elim_round": 4
+        },
+        {
+          "placement": 12,
+          "name": "Zakusa",
+          "steamid": "76561199229275180",
+          "key": "76561199229275180",
+          "elim_round": 4
+        },
+        {
+          "placement": 13,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 3
+        },
+        {
+          "placement": 14,
+          "name": "lerollman",
+          "steamid": null,
+          "key": "name:lerollman",
+          "elim_round": 3
+        },
+        {
+          "placement": 15,
+          "name": "Mokster",
+          "steamid": "76561197979087520",
+          "key": "76561197979087520",
+          "elim_round": 2
+        },
+        {
+          "placement": 16,
+          "name": "Kilandor",
+          "steamid": "76561197993793009",
+          "key": "76561197993793009",
+          "elim_round": 2
+        },
+        {
+          "placement": 17,
+          "name": "Babup",
+          "steamid": "76561199152921323",
+          "key": "76561199152921323",
+          "elim_round": 2
+        },
+        {
+          "placement": 18,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 2
+        },
+        {
+          "placement": 19,
+          "name": "Kritika",
+          "steamid": null,
+          "key": "name:Kritika",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "sifraJM",
+          "steamid": null,
+          "key": "name:sifraJM",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "Fenntastic",
+          "steamid": null,
+          "key": "name:Fenntastic",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "Nuada963",
+          "steamid": null,
+          "key": "name:Nuada963",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "TripManiac",
+          "steamid": null,
+          "key": "name:TripManiac",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "JJSP",
+          "steamid": null,
+          "key": "name:JJSP",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "jjwoznia",
+          "steamid": "76561197999607109",
+          "key": "76561197999607109",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 14,
+      "date": "2025-07-10",
+      "map": "Double Dip",
+      "mapper": "Tigerplaysonpc",
+      "lobby_size": 19,
+      "sof": 44.73,
+      "winner_name": "ZOMAN",
+      "winner_key": "76561199126724675",
+      "results": [
+        {
+          "placement": 1,
+          "name": "ZOMAN",
+          "steamid": "76561199126724675",
+          "key": "76561199126724675",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "magical",
+          "steamid": "76561198178190613",
+          "key": "76561198178190613",
+          "elim_round": 9
+        },
+        {
+          "placement": 3,
+          "name": "PandaMane",
+          "steamid": "76561198253679880",
+          "key": "76561198253679880",
+          "elim_round": 8
+        },
+        {
+          "placement": 4,
+          "name": "Redstony",
+          "steamid": "76561198430273427",
+          "key": "76561198430273427",
+          "elim_round": 7
+        },
+        {
+          "placement": 5,
+          "name": "pinkpigsociety",
+          "steamid": null,
+          "key": "name:pinkpigsociety",
+          "elim_round": 6
+        },
+        {
+          "placement": 6,
+          "name": "AndMe",
+          "steamid": "76561198067925412",
+          "key": "76561198067925412",
+          "elim_round": 5
+        },
+        {
+          "placement": 7,
+          "name": "Kaktus05",
+          "steamid": null,
+          "key": "name:Kaktus05",
+          "elim_round": 5
+        },
+        {
+          "placement": 8,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": 4
+        },
+        {
+          "placement": 9,
+          "name": "Quickracer10",
+          "steamid": "76561198149636594",
+          "key": "76561198149636594",
+          "elim_round": 4
+        },
+        {
+          "placement": 10,
+          "name": "Croissant",
+          "steamid": null,
+          "key": "name:Croissant",
+          "elim_round": 3
+        },
+        {
+          "placement": 11,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 3
+        },
+        {
+          "placement": 12,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 2
+        },
+        {
+          "placement": 13,
+          "name": "ThatThornInUrSide",
+          "steamid": null,
+          "key": "name:ThatThornInUrSide",
+          "elim_round": 2
+        },
+        {
+          "placement": 14,
+          "name": "Ykario",
+          "steamid": null,
+          "key": "name:Ykario",
+          "elim_round": 1
+        },
+        {
+          "placement": 14,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 1
+        },
+        {
+          "placement": 14,
+          "name": "Kintastic",
+          "steamid": null,
+          "key": "name:Kintastic",
+          "elim_round": 1
+        },
+        {
+          "placement": 14,
+          "name": "GoldStar184",
+          "steamid": null,
+          "key": "name:GoldStar184",
+          "elim_round": 1
+        },
+        {
+          "placement": 14,
+          "name": "hanksterphill",
+          "steamid": null,
+          "key": "name:hanksterphill",
+          "elim_round": 1
+        },
+        {
+          "placement": 14,
+          "name": "Dartho Mas",
+          "steamid": "76561199842604096",
+          "key": "76561199842604096",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 15,
+      "date": "2025-07-17",
+      "map": "Concrete Junction",
+      "mapper": "justMaki",
+      "lobby_size": 34,
+      "sof": 45.73,
+      "winner_name": "Lexer",
+      "winner_key": "76561198851912263",
+      "results": [
+        {
+          "placement": 1,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "JobW",
+          "steamid": "76561198125435428",
+          "key": "76561198125435428",
+          "elim_round": 12
+        },
+        {
+          "placement": 3,
+          "name": "rtube",
+          "steamid": "76561199208124083",
+          "key": "76561199208124083",
+          "elim_round": 11
+        },
+        {
+          "placement": 4,
+          "name": "AndMe",
+          "steamid": "76561198067925412",
+          "key": "76561198067925412",
+          "elim_round": 10
+        },
+        {
+          "placement": 5,
+          "name": "PandaMane",
+          "steamid": "76561198253679880",
+          "key": "76561198253679880",
+          "elim_round": 9
+        },
+        {
+          "placement": 6,
+          "name": "RadAbsRad",
+          "steamid": "76561198840040581",
+          "key": "76561198840040581",
+          "elim_round": 8
+        },
+        {
+          "placement": 7,
+          "name": "Zodiak",
+          "steamid": "76561199292634733",
+          "key": "76561199292634733",
+          "elim_round": 8
+        },
+        {
+          "placement": 8,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 7
+        },
+        {
+          "placement": 9,
+          "name": "Shadynook",
+          "steamid": "76561197980151170",
+          "key": "76561197980151170",
+          "elim_round": 7
+        },
+        {
+          "placement": 10,
+          "name": "Hi Im Yolo",
+          "steamid": "76561198091849339",
+          "key": "76561198091849339",
+          "elim_round": 6
+        },
+        {
+          "placement": 11,
+          "name": "BB_Benji",
+          "steamid": "76561198428660617",
+          "key": "76561198428660617",
+          "elim_round": 6
+        },
+        {
+          "placement": 12,
+          "name": "stindt",
+          "steamid": "76561198213715297",
+          "key": "76561198213715297",
+          "elim_round": 5
+        },
+        {
+          "placement": 12,
+          "name": "daytime",
+          "steamid": "76561198258069505",
+          "key": "76561198258069505",
+          "elim_round": 5
+        },
+        {
+          "placement": 14,
+          "name": "Kniremijer",
+          "steamid": null,
+          "key": "name:Kniremijer",
+          "elim_round": 4
+        },
+        {
+          "placement": 15,
+          "name": "DinoDeano",
+          "steamid": null,
+          "key": "name:DinoDeano",
+          "elim_round": 4
+        },
+        {
+          "placement": 16,
+          "name": "Form",
+          "steamid": "76561198052262761",
+          "key": "76561198052262761",
+          "elim_round": 4
+        },
+        {
+          "placement": 17,
+          "name": "variableferret",
+          "steamid": "76561198157436732",
+          "key": "76561198157436732",
+          "elim_round": 4
+        },
+        {
+          "placement": 18,
+          "name": "brrryy",
+          "steamid": "76561199129302746",
+          "key": "76561199129302746",
+          "elim_round": 3
+        },
+        {
+          "placement": 19,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 3
+        },
+        {
+          "placement": 20,
+          "name": "Hoshu",
+          "steamid": null,
+          "key": "name:Hoshu",
+          "elim_round": 3
+        },
+        {
+          "placement": 21,
+          "name": "Wheelie",
+          "steamid": "76561199218214543",
+          "key": "76561199218214543",
+          "elim_round": 3
+        },
+        {
+          "placement": 22,
+          "name": "Dartho Mas",
+          "steamid": "76561199842604096",
+          "key": "76561199842604096",
+          "elim_round": 2
+        },
+        {
+          "placement": 23,
+          "name": "MCRJAKE17",
+          "steamid": null,
+          "key": "name:MCRJAKE17",
+          "elim_round": 2
+        },
+        {
+          "placement": 23,
+          "name": "Past",
+          "steamid": null,
+          "key": "name:Past",
+          "elim_round": 2
+        },
+        {
+          "placement": 23,
+          "name": "Mikus",
+          "steamid": null,
+          "key": "name:Mikus",
+          "elim_round": 2
+        },
+        {
+          "placement": 26,
+          "name": "Giganten",
+          "steamid": null,
+          "key": "name:Giganten",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "Toast",
+          "steamid": null,
+          "key": "name:Toast",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "StrangeSystem",
+          "steamid": null,
+          "key": "name:StrangeSystem",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "Moody",
+          "steamid": null,
+          "key": "name:Moody",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "Orthros",
+          "steamid": "76561198049803270",
+          "key": "76561198049803270",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "Gruselda1",
+          "steamid": null,
+          "key": "name:Gruselda1",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "Anxietea Fox",
+          "steamid": null,
+          "key": "name:Anxietea Fox",
+          "elim_round": 1
+        },
+        {
+          "placement": 26,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 16,
+      "date": "2025-07-24",
+      "map": "Qube - Unusual Suspect",
+      "mapper": "[CSC]Mokster",
+      "lobby_size": 27,
+      "sof": 54.34,
+      "winner_name": "Pants",
+      "winner_key": "76561199498272376",
+      "results": [
+        {
+          "placement": 1,
+          "name": "Pants",
+          "steamid": "76561199498272376",
+          "key": "76561199498272376",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": 10
+        },
+        {
+          "placement": 3,
+          "name": "rtube",
+          "steamid": "76561199208124083",
+          "key": "76561199208124083",
+          "elim_round": 9
+        },
+        {
+          "placement": 4,
+          "name": "AndMe",
+          "steamid": "76561198067925412",
+          "key": "76561198067925412",
+          "elim_round": 8
+        },
+        {
+          "placement": 5,
+          "name": "Nyaomi",
+          "steamid": null,
+          "key": "name:Nyaomi",
+          "elim_round": 7
+        },
+        {
+          "placement": 6,
+          "name": "Wheelie",
+          "steamid": "76561199218214543",
+          "key": "76561199218214543",
+          "elim_round": 6
+        },
+        {
+          "placement": 7,
+          "name": "Yoshi",
+          "steamid": null,
+          "key": "name:Yoshi",
+          "elim_round": 6
+        },
+        {
+          "placement": 8,
+          "name": "Hi Im Yolo",
+          "steamid": "76561198091849339",
+          "key": "76561198091849339",
+          "elim_round": 5
+        },
+        {
+          "placement": 9,
+          "name": "BB_Benji",
+          "steamid": "76561198428660617",
+          "key": "76561198428660617",
+          "elim_round": 5
+        },
+        {
+          "placement": 10,
+          "name": "Waaksaam",
+          "steamid": "76561198122894680",
+          "key": "76561198122894680",
+          "elim_round": 4
+        },
+        {
+          "placement": 11,
+          "name": "Kodiak",
+          "steamid": "76561198359568548",
+          "key": "76561198359568548",
+          "elim_round": 4
+        },
+        {
+          "placement": 12,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 3
+        },
+        {
+          "placement": 13,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 3
+        },
+        {
+          "placement": 14,
+          "name": "MCRJAKE17",
+          "steamid": null,
+          "key": "name:MCRJAKE17",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "zippo",
+          "steamid": null,
+          "key": "name:zippo",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "Konsolero",
+          "steamid": null,
+          "key": "name:Konsolero",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "Gruselda1",
+          "steamid": null,
+          "key": "name:Gruselda1",
+          "elim_round": 2
+        },
+        {
+          "placement": 18,
+          "name": "LB_happy_face",
+          "steamid": null,
+          "key": "name:LB_happy_face",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "goapunk",
+          "steamid": null,
+          "key": "name:goapunk",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "lost in trees",
+          "steamid": "76561198050905081",
+          "key": "76561198050905081",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "koprol In de kringloop",
+          "steamid": null,
+          "key": "name:koprol In de kringloop",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "CritterZoid",
+          "steamid": null,
+          "key": "name:CritterZoid",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "DragonShadow84290",
+          "steamid": "76561198070406017",
+          "key": "76561198070406017",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "krisu",
+          "steamid": "76561198042873074",
+          "key": "76561198042873074",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "koz",
+          "steamid": "76561198096236961",
+          "key": "76561198096236961",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 17,
+      "date": "2025-07-31",
+      "map": "What TF is a Cuboid",
+      "mapper": "[JH17] MCRJAKE17",
+      "lobby_size": 23,
+      "sof": 60.24,
+      "winner_name": "Zodiak",
+      "winner_key": "76561199292634733",
+      "results": [
+        {
+          "placement": 1,
+          "name": "Zodiak",
+          "steamid": "76561199292634733",
+          "key": "76561199292634733",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "justMaki",
+          "steamid": "76561198050792757",
+          "key": "76561198050792757",
+          "elim_round": 10
+        },
+        {
+          "placement": 3,
+          "name": "R0nanC",
+          "steamid": "76561198259463003",
+          "key": "76561198259463003",
+          "elim_round": 9
+        },
+        {
+          "placement": 4,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": 8
+        },
+        {
+          "placement": 5,
+          "name": "Kodiak",
+          "steamid": "76561198359568548",
+          "key": "76561198359568548",
+          "elim_round": 7
+        },
+        {
+          "placement": 6,
+          "name": "Shadynook",
+          "steamid": "76561197980151170",
+          "key": "76561197980151170",
+          "elim_round": 6
+        },
+        {
+          "placement": 7,
+          "name": "Redstony",
+          "steamid": "76561198430273427",
+          "key": "76561198430273427",
+          "elim_round": 6
+        },
+        {
+          "placement": 8,
+          "name": "Pants",
+          "steamid": "76561199498272376",
+          "key": "76561199498272376",
+          "elim_round": 5
+        },
+        {
+          "placement": 8,
+          "name": "TwoFace",
+          "steamid": "76561198117035460",
+          "key": "76561198117035460",
+          "elim_round": 5
+        },
+        {
+          "placement": 10,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 4
+        },
+        {
+          "placement": 11,
+          "name": "maxie12",
+          "steamid": "76561198046077557",
+          "key": "76561198046077557",
+          "elim_round": 4
+        },
+        {
+          "placement": 12,
+          "name": "K410K3N",
+          "steamid": "76561198083300332",
+          "key": "76561198083300332",
+          "elim_round": 3
+        },
+        {
+          "placement": 13,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 3
+        },
+        {
+          "placement": 14,
+          "name": "Moody",
+          "steamid": null,
+          "key": "name:Moody",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "JakeAdjacent",
+          "steamid": "76561198152852852",
+          "key": "76561198152852852",
+          "elim_round": 2
+        },
+        {
+          "placement": 16,
+          "name": "Mokster",
+          "steamid": "76561197979087520",
+          "key": "76561197979087520",
+          "elim_round": 2
+        },
+        {
+          "placement": 16,
+          "name": "CCrider",
+          "steamid": "76561198824105813",
+          "key": "76561198824105813",
+          "elim_round": 2
+        },
+        {
+          "placement": 18,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "arty_bo",
+          "steamid": null,
+          "key": "name:arty_bo",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "bamse200501",
+          "steamid": null,
+          "key": "name:bamse200501",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "DragonShadow84290",
+          "steamid": "76561198070406017",
+          "key": "76561198070406017",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "Dartho Mas",
+          "steamid": "76561199842604096",
+          "key": "76561199842604096",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "MCRJAKE17",
+          "steamid": null,
+          "key": "name:MCRJAKE17",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 18,
+      "date": "2025-08-07",
+      "map": "bubbler",
+      "mapper": "Joe-bgaming",
+      "lobby_size": 13,
+      "sof": 40.01,
+      "winner_name": "Lexer",
+      "winner_key": "76561198851912263",
+      "results": [
+        {
+          "placement": 1,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Kernkob",
+          "steamid": "76561199024808939",
+          "key": "76561199024808939",
+          "elim_round": 8
+        },
+        {
+          "placement": 3,
+          "name": "JakeAdjacent",
+          "steamid": "76561198152852852",
+          "key": "76561198152852852",
+          "elim_round": 7
+        },
+        {
+          "placement": 4,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 6
+        },
+        {
+          "placement": 5,
+          "name": "Murrl",
+          "steamid": "76561198357638671",
+          "key": "76561198357638671",
+          "elim_round": 5
+        },
+        {
+          "placement": 6,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 4
+        },
+        {
+          "placement": 7,
+          "name": "OLR94",
+          "steamid": "76561198314583077",
+          "key": "76561198314583077",
+          "elim_round": 4
+        },
+        {
+          "placement": 8,
+          "name": "Mokster",
+          "steamid": "76561197979087520",
+          "key": "76561197979087520",
+          "elim_round": 3
+        },
+        {
+          "placement": 9,
+          "name": "redal",
+          "steamid": "76561198181691229",
+          "key": "76561198181691229",
+          "elim_round": 3
+        },
+        {
+          "placement": 10,
+          "name": "frenchteost",
+          "steamid": "76561199807320700",
+          "key": "76561199807320700",
+          "elim_round": 2
+        },
+        {
+          "placement": 10,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 2
+        },
+        {
+          "placement": 12,
+          "name": "Lunar_eclipse",
+          "steamid": null,
+          "key": "name:Lunar_eclipse",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "DragonShadow84290",
+          "steamid": "76561198070406017",
+          "key": "76561198070406017",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 19,
+      "date": "2025-08-14",
+      "map": "Robot Dragon Foundry",
+      "mapper": "DragonShadow84290",
+      "lobby_size": 20,
+      "sof": 60.03,
+      "winner_name": "justMaki",
+      "winner_key": "76561198050792757",
+      "results": [
+        {
+          "placement": 1,
+          "name": "justMaki",
+          "steamid": "76561198050792757",
+          "key": "76561198050792757",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Jakeadjecent",
+          "steamid": null,
+          "key": "name:Jakeadjecent",
+          "elim_round": 10
+        },
+        {
+          "placement": 3,
+          "name": "AndMe",
+          "steamid": "76561198067925412",
+          "key": "76561198067925412",
+          "elim_round": 9
+        },
+        {
+          "placement": 4,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 8
+        },
+        {
+          "placement": 5,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": 7
+        },
+        {
+          "placement": 6,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 6
+        },
+        {
+          "placement": 7,
+          "name": "Mokster",
+          "steamid": "76561197979087520",
+          "key": "76561197979087520",
+          "elim_round": 6
+        },
+        {
+          "placement": 8,
+          "name": "BB_Benji",
+          "steamid": "76561198428660617",
+          "key": "76561198428660617",
+          "elim_round": 5
+        },
+        {
+          "placement": 9,
+          "name": "ZOMAN",
+          "steamid": "76561199126724675",
+          "key": "76561199126724675",
+          "elim_round": 5
+        },
+        {
+          "placement": 10,
+          "name": "Ratz",
+          "steamid": null,
+          "key": "name:Ratz",
+          "elim_round": 4
+        },
+        {
+          "placement": 11,
+          "name": "Kniremijer",
+          "steamid": null,
+          "key": "name:Kniremijer",
+          "elim_round": 4
+        },
+        {
+          "placement": 12,
+          "name": "GermaninGeorgia",
+          "steamid": null,
+          "key": "name:GermaninGeorgia",
+          "elim_round": 3
+        },
+        {
+          "placement": 13,
+          "name": "Kilandor",
+          "steamid": "76561197993793009",
+          "key": "76561197993793009",
+          "elim_round": 3
+        },
+        {
+          "placement": 14,
+          "name": "Hellmet",
+          "steamid": "76561198093160301",
+          "key": "76561198093160301",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "alpa",
+          "steamid": "76561197961191126",
+          "key": "76561197961191126",
+          "elim_round": 2
+        },
+        {
+          "placement": 16,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 2
+        },
+        {
+          "placement": 17,
+          "name": "Wheelie",
+          "steamid": "76561199218214543",
+          "key": "76561199218214543",
+          "elim_round": 2
+        },
+        {
+          "placement": 18,
+          "name": "Lunar_eclipse",
+          "steamid": null,
+          "key": "name:Lunar_eclipse",
+          "elim_round": 1
+        },
+        {
+          "placement": 19,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 1
+        },
+        {
+          "placement": 20,
+          "name": "koz",
+          "steamid": "76561198096236961",
+          "key": "76561198096236961",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 27,
+      "date": "2026-03-12",
+      "map": "Techbox",
+      "mapper": "[CSC] variableferret",
+      "lobby_size": 19,
+      "sof": 63.74,
+      "winner_name": "justMaki",
+      "winner_key": "76561198050792757",
+      "results": [
+        {
+          "placement": 1,
+          "name": "justMaki",
+          "steamid": "76561198050792757",
+          "key": "76561198050792757",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Six",
+          "steamid": "76561198056113005",
+          "key": "76561198056113005",
+          "elim_round": 9
+        },
+        {
+          "placement": 3,
+          "name": "JakeAdjacent",
+          "steamid": "76561198152852852",
+          "key": "76561198152852852",
+          "elim_round": 8
+        },
+        {
+          "placement": 4,
+          "name": "Noxitu",
+          "steamid": "76561198126038296",
+          "key": "76561198126038296",
+          "elim_round": 7
+        },
+        {
+          "placement": 5,
+          "name": "Shadynook",
+          "steamid": "76561197980151170",
+          "key": "76561197980151170",
+          "elim_round": 6
+        },
+        {
+          "placement": 6,
+          "name": "Quickracer10",
+          "steamid": "76561198149636594",
+          "key": "76561198149636594",
+          "elim_round": 6
+        },
+        {
+          "placement": 7,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 5
+        },
+        {
+          "placement": 8,
+          "name": "Redstony",
+          "steamid": "76561198430273427",
+          "key": "76561198430273427",
+          "elim_round": 5
+        },
+        {
+          "placement": 9,
+          "name": "M4rv",
+          "steamid": "76561198082490487",
+          "key": "76561198082490487",
+          "elim_round": 4
+        },
+        {
+          "placement": 9,
+          "name": "AndMe",
+          "steamid": "76561198067925412",
+          "key": "76561198067925412",
+          "elim_round": 4
+        },
+        {
+          "placement": 11,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 3
+        },
+        {
+          "placement": 12,
+          "name": "Hi Im Yolo",
+          "steamid": "76561198091849339",
+          "key": "76561198091849339",
+          "elim_round": 3
+        },
+        {
+          "placement": 13,
+          "name": "R0nanC",
+          "steamid": "76561198259463003",
+          "key": "76561198259463003",
+          "elim_round": 3
+        },
+        {
+          "placement": 14,
+          "name": "Beeeber",
+          "steamid": null,
+          "key": "name:Beeeber",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 2
+        },
+        {
+          "placement": 15,
+          "name": "ShyGirlyRaccoon",
+          "steamid": null,
+          "key": "name:ShyGirlyRaccoon",
+          "elim_round": 2
+        },
+        {
+          "placement": 17,
+          "name": "Gimpel",
+          "steamid": "76561197997929590",
+          "key": "76561197997929590",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "Moudy",
+          "steamid": null,
+          "key": "name:Moudy",
+          "elim_round": 1
+        },
+        {
+          "placement": 18,
+          "name": "K410K3N",
+          "steamid": "76561198083300332",
+          "key": "76561198083300332",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 28,
+      "date": "2026-04-09",
+      "map": "Midnight Oasis",
+      "mapper": "[Fenn]Lilly Fenn",
+      "lobby_size": 21,
+      "sof": 50.46,
+      "winner_name": "Lexer",
+      "winner_key": "76561198851912263",
+      "results": [
+        {
+          "placement": 1,
+          "name": "Lexer",
+          "steamid": "76561198851912263",
+          "key": "76561198851912263",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 7
+        },
+        {
+          "placement": 3,
+          "name": "Stick",
+          "steamid": "76561199590715014",
+          "key": "76561199590715014",
+          "elim_round": 6
+        },
+        {
+          "placement": 4,
+          "name": "Variable Ferret",
+          "steamid": null,
+          "key": "name:Variable Ferret",
+          "elim_round": 5
+        },
+        {
+          "placement": 5,
+          "name": "Gimpel",
+          "steamid": "76561197997929590",
+          "key": "76561197997929590",
+          "elim_round": 4
+        },
+        {
+          "placement": 6,
+          "name": "Barsik",
+          "steamid": null,
+          "key": "name:Barsik",
+          "elim_round": 4
+        },
+        {
+          "placement": 7,
+          "name": "Matic_D",
+          "steamid": "76561198846673916",
+          "key": "76561198846673916",
+          "elim_round": 3
+        },
+        {
+          "placement": 8,
+          "name": "Six",
+          "steamid": "76561198056113005",
+          "key": "76561198056113005",
+          "elim_round": 3
+        },
+        {
+          "placement": 9,
+          "name": "Redstony",
+          "steamid": "76561198430273427",
+          "key": "76561198430273427",
+          "elim_round": 2
+        },
+        {
+          "placement": 9,
+          "name": "PlusMicron",
+          "steamid": "76561199186342067",
+          "key": "76561199186342067",
+          "elim_round": 2
+        },
+        {
+          "placement": 9,
+          "name": "Lunarbunny",
+          "steamid": null,
+          "key": "name:Lunarbunny",
+          "elim_round": 2
+        },
+        {
+          "placement": 12,
+          "name": "soulfly",
+          "steamid": null,
+          "key": "name:soulfly",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "ZeDeliveryGuy",
+          "steamid": null,
+          "key": "name:ZeDeliveryGuy",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "aizpun",
+          "steamid": "76561197972890120",
+          "key": "76561197972890120",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "sailingman",
+          "steamid": "76561198976514611",
+          "key": "76561198976514611",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "DragonShadow84290",
+          "steamid": "76561198070406017",
+          "key": "76561198070406017",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "ShyGirlyRaccoon",
+          "steamid": null,
+          "key": "name:ShyGirlyRaccoon",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "Wheelie",
+          "steamid": "76561199218214543",
+          "key": "76561199218214543",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "lucanakin",
+          "steamid": "76561198102906572",
+          "key": "76561198102906572",
+          "elim_round": 1
+        },
+        {
+          "placement": 12,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 29,
+      "date": "2026-04-23",
+      "map": "Cobalt Core",
+      "mapper": "[CSC]IronDragon111000",
+      "lobby_size": 23,
+      "sof": 45.51,
+      "winner_name": "JakeAdjacent",
+      "winner_key": "76561198152852852",
+      "results": [
+        {
+          "placement": 1,
+          "name": "JakeAdjacent",
+          "steamid": "76561198152852852",
+          "key": "76561198152852852",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Mμ",
+          "steamid": "76561198041494034",
+          "key": "76561198041494034",
+          "elim_round": 9
+        },
+        {
+          "placement": 3,
+          "name": "Redstony",
+          "steamid": "76561198430273427",
+          "key": "76561198430273427",
+          "elim_round": 8
+        },
+        {
+          "placement": 4,
+          "name": "LKat",
+          "steamid": "76561199733601754",
+          "key": "76561199733601754",
+          "elim_round": 7
+        },
+        {
+          "placement": 5,
+          "name": "B_ES",
+          "steamid": "76561199082360966",
+          "key": "76561199082360966",
+          "elim_round": 6
+        },
+        {
+          "placement": 6,
+          "name": "Eclipse135",
+          "steamid": "76561199006040868",
+          "key": "76561199006040868",
+          "elim_round": 5
+        },
+        {
+          "placement": 7,
+          "name": "AndMe",
+          "steamid": "76561198067925412",
+          "key": "76561198067925412",
+          "elim_round": 5
+        },
+        {
+          "placement": 8,
+          "name": "icRS",
+          "steamid": "76561199278221929",
+          "key": "76561199278221929",
+          "elim_round": 4
+        },
+        {
+          "placement": 8,
+          "name": "K410K3N",
+          "steamid": "76561198083300332",
+          "key": "76561198083300332",
+          "elim_round": 4
+        },
+        {
+          "placement": 10,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 3
+        },
+        {
+          "placement": 11,
+          "name": "Victor",
+          "steamid": "76561199380118922",
+          "key": "76561199380118922",
+          "elim_round": 3
+        },
+        {
+          "placement": 12,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 2
+        },
+        {
+          "placement": 12,
+          "name": "lucanakin",
+          "steamid": "76561198102906572",
+          "key": "76561198102906572",
+          "elim_round": 2
+        },
+        {
+          "placement": 12,
+          "name": "FlyBoy",
+          "steamid": "76561198027102099",
+          "key": "76561198027102099",
+          "elim_round": 2
+        },
+        {
+          "placement": 12,
+          "name": "Gimpel",
+          "steamid": "76561197997929590",
+          "key": "76561197997929590",
+          "elim_round": 2
+        },
+        {
+          "placement": 16,
+          "name": "Yksdjcj",
+          "steamid": null,
+          "key": "name:Yksdjcj",
+          "elim_round": 1
+        },
+        {
+          "placement": 16,
+          "name": "Milk Man",
+          "steamid": null,
+          "key": "name:Milk Man",
+          "elim_round": 1
+        },
+        {
+          "placement": 16,
+          "name": "sailingman",
+          "steamid": "76561198976514611",
+          "key": "76561198976514611",
+          "elim_round": 1
+        },
+        {
+          "placement": 16,
+          "name": "Shinikage221",
+          "steamid": null,
+          "key": "name:Shinikage221",
+          "elim_round": 1
+        },
+        {
+          "placement": 16,
+          "name": "BrickEdwards",
+          "steamid": "76561198748988602",
+          "key": "76561198748988602",
+          "elim_round": 1
+        },
+        {
+          "placement": 16,
+          "name": "brrryy",
+          "steamid": "76561199129302746",
+          "key": "76561199129302746",
+          "elim_round": 1
+        },
+        {
+          "placement": 16,
+          "name": "M4DSCOTSM4N",
+          "steamid": "76561198758353504",
+          "key": "76561198758353504",
+          "elim_round": 1
+        },
+        {
+          "placement": 16,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 1
+        }
+      ]
+    },
+    {
+      "event": 30,
+      "date": "2026-05-08",
+      "map": "The Spark",
+      "mapper": "mori_cinis",
+      "lobby_size": 22,
+      "sof": 59.28,
+      "winner_name": "JakeAdjacent",
+      "winner_key": "76561198152852852",
+      "results": [
+        {
+          "placement": 1,
+          "name": "JakeAdjacent",
+          "steamid": "76561198152852852",
+          "key": "76561198152852852",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Redstony",
+          "steamid": "76561198430273427",
+          "key": "76561198430273427",
+          "elim_round": 11
+        },
+        {
+          "placement": 3,
+          "name": "ping",
+          "steamid": "76561199109206781",
+          "key": "76561199109206781",
+          "elim_round": 10
+        },
+        {
+          "placement": 4,
+          "name": "Six",
+          "steamid": "76561198056113005",
+          "key": "76561198056113005",
+          "elim_round": 9
+        },
+        {
+          "placement": 5,
+          "name": "Stick",
+          "steamid": "76561199590715014",
+          "key": "76561199590715014",
+          "elim_round": 8
+        },
+        {
+          "placement": 6,
+          "name": "Gimpel",
+          "steamid": "76561197997929590",
+          "key": "76561197997929590",
+          "elim_round": 7
+        },
+        {
+          "placement": 7,
+          "name": "void",
+          "steamid": "76561199321598731",
+          "key": "76561199321598731",
+          "elim_round": 6
+        },
+        {
+          "placement": 7,
+          "name": "PlusMicron",
+          "steamid": "76561199186342067",
+          "key": "76561199186342067",
+          "elim_round": 6
+        },
+        {
+          "placement": 9,
+          "name": "brrryy",
+          "steamid": "76561199129302746",
+          "key": "76561199129302746",
+          "elim_round": 5
+        },
+        {
+          "placement": 10,
+          "name": "rtube",
+          "steamid": "76561199208124083",
+          "key": "76561199208124083",
+          "elim_round": 5
+        },
+        {
+          "placement": 11,
+          "name": "K410K3N",
+          "steamid": "76561198083300332",
+          "key": "76561198083300332",
+          "elim_round": 4
+        },
+        {
+          "placement": 12,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 4
+        },
+        {
+          "placement": 13,
+          "name": "AndMe",
+          "steamid": "76561198067925412",
+          "key": "76561198067925412",
+          "elim_round": 4
+        },
+        {
+          "placement": 14,
+          "name": "M4DSCOTSM4N",
+          "steamid": "76561198758353504",
+          "key": "76561198758353504",
+          "elim_round": 3
+        },
+        {
+          "placement": 15,
+          "name": "Lilly Fenn",
+          "steamid": null,
+          "key": "name:Lilly Fenn",
+          "elim_round": 3
+        },
+        {
+          "placement": 16,
+          "name": "DragonBlood91D",
+          "steamid": null,
+          "key": "name:DragonBlood91D",
+          "elim_round": 3
+        },
+        {
+          "placement": 17,
+          "name": "Lunarbunny",
+          "steamid": null,
+          "key": "name:Lunarbunny",
+          "elim_round": 2
+        },
+        {
+          "placement": 18,
+          "name": "Shinikage221",
+          "steamid": null,
+          "key": "name:Shinikage221",
+          "elim_round": 2
+        },
+        {
+          "placement": 19,
+          "name": "Mintxerces2116",
+          "steamid": null,
+          "key": "name:Mintxerces2116",
+          "elim_round": 2
+        },
+        {
+          "placement": 20,
+          "name": "NASKarl Marx",
+          "steamid": null,
+          "key": "name:NASKarl Marx",
+          "elim_round": 1
+        },
+        {
+          "placement": 21,
+          "name": "L3mmy",
+          "steamid": null,
+          "key": "name:L3mmy",
+          "elim_round": 1
+        },
+        {
+          "placement": 22,
+          "name": "alpa",
+          "steamid": "76561197961191126",
+          "key": "76561197961191126",
+          "elim_round": 1
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "key": "76561198050792757",
+      "steamid": "76561198050792757",
+      "name": "justMaki",
+      "cups": 5,
+      "wins": 79,
+      "losses": 13,
+      "draws": 7,
+      "avg_pos": 3.6,
+      "gold": 3,
+      "silver": 1,
+      "bronze": 0,
+      "rating": 2004.2,
+      "peak": 2004.2,
+      "history": [
+        {
+          "e": 1,
+          "r": 1356.0,
+          "p": 13,
+          "w": 0,
+          "l": 12,
+          "d": 7
+        },
+        {
+          "e": 11,
+          "r": 1711.2,
+          "p": 1,
+          "w": 21,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1851.8,
+          "p": 2,
+          "w": 21,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1938.2,
+          "p": 1,
+          "w": 19,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 2004.2,
+          "p": 1,
+          "w": 18,
+          "l": 0,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198851912263",
+      "steamid": "76561198851912263",
+      "name": "Lexer",
+      "cups": 11,
+      "wins": 214,
+      "losses": 27,
+      "draws": 0,
+      "avg_pos": 3.5,
+      "gold": 3,
+      "silver": 3,
+      "bronze": 0,
+      "rating": 1966.2,
+      "peak": 1966.2,
+      "history": [
+        {
+          "e": 2,
+          "r": 1790.8,
+          "p": 4,
+          "w": 26,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 11,
+          "r": 1857.8,
+          "p": 2,
+          "w": 20,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 12,
+          "r": 1890.8,
+          "p": 2,
+          "w": 16,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 13,
+          "r": 1792.6,
+          "p": 8,
+          "w": 17,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 14,
+          "r": 1706.8,
+          "p": 8,
+          "w": 11,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1897.1,
+          "p": 1,
+          "w": 33,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1938.4,
+          "p": 2,
+          "w": 25,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1927.3,
+          "p": 4,
+          "w": 19,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 18,
+          "r": 1953.0,
+          "p": 1,
+          "w": 12,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1920.0,
+          "p": 5,
+          "w": 15,
+          "l": 4,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1966.2,
+          "p": 1,
+          "w": 20,
+          "l": 0,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198152852852",
+      "steamid": "76561198152852852",
+      "name": "JakeAdjacent",
+      "cups": 5,
+      "wins": 77,
+      "losses": 18,
+      "draws": 0,
+      "avg_pos": 4.6,
+      "gold": 2,
+      "silver": 0,
+      "bronze": 2,
+      "rating": 1951.0,
+      "peak": 1951.0,
+      "history": [
+        {
+          "e": 17,
+          "r": 1460.4,
+          "p": 15,
+          "w": 8,
+          "l": 14,
+          "d": 0
+        },
+        {
+          "e": 18,
+          "r": 1564.2,
+          "p": 3,
+          "w": 10,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1758.6,
+          "p": 3,
+          "w": 16,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 29,
+          "r": 1870.1,
+          "p": 1,
+          "w": 22,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1951.0,
+          "p": 1,
+          "w": 21,
+          "l": 0,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198896246339",
+      "steamid": "76561198896246339",
+      "name": "RoundNzt",
+      "cups": 2,
+      "wins": 46,
+      "losses": 0,
+      "draws": 0,
+      "avg_pos": 1.0,
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1918.4,
+      "peak": 1918.4,
+      "history": [
+        {
+          "e": 2,
+          "r": 1862.8,
+          "p": 1,
+          "w": 29,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 12,
+          "r": 1918.4,
+          "p": 1,
+          "w": 17,
+          "l": 0,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199292634733",
+      "steamid": "76561199292634733",
+      "name": "Zodiak",
+      "cups": 2,
+      "wins": 49,
+      "losses": 6,
+      "draws": 0,
+      "avg_pos": 4.0,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1897.8,
+      "peak": 1897.8,
+      "history": [
+        {
+          "e": 15,
+          "r": 1759.7,
+          "p": 7,
+          "w": 27,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1897.8,
+          "p": 1,
+          "w": 22,
+          "l": 0,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198125435428",
+      "steamid": "76561198125435428",
+      "name": "JobW",
+      "cups": 2,
+      "wins": 45,
+      "losses": 5,
+      "draws": 0,
+      "avg_pos": 3.5,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "rating": 1872.4,
+      "peak": 1872.4,
+      "history": [
+        {
+          "e": 12,
+          "r": 1617.7,
+          "p": 5,
+          "w": 13,
+          "l": 4,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1872.4,
+          "p": 2,
+          "w": 32,
+          "l": 1,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198001387193",
+      "steamid": "76561198001387193",
+      "name": "Warsnac",
+      "cups": 2,
+      "wins": 48,
+      "losses": 5,
+      "draws": 0,
+      "avg_pos": 3.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "rating": 1844.8,
+      "peak": 1844.8,
+      "history": [
+        {
+          "e": 2,
+          "r": 1814.8,
+          "p": 3,
+          "w": 27,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 13,
+          "r": 1844.8,
+          "p": 4,
+          "w": 21,
+          "l": 3,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199024808939",
+      "steamid": "76561199024808939",
+      "name": "Kernkob",
+      "cups": 2,
+      "wins": 35,
+      "losses": 1,
+      "draws": 0,
+      "avg_pos": 1.5,
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0,
+      "rating": 1841.0,
+      "peak": 1841.0,
+      "history": [
+        {
+          "e": 13,
+          "r": 1816.7,
+          "p": 1,
+          "w": 24,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 18,
+          "r": 1841.0,
+          "p": 2,
+          "w": 11,
+          "l": 1,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198430273427",
+      "steamid": "76561198430273427",
+      "name": "Redstony",
+      "cups": 7,
+      "wins": 111,
+      "losses": 27,
+      "draws": 2,
+      "avg_pos": 4.9,
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1,
+      "rating": 1837.1,
+      "peak": 1837.1,
+      "history": [
+        {
+          "e": 1,
+          "r": 1728.0,
+          "p": 1,
+          "w": 19,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 14,
+          "r": 1765.9,
+          "p": 4,
+          "w": 15,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1756.8,
+          "p": 7,
+          "w": 16,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1728.9,
+          "p": 8,
+          "w": 11,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1638.9,
+          "p": 9,
+          "w": 10,
+          "l": 8,
+          "d": 2
+        },
+        {
+          "e": 29,
+          "r": 1750.0,
+          "p": 3,
+          "w": 20,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1837.1,
+          "p": 2,
+          "w": 20,
+          "l": 1,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199590715014",
+      "steamid": "76561199590715014",
+      "name": "Stick",
+      "cups": 3,
+      "wins": 58,
+      "losses": 12,
+      "draws": 0,
+      "avg_pos": 5.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "rating": 1814.6,
+      "peak": 1814.6,
+      "history": [
+        {
+          "e": 2,
+          "r": 1718.8,
+          "p": 7,
+          "w": 23,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1801.8,
+          "p": 3,
+          "w": 18,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1814.6,
+          "p": 5,
+          "w": 17,
+          "l": 4,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198253679880",
+      "steamid": "76561198253679880",
+      "name": "PandaMane",
+      "cups": 3,
+      "wins": 55,
+      "losses": 13,
+      "draws": 0,
+      "avg_pos": 5.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "rating": 1806.7,
+      "peak": 1806.7,
+      "history": [
+        {
+          "e": 12,
+          "r": 1545.7,
+          "p": 8,
+          "w": 10,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 14,
+          "r": 1706.1,
+          "p": 3,
+          "w": 16,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1806.7,
+          "p": 5,
+          "w": 29,
+          "l": 4,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199366940380",
+      "steamid": "76561199366940380",
+      "name": "Clowny",
+      "cups": 2,
+      "wins": 35,
+      "losses": 8,
+      "draws": 0,
+      "avg_pos": 5.0,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "rating": 1805.2,
+      "peak": 1805.2,
+      "history": [
+        {
+          "e": 1,
+          "r": 1560.0,
+          "p": 8,
+          "w": 12,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 13,
+          "r": 1805.2,
+          "p": 2,
+          "w": 23,
+          "l": 1,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561197980151170",
+      "steamid": "76561197980151170",
+      "name": "Shadynook",
+      "cups": 3,
+      "wins": 56,
+      "losses": 17,
+      "draws": 0,
+      "avg_pos": 6.7,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1800.5,
+      "peak": 1800.5,
+      "history": [
+        {
+          "e": 15,
+          "r": 1711.7,
+          "p": 9,
+          "w": 25,
+          "l": 8,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1756.0,
+          "p": 6,
+          "w": 17,
+          "l": 5,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1800.5,
+          "p": 5,
+          "w": 14,
+          "l": 4,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198056113005",
+      "steamid": "76561198056113005",
+      "name": "Six",
+      "cups": 3,
+      "wins": 48,
+      "losses": 11,
+      "draws": 0,
+      "avg_pos": 4.7,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "rating": 1786.1,
+      "peak": 1786.1,
+      "history": [
+        {
+          "e": 27,
+          "r": 1752.9,
+          "p": 2,
+          "w": 17,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1699.4,
+          "p": 8,
+          "w": 13,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1786.1,
+          "p": 4,
+          "w": 18,
+          "l": 3,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198840040581",
+      "steamid": "76561198840040581",
+      "name": "RadAbsRad",
+      "cups": 2,
+      "wins": 35,
+      "losses": 27,
+      "draws": 0,
+      "avg_pos": 14.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1785.9,
+      "peak": 1785.9,
+      "history": [
+        {
+          "e": 2,
+          "r": 1334.8,
+          "p": 23,
+          "w": 7,
+          "l": 22,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1785.9,
+          "p": 6,
+          "w": 28,
+          "l": 5,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199109206781",
+      "steamid": "76561199109206781",
+      "name": "ping",
+      "cups": 11,
+      "wins": 161,
+      "losses": 72,
+      "draws": 1,
+      "avg_pos": 7.5,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 1,
+      "rating": 1781.8,
+      "peak": 1781.8,
+      "history": [
+        {
+          "e": 12,
+          "r": 1641.7,
+          "p": 4,
+          "w": 14,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 13,
+          "r": 1644.8,
+          "p": 9,
+          "w": 15,
+          "l": 8,
+          "d": 1
+        },
+        {
+          "e": 15,
+          "r": 1728.8,
+          "p": 8,
+          "w": 26,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1590.5,
+          "p": 13,
+          "w": 14,
+          "l": 12,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1540.7,
+          "p": 13,
+          "w": 10,
+          "l": 12,
+          "d": 0
+        },
+        {
+          "e": 18,
+          "r": 1591.9,
+          "p": 4,
+          "w": 9,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1680.7,
+          "p": 6,
+          "w": 14,
+          "l": 5,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1626.6,
+          "p": 11,
+          "w": 8,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1773.2,
+          "p": 2,
+          "w": 19,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 29,
+          "r": 1672.9,
+          "p": 10,
+          "w": 13,
+          "l": 9,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1781.8,
+          "p": 3,
+          "w": 19,
+          "l": 2,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199208124083",
+      "steamid": "76561199208124083",
+      "name": "rtube",
+      "cups": 7,
+      "wins": 123,
+      "losses": 44,
+      "draws": 4,
+      "avg_pos": 7.3,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 2,
+      "rating": 1764.0,
+      "peak": 1895.1,
+      "history": [
+        {
+          "e": 2,
+          "r": 1838.8,
+          "p": 2,
+          "w": 28,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 11,
+          "r": 1658.8,
+          "p": 11,
+          "w": 10,
+          "l": 10,
+          "d": 1
+        },
+        {
+          "e": 12,
+          "r": 1419.7,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 3
+        },
+        {
+          "e": 13,
+          "r": 1654.2,
+          "p": 7,
+          "w": 18,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1849.3,
+          "p": 3,
+          "w": 31,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1895.1,
+          "p": 3,
+          "w": 24,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1764.0,
+          "p": 10,
+          "w": 12,
+          "l": 9,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199126724675",
+      "steamid": "76561199126724675",
+      "name": "ZOMAN",
+      "cups": 3,
+      "wins": 51,
+      "losses": 10,
+      "draws": 0,
+      "avg_pos": 4.3,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "rating": 1751.9,
+      "peak": 1860.6,
+      "history": [
+        {
+          "e": 13,
+          "r": 1768.7,
+          "p": 3,
+          "w": 22,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 14,
+          "r": 1860.6,
+          "p": 1,
+          "w": 18,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1751.9,
+          "p": 9,
+          "w": 11,
+          "l": 8,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199498272376",
+      "steamid": "76561199498272376",
+      "name": "Pants",
+      "cups": 4,
+      "wins": 55,
+      "losses": 29,
+      "draws": 2,
+      "avg_pos": 8.2,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1732.1,
+      "peak": 1788.8,
+      "history": [
+        {
+          "e": 11,
+          "r": 1509.8,
+          "p": 11,
+          "w": 10,
+          "l": 10,
+          "d": 1
+        },
+        {
+          "e": 12,
+          "r": 1430.3,
+          "p": 13,
+          "w": 5,
+          "l": 12,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1788.8,
+          "p": 1,
+          "w": 26,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1732.1,
+          "p": 8,
+          "w": 14,
+          "l": 7,
+          "d": 1
+        }
+      ]
+    },
+    {
+      "key": "76561198359568548",
+      "steamid": "76561198359568548",
+      "name": "Kodiak",
+      "cups": 2,
+      "wins": 34,
+      "losses": 14,
+      "draws": 0,
+      "avg_pos": 8.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1723.8,
+      "peak": 1723.8,
+      "history": [
+        {
+          "e": 16,
+          "r": 1565.8,
+          "p": 11,
+          "w": 16,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1723.8,
+          "p": 5,
+          "w": 18,
+          "l": 4,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "name:Yoshi",
+      "steamid": null,
+      "name": "Yoshi",
+      "cups": 2,
+      "wins": 31,
+      "losses": 12,
+      "draws": 0,
+      "avg_pos": 7.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1679.6,
+      "peak": 1679.6,
+      "history": [
+        {
+          "e": 12,
+          "r": 1569.7,
+          "p": 7,
+          "w": 11,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1679.6,
+          "p": 7,
+          "w": 20,
+          "l": 6,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198149636594",
+      "steamid": "76561198149636594",
+      "name": "Quickracer10",
+      "cups": 3,
+      "wins": 31,
+      "losses": 25,
+      "draws": 1,
+      "avg_pos": 9.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1669.8,
+      "peak": 1669.8,
+      "history": [
+        {
+          "e": 11,
+          "r": 1461.8,
+          "p": 13,
+          "w": 8,
+          "l": 12,
+          "d": 1
+        },
+        {
+          "e": 14,
+          "r": 1527.4,
+          "p": 9,
+          "w": 10,
+          "l": 8,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1669.8,
+          "p": 6,
+          "w": 13,
+          "l": 5,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198259463003",
+      "steamid": "76561198259463003",
+      "name": "R0nanC",
+      "cups": 4,
+      "wins": 68,
+      "losses": 25,
+      "draws": 0,
+      "avg_pos": 7.2,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "rating": 1662.9,
+      "peak": 1854.4,
+      "history": [
+        {
+          "e": 2,
+          "r": 1694.8,
+          "p": 8,
+          "w": 22,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 13,
+          "r": 1769.1,
+          "p": 5,
+          "w": 20,
+          "l": 4,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1854.4,
+          "p": 3,
+          "w": 20,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1662.9,
+          "p": 13,
+          "w": 6,
+          "l": 12,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198428660617",
+      "steamid": "76561198428660617",
+      "name": "BB_Benji",
+      "cups": 3,
+      "wins": 53,
+      "losses": 25,
+      "draws": 0,
+      "avg_pos": 9.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1662.2,
+      "peak": 1663.7,
+      "history": [
+        {
+          "e": 15,
+          "r": 1663.7,
+          "p": 11,
+          "w": 23,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1660.9,
+          "p": 9,
+          "w": 18,
+          "l": 8,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1662.2,
+          "p": 8,
+          "w": 12,
+          "l": 7,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561197997929590",
+      "steamid": "76561197997929590",
+      "name": "Gimpel",
+      "cups": 4,
+      "wins": 42,
+      "losses": 36,
+      "draws": 3,
+      "avg_pos": 10.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1660.1,
+      "peak": 1660.1,
+      "history": [
+        {
+          "e": 27,
+          "r": 1392.9,
+          "p": 17,
+          "w": 2,
+          "l": 16,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1619.2,
+          "p": 5,
+          "w": 16,
+          "l": 4,
+          "d": 0
+        },
+        {
+          "e": 29,
+          "r": 1513.0,
+          "p": 12,
+          "w": 8,
+          "l": 11,
+          "d": 3
+        },
+        {
+          "e": 30,
+          "r": 1660.1,
+          "p": 6,
+          "w": 16,
+          "l": 5,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199186342067",
+      "steamid": "76561199186342067",
+      "name": "PlusMicron",
+      "cups": 2,
+      "wins": 24,
+      "losses": 14,
+      "draws": 3,
+      "avg_pos": 8.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1635.6,
+      "peak": 1635.6,
+      "history": [
+        {
+          "e": 28,
+          "r": 1542.2,
+          "p": 9,
+          "w": 10,
+          "l": 8,
+          "d": 2
+        },
+        {
+          "e": 30,
+          "r": 1635.6,
+          "p": 7,
+          "w": 14,
+          "l": 6,
+          "d": 1
+        }
+      ]
+    },
+    {
+      "key": "76561198258069505",
+      "steamid": "76561198258069505",
+      "name": "daytime",
+      "cups": 3,
+      "wins": 42,
+      "losses": 28,
+      "draws": 1,
+      "avg_pos": 10.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1626.1,
+      "peak": 1626.1,
+      "history": [
+        {
+          "e": 11,
+          "r": 1593.8,
+          "p": 8,
+          "w": 14,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 12,
+          "r": 1518.6,
+          "p": 11,
+          "w": 7,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1626.1,
+          "p": 12,
+          "w": 21,
+          "l": 11,
+          "d": 1
+        }
+      ]
+    },
+    {
+      "key": "76561198213715297",
+      "steamid": "76561198213715297",
+      "name": "stindt",
+      "cups": 2,
+      "wins": 35,
+      "losses": 21,
+      "draws": 1,
+      "avg_pos": 11.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1621.7,
+      "peak": 1621.7,
+      "history": [
+        {
+          "e": 13,
+          "r": 1576.7,
+          "p": 11,
+          "w": 14,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1621.7,
+          "p": 12,
+          "w": 21,
+          "l": 11,
+          "d": 1
+        }
+      ]
+    },
+    {
+      "key": "76561198067925412",
+      "steamid": "76561198067925412",
+      "name": "AndMe",
+      "cups": 8,
+      "wins": 132,
+      "losses": 41,
+      "draws": 1,
+      "avg_pos": 6.1,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 2,
+      "rating": 1612.1,
+      "peak": 1892.6,
+      "history": [
+        {
+          "e": 12,
+          "r": 1665.7,
+          "p": 3,
+          "w": 15,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 14,
+          "r": 1686.4,
+          "p": 6,
+          "w": 13,
+          "l": 5,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1828.0,
+          "p": 4,
+          "w": 30,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1855.6,
+          "p": 4,
+          "w": 23,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1892.6,
+          "p": 3,
+          "w": 17,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1776.2,
+          "p": 9,
+          "w": 9,
+          "l": 8,
+          "d": 1
+        },
+        {
+          "e": 29,
+          "r": 1734.6,
+          "p": 7,
+          "w": 16,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1612.1,
+          "p": 13,
+          "w": 9,
+          "l": 12,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199278221929",
+      "steamid": "76561199278221929",
+      "name": "icRS",
+      "cups": 2,
+      "wins": 30,
+      "losses": 20,
+      "draws": 1,
+      "avg_pos": 11.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1612.0,
+      "peak": 1612.0,
+      "history": [
+        {
+          "e": 2,
+          "r": 1550.8,
+          "p": 14,
+          "w": 16,
+          "l": 13,
+          "d": 0
+        },
+        {
+          "e": 29,
+          "r": 1612.0,
+          "p": 8,
+          "w": 14,
+          "l": 7,
+          "d": 1
+        }
+      ]
+    },
+    {
+      "key": "76561198091849339",
+      "steamid": "76561198091849339",
+      "name": "Hi Im Yolo",
+      "cups": 5,
+      "wins": 79,
+      "losses": 46,
+      "draws": 0,
+      "avg_pos": 10.2,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1602.0,
+      "peak": 1694.2,
+      "history": [
+        {
+          "e": 1,
+          "r": 1656.0,
+          "p": 4,
+          "w": 16,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 2,
+          "r": 1485.0,
+          "p": 17,
+          "w": 13,
+          "l": 16,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1689.0,
+          "p": 10,
+          "w": 24,
+          "l": 9,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1694.2,
+          "p": 8,
+          "w": 19,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1602.0,
+          "p": 12,
+          "w": 7,
+          "l": 11,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198122894680",
+      "steamid": "76561198122894680",
+      "name": "Waaksaam",
+      "cups": 2,
+      "wins": 25,
+      "losses": 18,
+      "draws": 0,
+      "avg_pos": 10.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1589.3,
+      "peak": 1589.3,
+      "history": [
+        {
+          "e": 12,
+          "r": 1497.7,
+          "p": 10,
+          "w": 8,
+          "l": 9,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1589.3,
+          "p": 10,
+          "w": 17,
+          "l": 9,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561197979087520",
+      "steamid": "76561197979087520",
+      "name": "Mokster",
+      "cups": 5,
+      "wins": 46,
+      "losses": 47,
+      "draws": 1,
+      "avg_pos": 10.4,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1572.2,
+      "peak": 1593.7,
+      "history": [
+        {
+          "e": 12,
+          "r": 1593.7,
+          "p": 6,
+          "w": 12,
+          "l": 5,
+          "d": 0
+        },
+        {
+          "e": 13,
+          "r": 1500.6,
+          "p": 15,
+          "w": 10,
+          "l": 14,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1424.6,
+          "p": 16,
+          "w": 6,
+          "l": 15,
+          "d": 1
+        },
+        {
+          "e": 18,
+          "r": 1420.3,
+          "p": 8,
+          "w": 5,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1572.2,
+          "p": 7,
+          "w": 13,
+          "l": 6,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198083300332",
+      "steamid": "76561198083300332",
+      "name": "K410K3N",
+      "cups": 4,
+      "wins": 36,
+      "losses": 45,
+      "draws": 2,
+      "avg_pos": 12.2,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1557.9,
+      "peak": 1558.1,
+      "history": [
+        {
+          "e": 17,
+          "r": 1532.4,
+          "p": 12,
+          "w": 11,
+          "l": 11,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1372.1,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 1
+        },
+        {
+          "e": 29,
+          "r": 1558.1,
+          "p": 8,
+          "w": 14,
+          "l": 7,
+          "d": 1
+        },
+        {
+          "e": 30,
+          "r": 1557.9,
+          "p": 11,
+          "w": 11,
+          "l": 10,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "name:Kniremijer",
+      "steamid": null,
+      "name": "Kniremijer",
+      "cups": 2,
+      "wins": 29,
+      "losses": 23,
+      "draws": 0,
+      "avg_pos": 12.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1556.7,
+      "peak": 1591.7,
+      "history": [
+        {
+          "e": 15,
+          "r": 1591.7,
+          "p": 14,
+          "w": 20,
+          "l": 13,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1556.7,
+          "p": 11,
+          "w": 9,
+          "l": 10,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198181691229",
+      "steamid": "76561198181691229",
+      "name": "redal",
+      "cups": 3,
+      "wins": 40,
+      "losses": 21,
+      "draws": 1,
+      "avg_pos": 8.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1550.5,
+      "peak": 1742.8,
+      "history": [
+        {
+          "e": 2,
+          "r": 1742.8,
+          "p": 6,
+          "w": 24,
+          "l": 5,
+          "d": 0
+        },
+        {
+          "e": 11,
+          "r": 1651.8,
+          "p": 9,
+          "w": 12,
+          "l": 8,
+          "d": 1
+        },
+        {
+          "e": 18,
+          "r": 1550.5,
+          "p": 9,
+          "w": 4,
+          "l": 8,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199807320700",
+      "steamid": "76561199807320700",
+      "name": "frenchteost",
+      "cups": 2,
+      "wins": 19,
+      "losses": 13,
+      "draws": 1,
+      "avg_pos": 7.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1524.5,
+      "peak": 1665.8,
+      "history": [
+        {
+          "e": 11,
+          "r": 1665.8,
+          "p": 5,
+          "w": 17,
+          "l": 4,
+          "d": 0
+        },
+        {
+          "e": 18,
+          "r": 1524.5,
+          "p": 10,
+          "w": 2,
+          "l": 9,
+          "d": 1
+        }
+      ]
+    },
+    {
+      "key": "76561199129302746",
+      "steamid": "76561199129302746",
+      "name": "brrryy",
+      "cups": 3,
+      "wins": 29,
+      "losses": 40,
+      "draws": 7,
+      "avg_pos": 14.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1510.6,
+      "peak": 1510.6,
+      "history": [
+        {
+          "e": 15,
+          "r": 1495.7,
+          "p": 18,
+          "w": 16,
+          "l": 17,
+          "d": 0
+        },
+        {
+          "e": 29,
+          "r": 1332.6,
+          "p": 16,
+          "w": 0,
+          "l": 15,
+          "d": 7
+        },
+        {
+          "e": 30,
+          "r": 1510.6,
+          "p": 9,
+          "w": 13,
+          "l": 8,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198364662649",
+      "steamid": "76561198364662649",
+      "name": "Heart-TGV",
+      "cups": 2,
+      "wins": 25,
+      "losses": 23,
+      "draws": 0,
+      "avg_pos": 12.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1455.2,
+      "peak": 1584.0,
+      "history": [
+        {
+          "e": 1,
+          "r": 1584.0,
+          "p": 7,
+          "w": 13,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 2,
+          "r": 1455.2,
+          "p": 18,
+          "w": 12,
+          "l": 17,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198102906572",
+      "steamid": "76561198102906572",
+      "name": "lucanakin",
+      "cups": 2,
+      "wins": 8,
+      "losses": 22,
+      "draws": 12,
+      "avg_pos": 12.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1443.2,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 28,
+          "r": 1386.2,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        },
+        {
+          "e": 29,
+          "r": 1443.2,
+          "p": 12,
+          "w": 8,
+          "l": 11,
+          "d": 3
+        }
+      ]
+    },
+    {
+      "key": "76561198027169155",
+      "steamid": "76561198027169155",
+      "name": "DeiRex",
+      "cups": 13,
+      "wins": 151,
+      "losses": 125,
+      "draws": 16,
+      "avg_pos": 10.6,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "rating": 1428.4,
+      "peak": 1711.0,
+      "history": [
+        {
+          "e": 1,
+          "r": 1704.0,
+          "p": 2,
+          "w": 18,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 2,
+          "r": 1589.7,
+          "p": 13,
+          "w": 17,
+          "l": 12,
+          "d": 0
+        },
+        {
+          "e": 11,
+          "r": 1647.2,
+          "p": 7,
+          "w": 15,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 13,
+          "r": 1562.3,
+          "p": 13,
+          "w": 12,
+          "l": 12,
+          "d": 0
+        },
+        {
+          "e": 14,
+          "r": 1520.9,
+          "p": 11,
+          "w": 8,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1466.7,
+          "p": 19,
+          "w": 15,
+          "l": 18,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1531.5,
+          "p": 12,
+          "w": 15,
+          "l": 11,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1591.1,
+          "p": 10,
+          "w": 13,
+          "l": 9,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1704.2,
+          "p": 4,
+          "w": 16,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1711.0,
+          "p": 7,
+          "w": 12,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1492.8,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        },
+        {
+          "e": 29,
+          "r": 1348.2,
+          "p": 16,
+          "w": 0,
+          "l": 15,
+          "d": 7
+        },
+        {
+          "e": 30,
+          "r": 1428.4,
+          "p": 12,
+          "w": 10,
+          "l": 11,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561197993793009",
+      "steamid": "76561197993793009",
+      "name": "Kilandor",
+      "cups": 3,
+      "wins": 24,
+      "losses": 48,
+      "draws": 0,
+      "avg_pos": 17.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1427.9,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 2,
+          "r": 1358.8,
+          "p": 22,
+          "w": 8,
+          "l": 21,
+          "d": 0
+        },
+        {
+          "e": 13,
+          "r": 1419.8,
+          "p": 16,
+          "w": 9,
+          "l": 15,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1427.9,
+          "p": 13,
+          "w": 7,
+          "l": 12,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "name:Lilly Fenn",
+      "steamid": null,
+      "name": "Lilly Fenn",
+      "cups": 14,
+      "wins": 66,
+      "losses": 186,
+      "draws": 40,
+      "avg_pos": 14.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1411.7,
+      "peak": 1639.2,
+      "history": [
+        {
+          "e": 1,
+          "r": 1356.0,
+          "p": 13,
+          "w": 0,
+          "l": 12,
+          "d": 7
+        },
+        {
+          "e": 11,
+          "r": 1639.2,
+          "p": 4,
+          "w": 18,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 12,
+          "r": 1409.5,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 3
+        },
+        {
+          "e": 13,
+          "r": 1387.4,
+          "p": 18,
+          "w": 7,
+          "l": 17,
+          "d": 0
+        },
+        {
+          "e": 14,
+          "r": 1422.0,
+          "p": 12,
+          "w": 7,
+          "l": 11,
+          "d": 0
+        },
+        {
+          "e": 15,
+          "r": 1222.1,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 8
+        },
+        {
+          "e": 16,
+          "r": 1206.2,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 9
+        },
+        {
+          "e": 17,
+          "r": 1250.6,
+          "p": 18,
+          "w": 5,
+          "l": 17,
+          "d": 0
+        },
+        {
+          "e": 18,
+          "r": 1345.4,
+          "p": 6,
+          "w": 7,
+          "l": 5,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1318.9,
+          "p": 16,
+          "w": 4,
+          "l": 15,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1332.7,
+          "p": 15,
+          "w": 3,
+          "l": 14,
+          "d": 1
+        },
+        {
+          "e": 28,
+          "r": 1310.9,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        },
+        {
+          "e": 29,
+          "r": 1407.8,
+          "p": 12,
+          "w": 8,
+          "l": 11,
+          "d": 3
+        },
+        {
+          "e": 30,
+          "r": 1411.7,
+          "p": 15,
+          "w": 7,
+          "l": 14,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "name:Lunarbunny",
+      "steamid": null,
+      "name": "Lunarbunny",
+      "cups": 2,
+      "wins": 15,
+      "losses": 24,
+      "draws": 2,
+      "avg_pos": 13.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1407.6,
+      "peak": 1542.2,
+      "history": [
+        {
+          "e": 28,
+          "r": 1542.2,
+          "p": 9,
+          "w": 10,
+          "l": 8,
+          "d": 2
+        },
+        {
+          "e": 30,
+          "r": 1407.6,
+          "p": 17,
+          "w": 5,
+          "l": 16,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198758353504",
+      "steamid": "76561198758353504",
+      "name": "M4DSCOTSM4N",
+      "cups": 2,
+      "wins": 8,
+      "losses": 28,
+      "draws": 7,
+      "avg_pos": 15.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1391.2,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 29,
+          "r": 1333.8,
+          "p": 16,
+          "w": 0,
+          "l": 15,
+          "d": 7
+        },
+        {
+          "e": 30,
+          "r": 1391.2,
+          "p": 14,
+          "w": 8,
+          "l": 13,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561197972890120",
+      "steamid": "76561197972890120",
+      "name": "aizpun",
+      "cups": 2,
+      "wins": 8,
+      "losses": 23,
+      "draws": 10,
+      "avg_pos": 12.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1371.5,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 11,
+          "r": 1461.8,
+          "p": 13,
+          "w": 8,
+          "l": 12,
+          "d": 1
+        },
+        {
+          "e": 28,
+          "r": 1371.5,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        }
+      ]
+    },
+    {
+      "key": "76561199218214543",
+      "steamid": "76561199218214543",
+      "name": "Wheelie",
+      "cups": 6,
+      "wins": 54,
+      "losses": 79,
+      "draws": 13,
+      "avg_pos": 14.2,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "rating": 1367.3,
+      "peak": 1680.0,
+      "history": [
+        {
+          "e": 1,
+          "r": 1680.0,
+          "p": 3,
+          "w": 17,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 2,
+          "r": 1224.8,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 4
+        },
+        {
+          "e": 15,
+          "r": 1400.8,
+          "p": 21,
+          "w": 13,
+          "l": 20,
+          "d": 0
+        },
+        {
+          "e": 16,
+          "r": 1661.2,
+          "p": 6,
+          "w": 21,
+          "l": 5,
+          "d": 0
+        },
+        {
+          "e": 19,
+          "r": 1446.3,
+          "p": 17,
+          "w": 3,
+          "l": 16,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1367.3,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        }
+      ]
+    },
+    {
+      "key": "name:ShyGirlyRaccoon",
+      "steamid": null,
+      "name": "ShyGirlyRaccoon",
+      "cups": 2,
+      "wins": 3,
+      "losses": 25,
+      "draws": 10,
+      "avg_pos": 13.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1358.4,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 27,
+          "r": 1428.9,
+          "p": 15,
+          "w": 3,
+          "l": 14,
+          "d": 1
+        },
+        {
+          "e": 28,
+          "r": 1358.4,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        }
+      ]
+    },
+    {
+      "key": "name:Gruselda1",
+      "steamid": null,
+      "name": "Gruselda1",
+      "cups": 2,
+      "wins": 10,
+      "losses": 39,
+      "draws": 10,
+      "avg_pos": 20.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1352.0,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 15,
+          "r": 1207.7,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 8
+        },
+        {
+          "e": 16,
+          "r": 1352.0,
+          "p": 15,
+          "w": 10,
+          "l": 14,
+          "d": 2
+        }
+      ]
+    },
+    {
+      "key": "name:Moody",
+      "steamid": null,
+      "name": "Moody",
+      "cups": 2,
+      "wins": 9,
+      "losses": 38,
+      "draws": 8,
+      "avg_pos": 20.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1345.8,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 15,
+          "r": 1207.7,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 8
+        },
+        {
+          "e": 17,
+          "r": 1345.8,
+          "p": 14,
+          "w": 9,
+          "l": 13,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198314583077",
+      "steamid": "76561198314583077",
+      "name": "OLR94",
+      "cups": 4,
+      "wins": 21,
+      "losses": 53,
+      "draws": 3,
+      "avg_pos": 14.2,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1319.6,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 1,
+          "r": 1488.0,
+          "p": 11,
+          "w": 9,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 2,
+          "r": 1310.9,
+          "p": 24,
+          "w": 6,
+          "l": 23,
+          "d": 0
+        },
+        {
+          "e": 12,
+          "r": 1244.3,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 3
+        },
+        {
+          "e": 18,
+          "r": 1319.6,
+          "p": 7,
+          "w": 6,
+          "l": 6,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "name:MCRJAKE17",
+      "steamid": null,
+      "name": "MCRJAKE17",
+      "cups": 3,
+      "wins": 22,
+      "losses": 53,
+      "draws": 6,
+      "avg_pos": 18.7,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1299.7,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 15,
+          "r": 1351.7,
+          "p": 23,
+          "w": 9,
+          "l": 22,
+          "d": 2
+        },
+        {
+          "e": 16,
+          "r": 1455.2,
+          "p": 14,
+          "w": 13,
+          "l": 13,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1299.7,
+          "p": 19,
+          "w": 0,
+          "l": 18,
+          "d": 4
+        }
+      ]
+    },
+    {
+      "key": "76561198976514611",
+      "steamid": "76561198976514611",
+      "name": "sailingman",
+      "cups": 2,
+      "wins": 0,
+      "losses": 26,
+      "draws": 16,
+      "avg_pos": 14.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1299.2,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 28,
+          "r": 1386.2,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        },
+        {
+          "e": 29,
+          "r": 1299.2,
+          "p": 16,
+          "w": 0,
+          "l": 15,
+          "d": 7
+        }
+      ]
+    },
+    {
+      "key": "name:Shinikage221",
+      "steamid": null,
+      "name": "Shinikage221",
+      "cups": 3,
+      "wins": 10,
+      "losses": 43,
+      "draws": 7,
+      "avg_pos": 15.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1288.1,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 12,
+          "r": 1449.7,
+          "p": 12,
+          "w": 6,
+          "l": 11,
+          "d": 0
+        },
+        {
+          "e": 29,
+          "r": 1319.4,
+          "p": 16,
+          "w": 0,
+          "l": 15,
+          "d": 7
+        },
+        {
+          "e": 30,
+          "r": 1288.1,
+          "p": 18,
+          "w": 4,
+          "l": 17,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561199842604096",
+      "steamid": "76561199842604096",
+      "name": "Dartho Mas",
+      "cups": 3,
+      "wins": 12,
+      "losses": 52,
+      "draws": 9,
+      "avg_pos": 18.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1279.4,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 14,
+          "r": 1363.4,
+          "p": 14,
+          "w": 0,
+          "l": 13,
+          "d": 5
+        },
+        {
+          "e": 15,
+          "r": 1404.3,
+          "p": 22,
+          "w": 12,
+          "l": 21,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1279.4,
+          "p": 19,
+          "w": 0,
+          "l": 18,
+          "d": 4
+        }
+      ]
+    },
+    {
+      "key": "name:Lunar_eclipse",
+      "steamid": null,
+      "name": "Lunar_eclipse",
+      "cups": 2,
+      "wins": 2,
+      "losses": 28,
+      "draws": 1,
+      "avg_pos": 15.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1278.8,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 18,
+          "r": 1362.7,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 1
+        },
+        {
+          "e": 19,
+          "r": 1278.8,
+          "p": 18,
+          "w": 2,
+          "l": 17,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198042873074",
+      "steamid": "76561198042873074",
+      "name": "krisu",
+      "cups": 2,
+      "wins": 0,
+      "losses": 31,
+      "draws": 16,
+      "avg_pos": 16.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1248.2,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 11,
+          "r": 1341.8,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 7
+        },
+        {
+          "e": 16,
+          "r": 1248.2,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 9
+        }
+      ]
+    },
+    {
+      "key": "76561197961191126",
+      "steamid": "76561197961191126",
+      "name": "alpa",
+      "cups": 2,
+      "wins": 5,
+      "losses": 35,
+      "draws": 0,
+      "avg_pos": 18.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1237.5,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 19,
+          "r": 1418.1,
+          "p": 15,
+          "w": 5,
+          "l": 14,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1237.5,
+          "p": 22,
+          "w": 0,
+          "l": 21,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "76561198070406017",
+      "steamid": "76561198070406017",
+      "name": "DragonShadow84290",
+      "cups": 5,
+      "wins": 0,
+      "losses": 69,
+      "draws": 30,
+      "avg_pos": 14.8,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1211.7,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 1,
+          "r": 1356.0,
+          "p": 13,
+          "w": 0,
+          "l": 12,
+          "d": 7
+        },
+        {
+          "e": 16,
+          "r": 1252.5,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 9
+        },
+        {
+          "e": 17,
+          "r": 1204.7,
+          "p": 19,
+          "w": 0,
+          "l": 18,
+          "d": 4
+        },
+        {
+          "e": 18,
+          "r": 1158.5,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 1
+        },
+        {
+          "e": 28,
+          "r": 1211.7,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        }
+      ]
+    },
+    {
+      "key": "76561198076209946",
+      "steamid": "76561198076209946",
+      "name": "[ZET]maskeddog",
+      "cups": 2,
+      "wins": 0,
+      "losses": 39,
+      "draws": 7,
+      "avg_pos": 20.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1184.1,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 2,
+          "r": 1214.8,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 4
+        },
+        {
+          "e": 12,
+          "r": 1184.1,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 3
+        }
+      ]
+    },
+    {
+      "key": "76561198096236961",
+      "steamid": "76561198096236961",
+      "name": "koz",
+      "cups": 3,
+      "wins": 0,
+      "losses": 61,
+      "draws": 13,
+      "avg_pos": 21.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1132.9,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 2,
+          "r": 1214.8,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 4
+        },
+        {
+          "e": 16,
+          "r": 1199.3,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 9
+        },
+        {
+          "e": 19,
+          "r": 1132.9,
+          "p": 20,
+          "w": 0,
+          "l": 19,
+          "d": 0
+        }
+      ]
+    },
+    {
+      "key": "name:L3mmy",
+      "steamid": null,
+      "name": "L3mmy",
+      "cups": 10,
+      "wins": 8,
+      "losses": 166,
+      "draws": 41,
+      "avg_pos": 17.6,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "rating": 1132.1,
+      "peak": 1500,
+      "history": [
+        {
+          "e": 1,
+          "r": 1356.0,
+          "p": 13,
+          "w": 0,
+          "l": 12,
+          "d": 7
+        },
+        {
+          "e": 2,
+          "r": 1206.5,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 4
+        },
+        {
+          "e": 11,
+          "r": 1215.3,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 7
+        },
+        {
+          "e": 12,
+          "r": 1244.4,
+          "p": 14,
+          "w": 4,
+          "l": 13,
+          "d": 0
+        },
+        {
+          "e": 14,
+          "r": 1234.6,
+          "p": 14,
+          "w": 0,
+          "l": 13,
+          "d": 5
+        },
+        {
+          "e": 15,
+          "r": 1187.8,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 8
+        },
+        {
+          "e": 16,
+          "r": 1188.1,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 9
+        },
+        {
+          "e": 18,
+          "r": 1200.6,
+          "p": 10,
+          "w": 2,
+          "l": 9,
+          "d": 1
+        },
+        {
+          "e": 19,
+          "r": 1163.9,
+          "p": 19,
+          "w": 1,
+          "l": 18,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1132.1,
+          "p": 21,
+          "w": 1,
+          "l": 20,
+          "d": 0
+        }
+      ]
+    }
+  ],
+  "ranking": {
+    "scheme": "ffa_elo_v1",
+    "params": {
+      "starting": 1500,
+      "k_prov": 24,
+      "k_base": 12,
+      "prov_cups": 5,
+      "min_cups_display": 2,
+      "sof_floor": 1297.9,
+      "sof_peak": 1987.38
+    },
+    "first_event": 1,
+    "last_event": 30,
+    "total_pairs": 3778,
+    "players": [
+      {
+        "key": "76561198050792757",
+        "name": "justMaki",
+        "rating": 2004.2,
+        "peak": 2004.2,
+        "cups": 5,
+        "pairs": 99,
+        "wins": 79,
+        "losses": 13,
+        "draws": 7,
+        "avg_pos": 3.6,
+        "gold": 3,
+        "silver": 1,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1356.0,
+            "p": 13,
+            "w": 0,
+            "l": 12,
+            "d": 7
+          },
+          {
+            "e": 11,
+            "r": 1711.2,
+            "p": 1,
+            "w": 21,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1851.8,
+            "p": 2,
+            "w": 21,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1938.2,
+            "p": 1,
+            "w": 19,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 2004.2,
+            "p": 1,
+            "w": 18,
+            "l": 0,
+            "d": 0
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "key": "76561198851912263",
+        "name": "Lexer",
+        "rating": 1966.2,
+        "peak": 1966.2,
+        "cups": 11,
+        "pairs": 241,
+        "wins": 214,
+        "losses": 27,
+        "draws": 0,
+        "avg_pos": 3.5,
+        "gold": 3,
+        "silver": 3,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1790.8,
+            "p": 4,
+            "w": 26,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 11,
+            "r": 1857.8,
+            "p": 2,
+            "w": 20,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 12,
+            "r": 1890.8,
+            "p": 2,
+            "w": 16,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 13,
+            "r": 1792.6,
+            "p": 8,
+            "w": 17,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 14,
+            "r": 1706.8,
+            "p": 8,
+            "w": 11,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1897.1,
+            "p": 1,
+            "w": 33,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1938.4,
+            "p": 2,
+            "w": 25,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1927.3,
+            "p": 4,
+            "w": 19,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 18,
+            "r": 1953.0,
+            "p": 1,
+            "w": 12,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1920.0,
+            "p": 5,
+            "w": 15,
+            "l": 4,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1966.2,
+            "p": 1,
+            "w": 20,
+            "l": 0,
+            "d": 0
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "key": "76561198152852852",
+        "name": "JakeAdjacent",
+        "rating": 1951.0,
+        "peak": 1951.0,
+        "cups": 5,
+        "pairs": 95,
+        "wins": 77,
+        "losses": 18,
+        "draws": 0,
+        "avg_pos": 4.6,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 2,
+        "history": [
+          {
+            "e": 17,
+            "r": 1460.4,
+            "p": 15,
+            "w": 8,
+            "l": 14,
+            "d": 0
+          },
+          {
+            "e": 18,
+            "r": 1564.2,
+            "p": 3,
+            "w": 10,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1758.6,
+            "p": 3,
+            "w": 16,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 29,
+            "r": 1870.1,
+            "p": 1,
+            "w": 22,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1951.0,
+            "p": 1,
+            "w": 21,
+            "l": 0,
+            "d": 0
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "key": "76561198896246339",
+        "name": "RoundNzt",
+        "rating": 1918.4,
+        "peak": 1918.4,
+        "cups": 2,
+        "pairs": 46,
+        "wins": 46,
+        "losses": 0,
+        "draws": 0,
+        "avg_pos": 1.0,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1862.8,
+            "p": 1,
+            "w": 29,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 12,
+            "r": 1918.4,
+            "p": 1,
+            "w": 17,
+            "l": 0,
+            "d": 0
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "key": "76561199292634733",
+        "name": "Zodiak",
+        "rating": 1897.8,
+        "peak": 1897.8,
+        "cups": 2,
+        "pairs": 55,
+        "wins": 49,
+        "losses": 6,
+        "draws": 0,
+        "avg_pos": 4.0,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1759.7,
+            "p": 7,
+            "w": 27,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1897.8,
+            "p": 1,
+            "w": 22,
+            "l": 0,
+            "d": 0
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "key": "76561198125435428",
+        "name": "JobW",
+        "rating": 1872.4,
+        "peak": 1872.4,
+        "cups": 2,
+        "pairs": 50,
+        "wins": 45,
+        "losses": 5,
+        "draws": 0,
+        "avg_pos": 3.5,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 12,
+            "r": 1617.7,
+            "p": 5,
+            "w": 13,
+            "l": 4,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1872.4,
+            "p": 2,
+            "w": 32,
+            "l": 1,
+            "d": 0
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "key": "76561198001387193",
+        "name": "Warsnac",
+        "rating": 1844.8,
+        "peak": 1844.8,
+        "cups": 2,
+        "pairs": 53,
+        "wins": 48,
+        "losses": 5,
+        "draws": 0,
+        "avg_pos": 3.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 2,
+            "r": 1814.8,
+            "p": 3,
+            "w": 27,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 13,
+            "r": 1844.8,
+            "p": 4,
+            "w": 21,
+            "l": 3,
+            "d": 0
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "key": "76561199024808939",
+        "name": "Kernkob",
+        "rating": 1841.0,
+        "peak": 1841.0,
+        "cups": 2,
+        "pairs": 36,
+        "wins": 35,
+        "losses": 1,
+        "draws": 0,
+        "avg_pos": 1.5,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 13,
+            "r": 1816.7,
+            "p": 1,
+            "w": 24,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 18,
+            "r": 1841.0,
+            "p": 2,
+            "w": 11,
+            "l": 1,
+            "d": 0
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "key": "76561198430273427",
+        "name": "Redstony",
+        "rating": 1837.1,
+        "peak": 1837.1,
+        "cups": 7,
+        "pairs": 140,
+        "wins": 111,
+        "losses": 27,
+        "draws": 2,
+        "avg_pos": 4.9,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 1,
+            "r": 1728.0,
+            "p": 1,
+            "w": 19,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 14,
+            "r": 1765.9,
+            "p": 4,
+            "w": 15,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1756.8,
+            "p": 7,
+            "w": 16,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1728.9,
+            "p": 8,
+            "w": 11,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1638.9,
+            "p": 9,
+            "w": 10,
+            "l": 8,
+            "d": 2
+          },
+          {
+            "e": 29,
+            "r": 1750.0,
+            "p": 3,
+            "w": 20,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1837.1,
+            "p": 2,
+            "w": 20,
+            "l": 1,
+            "d": 0
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "key": "76561199590715014",
+        "name": "Stick",
+        "rating": 1814.6,
+        "peak": 1814.6,
+        "cups": 3,
+        "pairs": 70,
+        "wins": 58,
+        "losses": 12,
+        "draws": 0,
+        "avg_pos": 5.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 2,
+            "r": 1718.8,
+            "p": 7,
+            "w": 23,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1801.8,
+            "p": 3,
+            "w": 18,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1814.6,
+            "p": 5,
+            "w": 17,
+            "l": 4,
+            "d": 0
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "key": "76561198253679880",
+        "name": "PandaMane",
+        "rating": 1806.7,
+        "peak": 1806.7,
+        "cups": 3,
+        "pairs": 68,
+        "wins": 55,
+        "losses": 13,
+        "draws": 0,
+        "avg_pos": 5.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 12,
+            "r": 1545.7,
+            "p": 8,
+            "w": 10,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 14,
+            "r": 1706.1,
+            "p": 3,
+            "w": 16,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1806.7,
+            "p": 5,
+            "w": 29,
+            "l": 4,
+            "d": 0
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "key": "76561199366940380",
+        "name": "Clowny",
+        "rating": 1805.2,
+        "peak": 1805.2,
+        "cups": 2,
+        "pairs": 43,
+        "wins": 35,
+        "losses": 8,
+        "draws": 0,
+        "avg_pos": 5.0,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1560.0,
+            "p": 8,
+            "w": 12,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 13,
+            "r": 1805.2,
+            "p": 2,
+            "w": 23,
+            "l": 1,
+            "d": 0
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "key": "76561197980151170",
+        "name": "Shadynook",
+        "rating": 1800.5,
+        "peak": 1800.5,
+        "cups": 3,
+        "pairs": 73,
+        "wins": 56,
+        "losses": 17,
+        "draws": 0,
+        "avg_pos": 6.7,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1711.7,
+            "p": 9,
+            "w": 25,
+            "l": 8,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1756.0,
+            "p": 6,
+            "w": 17,
+            "l": 5,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1800.5,
+            "p": 5,
+            "w": 14,
+            "l": 4,
+            "d": 0
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "key": "76561198056113005",
+        "name": "Six",
+        "rating": 1786.1,
+        "peak": 1786.1,
+        "cups": 3,
+        "pairs": 59,
+        "wins": 48,
+        "losses": 11,
+        "draws": 0,
+        "avg_pos": 4.7,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 27,
+            "r": 1752.9,
+            "p": 2,
+            "w": 17,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1699.4,
+            "p": 8,
+            "w": 13,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1786.1,
+            "p": 4,
+            "w": 18,
+            "l": 3,
+            "d": 0
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "key": "76561198840040581",
+        "name": "RadAbsRad",
+        "rating": 1785.9,
+        "peak": 1785.9,
+        "cups": 2,
+        "pairs": 62,
+        "wins": 35,
+        "losses": 27,
+        "draws": 0,
+        "avg_pos": 14.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1334.8,
+            "p": 23,
+            "w": 7,
+            "l": 22,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1785.9,
+            "p": 6,
+            "w": 28,
+            "l": 5,
+            "d": 0
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "key": "76561199109206781",
+        "name": "ping",
+        "rating": 1781.8,
+        "peak": 1781.8,
+        "cups": 11,
+        "pairs": 234,
+        "wins": 161,
+        "losses": 72,
+        "draws": 1,
+        "avg_pos": 7.5,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 12,
+            "r": 1641.7,
+            "p": 4,
+            "w": 14,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 13,
+            "r": 1644.8,
+            "p": 9,
+            "w": 15,
+            "l": 8,
+            "d": 1
+          },
+          {
+            "e": 15,
+            "r": 1728.8,
+            "p": 8,
+            "w": 26,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1590.5,
+            "p": 13,
+            "w": 14,
+            "l": 12,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1540.7,
+            "p": 13,
+            "w": 10,
+            "l": 12,
+            "d": 0
+          },
+          {
+            "e": 18,
+            "r": 1591.9,
+            "p": 4,
+            "w": 9,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1680.7,
+            "p": 6,
+            "w": 14,
+            "l": 5,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1626.6,
+            "p": 11,
+            "w": 8,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1773.2,
+            "p": 2,
+            "w": 19,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 29,
+            "r": 1672.9,
+            "p": 10,
+            "w": 13,
+            "l": 9,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1781.8,
+            "p": 3,
+            "w": 19,
+            "l": 2,
+            "d": 0
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "key": "76561199208124083",
+        "name": "rtube",
+        "rating": 1764.0,
+        "peak": 1895.1,
+        "cups": 7,
+        "pairs": 171,
+        "wins": 123,
+        "losses": 44,
+        "draws": 4,
+        "avg_pos": 7.3,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2,
+        "history": [
+          {
+            "e": 2,
+            "r": 1838.8,
+            "p": 2,
+            "w": 28,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 11,
+            "r": 1658.8,
+            "p": 11,
+            "w": 10,
+            "l": 10,
+            "d": 1
+          },
+          {
+            "e": 12,
+            "r": 1419.7,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 3
+          },
+          {
+            "e": 13,
+            "r": 1654.2,
+            "p": 7,
+            "w": 18,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1849.3,
+            "p": 3,
+            "w": 31,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1895.1,
+            "p": 3,
+            "w": 24,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1764.0,
+            "p": 10,
+            "w": 12,
+            "l": 9,
+            "d": 0
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "key": "76561199126724675",
+        "name": "ZOMAN",
+        "rating": 1751.9,
+        "peak": 1860.6,
+        "cups": 3,
+        "pairs": 61,
+        "wins": 51,
+        "losses": 10,
+        "draws": 0,
+        "avg_pos": 4.3,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 13,
+            "r": 1768.7,
+            "p": 3,
+            "w": 22,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 14,
+            "r": 1860.6,
+            "p": 1,
+            "w": 18,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1751.9,
+            "p": 9,
+            "w": 11,
+            "l": 8,
+            "d": 0
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "key": "76561199498272376",
+        "name": "Pants",
+        "rating": 1732.1,
+        "peak": 1788.8,
+        "cups": 4,
+        "pairs": 86,
+        "wins": 55,
+        "losses": 29,
+        "draws": 2,
+        "avg_pos": 8.2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 11,
+            "r": 1509.8,
+            "p": 11,
+            "w": 10,
+            "l": 10,
+            "d": 1
+          },
+          {
+            "e": 12,
+            "r": 1430.3,
+            "p": 13,
+            "w": 5,
+            "l": 12,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1788.8,
+            "p": 1,
+            "w": 26,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1732.1,
+            "p": 8,
+            "w": 14,
+            "l": 7,
+            "d": 1
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "key": "76561198359568548",
+        "name": "Kodiak",
+        "rating": 1723.8,
+        "peak": 1723.8,
+        "cups": 2,
+        "pairs": 48,
+        "wins": 34,
+        "losses": 14,
+        "draws": 0,
+        "avg_pos": 8.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 16,
+            "r": 1565.8,
+            "p": 11,
+            "w": 16,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1723.8,
+            "p": 5,
+            "w": 18,
+            "l": 4,
+            "d": 0
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "key": "name:Yoshi",
+        "name": "Yoshi",
+        "rating": 1679.6,
+        "peak": 1679.6,
+        "cups": 2,
+        "pairs": 43,
+        "wins": 31,
+        "losses": 12,
+        "draws": 0,
+        "avg_pos": 7.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 12,
+            "r": 1569.7,
+            "p": 7,
+            "w": 11,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1679.6,
+            "p": 7,
+            "w": 20,
+            "l": 6,
+            "d": 0
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "key": "76561198149636594",
+        "name": "Quickracer10",
+        "rating": 1669.8,
+        "peak": 1669.8,
+        "cups": 3,
+        "pairs": 57,
+        "wins": 31,
+        "losses": 25,
+        "draws": 1,
+        "avg_pos": 9.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 11,
+            "r": 1461.8,
+            "p": 13,
+            "w": 8,
+            "l": 12,
+            "d": 1
+          },
+          {
+            "e": 14,
+            "r": 1527.4,
+            "p": 9,
+            "w": 10,
+            "l": 8,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1669.8,
+            "p": 6,
+            "w": 13,
+            "l": 5,
+            "d": 0
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "key": "76561198259463003",
+        "name": "R0nanC",
+        "rating": 1662.9,
+        "peak": 1854.4,
+        "cups": 4,
+        "pairs": 93,
+        "wins": 68,
+        "losses": 25,
+        "draws": 0,
+        "avg_pos": 7.2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 2,
+            "r": 1694.8,
+            "p": 8,
+            "w": 22,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 13,
+            "r": 1769.1,
+            "p": 5,
+            "w": 20,
+            "l": 4,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1854.4,
+            "p": 3,
+            "w": 20,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1662.9,
+            "p": 13,
+            "w": 6,
+            "l": 12,
+            "d": 0
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "key": "76561198428660617",
+        "name": "BB_Benji",
+        "rating": 1662.2,
+        "peak": 1663.7,
+        "cups": 3,
+        "pairs": 78,
+        "wins": 53,
+        "losses": 25,
+        "draws": 0,
+        "avg_pos": 9.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1663.7,
+            "p": 11,
+            "w": 23,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1660.9,
+            "p": 9,
+            "w": 18,
+            "l": 8,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1662.2,
+            "p": 8,
+            "w": 12,
+            "l": 7,
+            "d": 0
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "key": "76561197997929590",
+        "name": "Gimpel",
+        "rating": 1660.1,
+        "peak": 1660.1,
+        "cups": 4,
+        "pairs": 81,
+        "wins": 42,
+        "losses": 36,
+        "draws": 3,
+        "avg_pos": 10.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 27,
+            "r": 1392.9,
+            "p": 17,
+            "w": 2,
+            "l": 16,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1619.2,
+            "p": 5,
+            "w": 16,
+            "l": 4,
+            "d": 0
+          },
+          {
+            "e": 29,
+            "r": 1513.0,
+            "p": 12,
+            "w": 8,
+            "l": 11,
+            "d": 3
+          },
+          {
+            "e": 30,
+            "r": 1660.1,
+            "p": 6,
+            "w": 16,
+            "l": 5,
+            "d": 0
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "key": "76561199186342067",
+        "name": "PlusMicron",
+        "rating": 1635.6,
+        "peak": 1635.6,
+        "cups": 2,
+        "pairs": 41,
+        "wins": 24,
+        "losses": 14,
+        "draws": 3,
+        "avg_pos": 8.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 28,
+            "r": 1542.2,
+            "p": 9,
+            "w": 10,
+            "l": 8,
+            "d": 2
+          },
+          {
+            "e": 30,
+            "r": 1635.6,
+            "p": 7,
+            "w": 14,
+            "l": 6,
+            "d": 1
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "key": "76561198258069505",
+        "name": "daytime",
+        "rating": 1626.1,
+        "peak": 1626.1,
+        "cups": 3,
+        "pairs": 71,
+        "wins": 42,
+        "losses": 28,
+        "draws": 1,
+        "avg_pos": 10.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 11,
+            "r": 1593.8,
+            "p": 8,
+            "w": 14,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 12,
+            "r": 1518.6,
+            "p": 11,
+            "w": 7,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1626.1,
+            "p": 12,
+            "w": 21,
+            "l": 11,
+            "d": 1
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "key": "76561198213715297",
+        "name": "stindt",
+        "rating": 1621.7,
+        "peak": 1621.7,
+        "cups": 2,
+        "pairs": 57,
+        "wins": 35,
+        "losses": 21,
+        "draws": 1,
+        "avg_pos": 11.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 13,
+            "r": 1576.7,
+            "p": 11,
+            "w": 14,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1621.7,
+            "p": 12,
+            "w": 21,
+            "l": 11,
+            "d": 1
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "key": "76561198067925412",
+        "name": "AndMe",
+        "rating": 1612.1,
+        "peak": 1892.6,
+        "cups": 8,
+        "pairs": 174,
+        "wins": 132,
+        "losses": 41,
+        "draws": 1,
+        "avg_pos": 6.1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2,
+        "history": [
+          {
+            "e": 12,
+            "r": 1665.7,
+            "p": 3,
+            "w": 15,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 14,
+            "r": 1686.4,
+            "p": 6,
+            "w": 13,
+            "l": 5,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1828.0,
+            "p": 4,
+            "w": 30,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1855.6,
+            "p": 4,
+            "w": 23,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1892.6,
+            "p": 3,
+            "w": 17,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1776.2,
+            "p": 9,
+            "w": 9,
+            "l": 8,
+            "d": 1
+          },
+          {
+            "e": 29,
+            "r": 1734.6,
+            "p": 7,
+            "w": 16,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1612.1,
+            "p": 13,
+            "w": 9,
+            "l": 12,
+            "d": 0
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "key": "76561199278221929",
+        "name": "icRS",
+        "rating": 1612.0,
+        "peak": 1612.0,
+        "cups": 2,
+        "pairs": 51,
+        "wins": 30,
+        "losses": 20,
+        "draws": 1,
+        "avg_pos": 11.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1550.8,
+            "p": 14,
+            "w": 16,
+            "l": 13,
+            "d": 0
+          },
+          {
+            "e": 29,
+            "r": 1612.0,
+            "p": 8,
+            "w": 14,
+            "l": 7,
+            "d": 1
+          }
+        ],
+        "rank": 30
+      },
+      {
+        "key": "76561198091849339",
+        "name": "Hi Im Yolo",
+        "rating": 1602.0,
+        "peak": 1694.2,
+        "cups": 5,
+        "pairs": 125,
+        "wins": 79,
+        "losses": 46,
+        "draws": 0,
+        "avg_pos": 10.2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1656.0,
+            "p": 4,
+            "w": 16,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 2,
+            "r": 1485.0,
+            "p": 17,
+            "w": 13,
+            "l": 16,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1689.0,
+            "p": 10,
+            "w": 24,
+            "l": 9,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1694.2,
+            "p": 8,
+            "w": 19,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1602.0,
+            "p": 12,
+            "w": 7,
+            "l": 11,
+            "d": 0
+          }
+        ],
+        "rank": 31
+      },
+      {
+        "key": "76561198122894680",
+        "name": "Waaksaam",
+        "rating": 1589.3,
+        "peak": 1589.3,
+        "cups": 2,
+        "pairs": 43,
+        "wins": 25,
+        "losses": 18,
+        "draws": 0,
+        "avg_pos": 10.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 12,
+            "r": 1497.7,
+            "p": 10,
+            "w": 8,
+            "l": 9,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1589.3,
+            "p": 10,
+            "w": 17,
+            "l": 9,
+            "d": 0
+          }
+        ],
+        "rank": 32
+      },
+      {
+        "key": "76561197979087520",
+        "name": "Mokster",
+        "rating": 1572.2,
+        "peak": 1593.7,
+        "cups": 5,
+        "pairs": 94,
+        "wins": 46,
+        "losses": 47,
+        "draws": 1,
+        "avg_pos": 10.4,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 12,
+            "r": 1593.7,
+            "p": 6,
+            "w": 12,
+            "l": 5,
+            "d": 0
+          },
+          {
+            "e": 13,
+            "r": 1500.6,
+            "p": 15,
+            "w": 10,
+            "l": 14,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1424.6,
+            "p": 16,
+            "w": 6,
+            "l": 15,
+            "d": 1
+          },
+          {
+            "e": 18,
+            "r": 1420.3,
+            "p": 8,
+            "w": 5,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1572.2,
+            "p": 7,
+            "w": 13,
+            "l": 6,
+            "d": 0
+          }
+        ],
+        "rank": 33
+      },
+      {
+        "key": "76561198083300332",
+        "name": "K410K3N",
+        "rating": 1557.9,
+        "peak": 1558.1,
+        "cups": 4,
+        "pairs": 83,
+        "wins": 36,
+        "losses": 45,
+        "draws": 2,
+        "avg_pos": 12.2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 17,
+            "r": 1532.4,
+            "p": 12,
+            "w": 11,
+            "l": 11,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1372.1,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 1
+          },
+          {
+            "e": 29,
+            "r": 1558.1,
+            "p": 8,
+            "w": 14,
+            "l": 7,
+            "d": 1
+          },
+          {
+            "e": 30,
+            "r": 1557.9,
+            "p": 11,
+            "w": 11,
+            "l": 10,
+            "d": 0
+          }
+        ],
+        "rank": 34
+      },
+      {
+        "key": "name:Kniremijer",
+        "name": "Kniremijer",
+        "rating": 1556.7,
+        "peak": 1591.7,
+        "cups": 2,
+        "pairs": 52,
+        "wins": 29,
+        "losses": 23,
+        "draws": 0,
+        "avg_pos": 12.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1591.7,
+            "p": 14,
+            "w": 20,
+            "l": 13,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1556.7,
+            "p": 11,
+            "w": 9,
+            "l": 10,
+            "d": 0
+          }
+        ],
+        "rank": 35
+      },
+      {
+        "key": "76561198181691229",
+        "name": "redal",
+        "rating": 1550.5,
+        "peak": 1742.8,
+        "cups": 3,
+        "pairs": 62,
+        "wins": 40,
+        "losses": 21,
+        "draws": 1,
+        "avg_pos": 8.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1742.8,
+            "p": 6,
+            "w": 24,
+            "l": 5,
+            "d": 0
+          },
+          {
+            "e": 11,
+            "r": 1651.8,
+            "p": 9,
+            "w": 12,
+            "l": 8,
+            "d": 1
+          },
+          {
+            "e": 18,
+            "r": 1550.5,
+            "p": 9,
+            "w": 4,
+            "l": 8,
+            "d": 0
+          }
+        ],
+        "rank": 36
+      },
+      {
+        "key": "76561199807320700",
+        "name": "frenchteost",
+        "rating": 1524.5,
+        "peak": 1665.8,
+        "cups": 2,
+        "pairs": 33,
+        "wins": 19,
+        "losses": 13,
+        "draws": 1,
+        "avg_pos": 7.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 11,
+            "r": 1665.8,
+            "p": 5,
+            "w": 17,
+            "l": 4,
+            "d": 0
+          },
+          {
+            "e": 18,
+            "r": 1524.5,
+            "p": 10,
+            "w": 2,
+            "l": 9,
+            "d": 1
+          }
+        ],
+        "rank": 37
+      },
+      {
+        "key": "76561199129302746",
+        "name": "brrryy",
+        "rating": 1510.6,
+        "peak": 1510.6,
+        "cups": 3,
+        "pairs": 76,
+        "wins": 29,
+        "losses": 40,
+        "draws": 7,
+        "avg_pos": 14.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1495.7,
+            "p": 18,
+            "w": 16,
+            "l": 17,
+            "d": 0
+          },
+          {
+            "e": 29,
+            "r": 1332.6,
+            "p": 16,
+            "w": 0,
+            "l": 15,
+            "d": 7
+          },
+          {
+            "e": 30,
+            "r": 1510.6,
+            "p": 9,
+            "w": 13,
+            "l": 8,
+            "d": 0
+          }
+        ],
+        "rank": 38
+      },
+      {
+        "key": "76561198364662649",
+        "name": "Heart-TGV",
+        "rating": 1455.2,
+        "peak": 1584.0,
+        "cups": 2,
+        "pairs": 48,
+        "wins": 25,
+        "losses": 23,
+        "draws": 0,
+        "avg_pos": 12.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1584.0,
+            "p": 7,
+            "w": 13,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 2,
+            "r": 1455.2,
+            "p": 18,
+            "w": 12,
+            "l": 17,
+            "d": 0
+          }
+        ],
+        "rank": 39
+      },
+      {
+        "key": "76561198102906572",
+        "name": "lucanakin",
+        "rating": 1443.2,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 42,
+        "wins": 8,
+        "losses": 22,
+        "draws": 12,
+        "avg_pos": 12.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 28,
+            "r": 1386.2,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          },
+          {
+            "e": 29,
+            "r": 1443.2,
+            "p": 12,
+            "w": 8,
+            "l": 11,
+            "d": 3
+          }
+        ],
+        "rank": 40
+      },
+      {
+        "key": "76561198027169155",
+        "name": "DeiRex",
+        "rating": 1428.4,
+        "peak": 1711.0,
+        "cups": 13,
+        "pairs": 292,
+        "wins": 151,
+        "losses": 125,
+        "draws": 16,
+        "avg_pos": 10.6,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1704.0,
+            "p": 2,
+            "w": 18,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 2,
+            "r": 1589.7,
+            "p": 13,
+            "w": 17,
+            "l": 12,
+            "d": 0
+          },
+          {
+            "e": 11,
+            "r": 1647.2,
+            "p": 7,
+            "w": 15,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 13,
+            "r": 1562.3,
+            "p": 13,
+            "w": 12,
+            "l": 12,
+            "d": 0
+          },
+          {
+            "e": 14,
+            "r": 1520.9,
+            "p": 11,
+            "w": 8,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1466.7,
+            "p": 19,
+            "w": 15,
+            "l": 18,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1531.5,
+            "p": 12,
+            "w": 15,
+            "l": 11,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1591.1,
+            "p": 10,
+            "w": 13,
+            "l": 9,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1704.2,
+            "p": 4,
+            "w": 16,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1711.0,
+            "p": 7,
+            "w": 12,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1492.8,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          },
+          {
+            "e": 29,
+            "r": 1348.2,
+            "p": 16,
+            "w": 0,
+            "l": 15,
+            "d": 7
+          },
+          {
+            "e": 30,
+            "r": 1428.4,
+            "p": 12,
+            "w": 10,
+            "l": 11,
+            "d": 0
+          }
+        ],
+        "rank": 41
+      },
+      {
+        "key": "76561197993793009",
+        "name": "Kilandor",
+        "rating": 1427.9,
+        "peak": 1500,
+        "cups": 3,
+        "pairs": 72,
+        "wins": 24,
+        "losses": 48,
+        "draws": 0,
+        "avg_pos": 17.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1358.8,
+            "p": 22,
+            "w": 8,
+            "l": 21,
+            "d": 0
+          },
+          {
+            "e": 13,
+            "r": 1419.8,
+            "p": 16,
+            "w": 9,
+            "l": 15,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1427.9,
+            "p": 13,
+            "w": 7,
+            "l": 12,
+            "d": 0
+          }
+        ],
+        "rank": 42
+      },
+      {
+        "key": "name:Lilly Fenn",
+        "name": "Lilly Fenn",
+        "rating": 1411.7,
+        "peak": 1639.2,
+        "cups": 14,
+        "pairs": 292,
+        "wins": 66,
+        "losses": 186,
+        "draws": 40,
+        "avg_pos": 14.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1356.0,
+            "p": 13,
+            "w": 0,
+            "l": 12,
+            "d": 7
+          },
+          {
+            "e": 11,
+            "r": 1639.2,
+            "p": 4,
+            "w": 18,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 12,
+            "r": 1409.5,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 3
+          },
+          {
+            "e": 13,
+            "r": 1387.4,
+            "p": 18,
+            "w": 7,
+            "l": 17,
+            "d": 0
+          },
+          {
+            "e": 14,
+            "r": 1422.0,
+            "p": 12,
+            "w": 7,
+            "l": 11,
+            "d": 0
+          },
+          {
+            "e": 15,
+            "r": 1222.1,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 8
+          },
+          {
+            "e": 16,
+            "r": 1206.2,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 9
+          },
+          {
+            "e": 17,
+            "r": 1250.6,
+            "p": 18,
+            "w": 5,
+            "l": 17,
+            "d": 0
+          },
+          {
+            "e": 18,
+            "r": 1345.4,
+            "p": 6,
+            "w": 7,
+            "l": 5,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1318.9,
+            "p": 16,
+            "w": 4,
+            "l": 15,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1332.7,
+            "p": 15,
+            "w": 3,
+            "l": 14,
+            "d": 1
+          },
+          {
+            "e": 28,
+            "r": 1310.9,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          },
+          {
+            "e": 29,
+            "r": 1407.8,
+            "p": 12,
+            "w": 8,
+            "l": 11,
+            "d": 3
+          },
+          {
+            "e": 30,
+            "r": 1411.7,
+            "p": 15,
+            "w": 7,
+            "l": 14,
+            "d": 0
+          }
+        ],
+        "rank": 43
+      },
+      {
+        "key": "name:Lunarbunny",
+        "name": "Lunarbunny",
+        "rating": 1407.6,
+        "peak": 1542.2,
+        "cups": 2,
+        "pairs": 41,
+        "wins": 15,
+        "losses": 24,
+        "draws": 2,
+        "avg_pos": 13.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 28,
+            "r": 1542.2,
+            "p": 9,
+            "w": 10,
+            "l": 8,
+            "d": 2
+          },
+          {
+            "e": 30,
+            "r": 1407.6,
+            "p": 17,
+            "w": 5,
+            "l": 16,
+            "d": 0
+          }
+        ],
+        "rank": 44
+      },
+      {
+        "key": "76561198758353504",
+        "name": "M4DSCOTSM4N",
+        "rating": 1391.2,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 43,
+        "wins": 8,
+        "losses": 28,
+        "draws": 7,
+        "avg_pos": 15.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 29,
+            "r": 1333.8,
+            "p": 16,
+            "w": 0,
+            "l": 15,
+            "d": 7
+          },
+          {
+            "e": 30,
+            "r": 1391.2,
+            "p": 14,
+            "w": 8,
+            "l": 13,
+            "d": 0
+          }
+        ],
+        "rank": 45
+      },
+      {
+        "key": "76561197972890120",
+        "name": "aizpun",
+        "rating": 1371.5,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 41,
+        "wins": 8,
+        "losses": 23,
+        "draws": 10,
+        "avg_pos": 12.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 11,
+            "r": 1461.8,
+            "p": 13,
+            "w": 8,
+            "l": 12,
+            "d": 1
+          },
+          {
+            "e": 28,
+            "r": 1371.5,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          }
+        ],
+        "rank": 46
+      },
+      {
+        "key": "76561199218214543",
+        "name": "Wheelie",
+        "rating": 1367.3,
+        "peak": 1680.0,
+        "cups": 6,
+        "pairs": 146,
+        "wins": 54,
+        "losses": 79,
+        "draws": 13,
+        "avg_pos": 14.2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 1,
+            "r": 1680.0,
+            "p": 3,
+            "w": 17,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 2,
+            "r": 1224.8,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 4
+          },
+          {
+            "e": 15,
+            "r": 1400.8,
+            "p": 21,
+            "w": 13,
+            "l": 20,
+            "d": 0
+          },
+          {
+            "e": 16,
+            "r": 1661.2,
+            "p": 6,
+            "w": 21,
+            "l": 5,
+            "d": 0
+          },
+          {
+            "e": 19,
+            "r": 1446.3,
+            "p": 17,
+            "w": 3,
+            "l": 16,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1367.3,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          }
+        ],
+        "rank": 47
+      },
+      {
+        "key": "name:ShyGirlyRaccoon",
+        "name": "ShyGirlyRaccoon",
+        "rating": 1358.4,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 38,
+        "wins": 3,
+        "losses": 25,
+        "draws": 10,
+        "avg_pos": 13.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 27,
+            "r": 1428.9,
+            "p": 15,
+            "w": 3,
+            "l": 14,
+            "d": 1
+          },
+          {
+            "e": 28,
+            "r": 1358.4,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          }
+        ],
+        "rank": 48
+      },
+      {
+        "key": "name:Gruselda1",
+        "name": "Gruselda1",
+        "rating": 1352.0,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 59,
+        "wins": 10,
+        "losses": 39,
+        "draws": 10,
+        "avg_pos": 20.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1207.7,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 8
+          },
+          {
+            "e": 16,
+            "r": 1352.0,
+            "p": 15,
+            "w": 10,
+            "l": 14,
+            "d": 2
+          }
+        ],
+        "rank": 49
+      },
+      {
+        "key": "name:Moody",
+        "name": "Moody",
+        "rating": 1345.8,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 55,
+        "wins": 9,
+        "losses": 38,
+        "draws": 8,
+        "avg_pos": 20.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1207.7,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 8
+          },
+          {
+            "e": 17,
+            "r": 1345.8,
+            "p": 14,
+            "w": 9,
+            "l": 13,
+            "d": 0
+          }
+        ],
+        "rank": 50
+      },
+      {
+        "key": "76561198314583077",
+        "name": "OLR94",
+        "rating": 1319.6,
+        "peak": 1500,
+        "cups": 4,
+        "pairs": 77,
+        "wins": 21,
+        "losses": 53,
+        "draws": 3,
+        "avg_pos": 14.2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1488.0,
+            "p": 11,
+            "w": 9,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 2,
+            "r": 1310.9,
+            "p": 24,
+            "w": 6,
+            "l": 23,
+            "d": 0
+          },
+          {
+            "e": 12,
+            "r": 1244.3,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 3
+          },
+          {
+            "e": 18,
+            "r": 1319.6,
+            "p": 7,
+            "w": 6,
+            "l": 6,
+            "d": 0
+          }
+        ],
+        "rank": 51
+      },
+      {
+        "key": "name:MCRJAKE17",
+        "name": "MCRJAKE17",
+        "rating": 1299.7,
+        "peak": 1500,
+        "cups": 3,
+        "pairs": 81,
+        "wins": 22,
+        "losses": 53,
+        "draws": 6,
+        "avg_pos": 18.7,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1351.7,
+            "p": 23,
+            "w": 9,
+            "l": 22,
+            "d": 2
+          },
+          {
+            "e": 16,
+            "r": 1455.2,
+            "p": 14,
+            "w": 13,
+            "l": 13,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1299.7,
+            "p": 19,
+            "w": 0,
+            "l": 18,
+            "d": 4
+          }
+        ],
+        "rank": 52
+      },
+      {
+        "key": "76561198976514611",
+        "name": "sailingman",
+        "rating": 1299.2,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 42,
+        "wins": 0,
+        "losses": 26,
+        "draws": 16,
+        "avg_pos": 14.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 28,
+            "r": 1386.2,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          },
+          {
+            "e": 29,
+            "r": 1299.2,
+            "p": 16,
+            "w": 0,
+            "l": 15,
+            "d": 7
+          }
+        ],
+        "rank": 53
+      },
+      {
+        "key": "name:Shinikage221",
+        "name": "Shinikage221",
+        "rating": 1288.1,
+        "peak": 1500,
+        "cups": 3,
+        "pairs": 60,
+        "wins": 10,
+        "losses": 43,
+        "draws": 7,
+        "avg_pos": 15.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 12,
+            "r": 1449.7,
+            "p": 12,
+            "w": 6,
+            "l": 11,
+            "d": 0
+          },
+          {
+            "e": 29,
+            "r": 1319.4,
+            "p": 16,
+            "w": 0,
+            "l": 15,
+            "d": 7
+          },
+          {
+            "e": 30,
+            "r": 1288.1,
+            "p": 18,
+            "w": 4,
+            "l": 17,
+            "d": 0
+          }
+        ],
+        "rank": 54
+      },
+      {
+        "key": "76561199842604096",
+        "name": "Dartho Mas",
+        "rating": 1279.4,
+        "peak": 1500,
+        "cups": 3,
+        "pairs": 73,
+        "wins": 12,
+        "losses": 52,
+        "draws": 9,
+        "avg_pos": 18.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 14,
+            "r": 1363.4,
+            "p": 14,
+            "w": 0,
+            "l": 13,
+            "d": 5
+          },
+          {
+            "e": 15,
+            "r": 1404.3,
+            "p": 22,
+            "w": 12,
+            "l": 21,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1279.4,
+            "p": 19,
+            "w": 0,
+            "l": 18,
+            "d": 4
+          }
+        ],
+        "rank": 55
+      },
+      {
+        "key": "name:Lunar_eclipse",
+        "name": "Lunar_eclipse",
+        "rating": 1278.8,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 31,
+        "wins": 2,
+        "losses": 28,
+        "draws": 1,
+        "avg_pos": 15.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 18,
+            "r": 1362.7,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 1
+          },
+          {
+            "e": 19,
+            "r": 1278.8,
+            "p": 18,
+            "w": 2,
+            "l": 17,
+            "d": 0
+          }
+        ],
+        "rank": 56
+      },
+      {
+        "key": "76561198042873074",
+        "name": "krisu",
+        "rating": 1248.2,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 47,
+        "wins": 0,
+        "losses": 31,
+        "draws": 16,
+        "avg_pos": 16.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 11,
+            "r": 1341.8,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 7
+          },
+          {
+            "e": 16,
+            "r": 1248.2,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 9
+          }
+        ],
+        "rank": 57
+      },
+      {
+        "key": "76561197961191126",
+        "name": "alpa",
+        "rating": 1237.5,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 40,
+        "wins": 5,
+        "losses": 35,
+        "draws": 0,
+        "avg_pos": 18.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 19,
+            "r": 1418.1,
+            "p": 15,
+            "w": 5,
+            "l": 14,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1237.5,
+            "p": 22,
+            "w": 0,
+            "l": 21,
+            "d": 0
+          }
+        ],
+        "rank": 58
+      },
+      {
+        "key": "76561198070406017",
+        "name": "DragonShadow84290",
+        "rating": 1211.7,
+        "peak": 1500,
+        "cups": 5,
+        "pairs": 99,
+        "wins": 0,
+        "losses": 69,
+        "draws": 30,
+        "avg_pos": 14.8,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1356.0,
+            "p": 13,
+            "w": 0,
+            "l": 12,
+            "d": 7
+          },
+          {
+            "e": 16,
+            "r": 1252.5,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 9
+          },
+          {
+            "e": 17,
+            "r": 1204.7,
+            "p": 19,
+            "w": 0,
+            "l": 18,
+            "d": 4
+          },
+          {
+            "e": 18,
+            "r": 1158.5,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 1
+          },
+          {
+            "e": 28,
+            "r": 1211.7,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          }
+        ],
+        "rank": 59
+      },
+      {
+        "key": "76561198076209946",
+        "name": "[ZET]maskeddog",
+        "rating": 1184.1,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 46,
+        "wins": 0,
+        "losses": 39,
+        "draws": 7,
+        "avg_pos": 20.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1214.8,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 4
+          },
+          {
+            "e": 12,
+            "r": 1184.1,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 3
+          }
+        ],
+        "rank": 60
+      },
+      {
+        "key": "76561198096236961",
+        "name": "koz",
+        "rating": 1132.9,
+        "peak": 1500,
+        "cups": 3,
+        "pairs": 74,
+        "wins": 0,
+        "losses": 61,
+        "draws": 13,
+        "avg_pos": 21.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1214.8,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 4
+          },
+          {
+            "e": 16,
+            "r": 1199.3,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 9
+          },
+          {
+            "e": 19,
+            "r": 1132.9,
+            "p": 20,
+            "w": 0,
+            "l": 19,
+            "d": 0
+          }
+        ],
+        "rank": 61
+      },
+      {
+        "key": "name:L3mmy",
+        "name": "L3mmy",
+        "rating": 1132.1,
+        "peak": 1500,
+        "cups": 10,
+        "pairs": 215,
+        "wins": 8,
+        "losses": 166,
+        "draws": 41,
+        "avg_pos": 17.6,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1356.0,
+            "p": 13,
+            "w": 0,
+            "l": 12,
+            "d": 7
+          },
+          {
+            "e": 2,
+            "r": 1206.5,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 4
+          },
+          {
+            "e": 11,
+            "r": 1215.3,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 7
+          },
+          {
+            "e": 12,
+            "r": 1244.4,
+            "p": 14,
+            "w": 4,
+            "l": 13,
+            "d": 0
+          },
+          {
+            "e": 14,
+            "r": 1234.6,
+            "p": 14,
+            "w": 0,
+            "l": 13,
+            "d": 5
+          },
+          {
+            "e": 15,
+            "r": 1187.8,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 8
+          },
+          {
+            "e": 16,
+            "r": 1188.1,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 9
+          },
+          {
+            "e": 18,
+            "r": 1200.6,
+            "p": 10,
+            "w": 2,
+            "l": 9,
+            "d": 1
+          },
+          {
+            "e": 19,
+            "r": 1163.9,
+            "p": 19,
+            "w": 1,
+            "l": 18,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1132.1,
+            "p": 21,
+            "w": 1,
+            "l": 20,
+            "d": 0
+          }
+        ],
+        "rank": 62
+      }
+    ]
+  }
+}
