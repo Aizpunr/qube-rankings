@@ -226,7 +226,7 @@ body { font-family: 'Space Grotesk', system-ui, sans-serif; min-height: 100vh; p
   <div id="content"></div>
 
   <div class="footer">
-    QotW data &middot; rebuilt from <code>QotW leaderboards.xlsx</code>
+    QotW data &middot; Season 2 from <code>QotW leaderboards.xlsx</code>, Season 1 from host standings
     <br>Generated <span id="genStamp">…</span>
   </div>
 </div>
@@ -252,7 +252,7 @@ body { font-family: 'Space Grotesk', system-ui, sans-serif; min-height: 100vh; p
 // ── State ─────────────────────────────────────────────────────────────
 let DATA = null;
 let view = 'rankings';
-let rankSort = { col: 'rating', dir: -1 };
+let rankSort = { col: 'wins', dir: -1 };
 let eventSort = { col: 'event', dir: -1 };  // newest first by default
 let searchTerm = '';
 let expandedEvent = null;
@@ -261,7 +261,7 @@ let expandedPlayer = null;  // player.key when row is expanded
 // ── Helpers ───────────────────────────────────────────────────────────
 function escapeHtml(s) { return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
 function nameClass(p) {
-  if (p.gold && p.cups >= 2) return 'gold-name';
+  if (p.gold) return 'gold-name';
   if (p.silver && !p.gold) return 'silver-name';
   if (p.bronze && !p.gold && !p.silver) return 'bronze-name';
   return '';
@@ -273,11 +273,14 @@ function medalCell(g, s, b) {
 }
 
 // ── Rankings ──────────────────────────────────────────────────────────
-const RANK_COLS = '40px 1fr 80px 70px 50px 50px 130px';
+const RANK_COLS = '40px 1fr 60px 60px 130px';
 
 function rankSortCmp(a, b) {
   const c = rankSort.col, d = rankSort.dir;
   if (c === 'name') return d * a.name.localeCompare(b.name);
+  if (c === 'best') {
+    return d * ((a.best==null?99:a.best) - (b.best==null?99:b.best));
+  }
   if (c === 'medals') {
     var av = (a.gold||0)*100 + (a.silver||0)*10 + (a.bronze||0);
     var bv = (b.gold||0)*100 + (b.silver||0)*10 + (b.bronze||0);
@@ -303,10 +306,8 @@ function renderRankings() {
     <div class="tg-head" id="rankHead" style="grid-template-columns:${RANK_COLS};">
       <div class="m-hide" data-sort="rank">#${rankArrow('rank')}</div>
       <div data-sort="name">Player${rankArrow('name')}</div>
-      <div data-sort="rating" style="text-align:right">Rating${rankArrow('rating')}</div>
-      <div data-sort="peak" style="text-align:right" class="m-hide">Peak${rankArrow('peak')}</div>
-      <div data-sort="cups" style="text-align:right" class="m-hide">Cups${rankArrow('cups')}</div>
-      <div data-sort="avg_pos" style="text-align:right" class="m-hide" title="Average finishing position">Avg Pos${rankArrow('avg_pos')}</div>
+      <div data-sort="wins" style="text-align:right" title="Cup wins">Wins${rankArrow('wins')}</div>
+      <div data-sort="best" style="text-align:right" class="m-hide" title="Best finishing position">Best${rankArrow('best')}</div>
       <div data-sort="medals" style="text-align:right" class="m-hide">Podiums${rankArrow('medals')}</div>
     </div>`;
 
@@ -320,11 +321,9 @@ function renderRankings() {
         <span class="pname ${nameClass(p)}">${escapeHtml(p.name)}</span>
       </div>
       <div style="text-align:right;font-family:var(--mono);font-weight:700;color:var(--accent)">
-        ${p.rating.toFixed(1)}
+        ${p.wins||0}
       </div>
-      <div class="m-hide" style="text-align:right;font-family:var(--mono);color:var(--text-muted);font-size:11px">${p.peak.toFixed(1)}</div>
-      <div class="m-hide" style="text-align:right;font-family:var(--mono);font-size:12px">${p.cups}</div>
-      <div class="m-hide" style="text-align:right;font-family:var(--mono);font-size:12px">${p.avg_pos != null ? p.avg_pos.toFixed(1) : '—'}</div>
+      <div class="m-hide" style="text-align:right;font-family:var(--mono);font-size:12px">${p.best != null ? '#'+p.best : '—'}</div>
       <div class="m-hide" style="text-align:right">${medalCell(p.gold, p.silver, p.bronze)}</div>
     </div>
     ${isOpen ? `<div class="detail">${renderPlayerDetail(p)}</div>` : ''}
@@ -338,12 +337,7 @@ function renderPlayerDetail(p) {
   const cupsByEvt = {};
   DATA.cups.forEach(c => { cupsByEvt[c.event] = c; });
   const history = (p.history || []).slice().sort((a,b) => a.e - b.e);
-
-  const startR = history.length ? history[0].r : null;
-  const endR = p.rating;
-  const peak = p.peak;
-  const trough = history.reduce((m, h) => h.r < m ? h.r : m, Infinity);
-  const bestPos = history.reduce((m, h) => h.p < m ? h.p : m, Infinity);
+  const shown = history.length;
 
   const rows = history.slice().reverse().map(h => {
     const c = cupsByEvt[h.e] || {};
@@ -355,7 +349,6 @@ function renderPlayerDetail(p) {
       <div class="cv" style="font-family:var(--mono);font-size:10px;color:var(--text-dim)">${date}</div>
       <div class="cv" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${map}</div>
       <div class="cv cv-elim ${podiumCls}" style="text-align:center">${h.p}</div>
-      <div class="cv cv-time">${h.r.toFixed(1)}</div>
     `;
   }).join('');
 
@@ -363,27 +356,21 @@ function renderPlayerDetail(p) {
     <div class="cup-head">
       <div class="cup-title">${escapeHtml(p.name)}</div>
       <div class="cup-meta">
-        <span>rating: <b style="color:var(--accent)">${endR.toFixed(1)}</b></span>
-        <span>cups: <b>${p.cups}</b></span>
-        <span>peak: <b>${peak.toFixed(1)}</b></span>
-        ${startR !== null ? `<span>start: <b>${startR.toFixed(1)}</b></span>` : ''}
-        <span>avg pos: <b>${p.avg_pos != null ? p.avg_pos.toFixed(1) : '—'}</b></span>
-        ${bestPos !== Infinity ? `<span>best: <b>${bestPos}</b></span>` : ''}
+        <span>wins: <b style="color:var(--accent)">${p.wins||0}</b></span>
+        <span>podiums: <b>${p.podiums||0}</b></span>
+        ${p.best != null ? `<span>best: <b>#${p.best}</b></span>` : ''}
         <span>🥇/🥈/🥉: <b>${p.gold||0}/${p.silver||0}/${p.bronze||0}</b></span>
+        <span>cups on record: <b>${p.cups}</b></span>
       </div>
     </div>
-    <div class="player-chart-wrap" style="position:relative;width:100%;height:180px;margin:8px 0 12px">
-      <canvas id="chart-${p.key}" style="width:100%;height:180px"></canvas>
-      <div id="tt-${p.key}" class="player-tooltip" style="display:none"></div>
-    </div>
-    <div class="player-cup-table" style="display:grid;grid-template-columns:50px 78px 1fr 50px 60px;gap:0;font-size:12px">
+    <div class="player-cup-table" style="display:grid;grid-template-columns:50px 78px 1fr 50px;gap:0;font-size:12px">
       <div class="ch">Cup</div>
       <div class="ch">Date</div>
       <div class="ch">Map</div>
       <div class="ch" style="text-align:center">Pos</div>
-      <div class="ch" style="text-align:right">Rating</div>
       ${rows}
-    </div>`;
+    </div>
+    <div style="margin-top:8px;font-size:10px;color:var(--text-dim)">Wins &amp; podiums include Season-1 cups from the host standings; the list above is the ${shown} cup${shown===1?'':'s'} we have per-cup data for.</div>`;
 }
 
 function drawPlayerChart(canvas, player, cupsByEvt) {
@@ -622,7 +609,7 @@ function attachRankHandlers() {
     el.onclick = () => {
       const c = el.dataset.sort;
       if (rankSort.col === c) rankSort.dir = -rankSort.dir;
-      else { rankSort.col = c; rankSort.dir = (c === 'name' || c === 'avg_pos') ? 1 : -1; }
+      else { rankSort.col = c; rankSort.dir = (c === 'name' || c === 'best') ? 1 : -1; }
       render();
     };
   });
@@ -631,19 +618,6 @@ function attachRankHandlers() {
       const k = row.dataset.pkey;
       expandedPlayer = (expandedPlayer === k) ? null : k;
       render();
-      if (expandedPlayer === k) {
-        const player = DATA.ranking.players.find(p => p.key === k);
-        if (!player) return;
-        const canvas = document.getElementById('chart-' + k);
-        if (!canvas) return;
-        const cupsByEvt = {};
-        DATA.cups.forEach(c => { cupsByEvt[c.event] = c; });
-        // Defer to next tick so layout settles for clientWidth
-        requestAnimationFrame(() => {
-          drawPlayerChart(canvas, player, cupsByEvt);
-          attachPlayerChartHover(canvas, player);
-        });
-      }
     };
   });
 }
@@ -652,8 +626,7 @@ function attachRankHandlers() {
 function updateInfoTip() {
   const tip = document.getElementById('infoTip');
   if (view === 'rankings') {
-    const p = DATA.ranking.params;
-    tip.innerHTML = `<strong>Pairwise FFA ELO.</strong> Each cup, every pair of attendees plays a "match" by cup placement (lower = win, ties draw). K=${p.k_base} per pair, K=${p.k_prov} during a player's first ${p.prov_cups} cups (placement period). No SOF scaling, no decay. Starting rating ${p.starting}. Filtered to <code>cups ≥ ${p.min_cups_display}</code>.`;
+    tip.innerHTML = `<strong>Wins &amp; podiums</strong> across every QotW cup. Season 1 (cups #1–~26) totals come from the host's official standings — including cups we have no per-cup data for (#8, #9, #20–26); Season 2 (#27 on) is counted from full per-cup results. Sorted by wins, then podiums. <em>Average position is omitted for now.</em>`;
   } else if (view === 'events') {
     const p = DATA.ranking.params;
     tip.innerHTML = `<strong>Strength of Field</strong> uses pre-event ratings: top-10 highest-rated attendees averaged, then mapped to <code>(avg − floor) / (peak − floor) × 100</code> with floor=${p.sof_floor.toFixed(1)} and peak=${p.sof_peak.toFixed(1)} (the cross-comp normalization, so SOF is comparable across comps).`;
