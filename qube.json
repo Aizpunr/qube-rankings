@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated": "2026-06-05T00:41:34Z",
-    "total_cups": 23,
-    "total_players": 84,
+    "generated": "2026-06-18T20:55:37Z",
+    "total_cups": 24,
+    "total_players": 87,
     "first_event": 1,
-    "last_event": 32
+    "last_event": 33
   },
   "cups": [
     {
@@ -13,7 +13,7 @@
       "map": "Metallic",
       "mapper": "[bnuy]ttv/Lilly the Bun",
       "lobby_size": 20,
-      "sof": 31.74,
+      "sof": 32.27,
       "winner_name": "Redstony",
       "winner_key": "76561198430273427",
       "results": [
@@ -165,7 +165,7 @@
       "map": "Burst",
       "mapper": "justMaki",
       "lobby_size": 30,
-      "sof": 40.84,
+      "sof": 41.29,
       "winner_name": "RoundNzt",
       "winner_key": "76561198896246339",
       "results": [
@@ -387,7 +387,7 @@
       "map": "Racecube",
       "mapper": "[CSC]OLR94",
       "lobby_size": 27,
-      "sof": 48.96,
+      "sof": 49.34,
       "winner_name": "justMaki",
       "winner_key": "76561198050792757",
       "results": [
@@ -588,7 +588,7 @@
       "map": "1 in 43 quintillion",
       "mapper": "Toothygaming",
       "lobby_size": 17,
-      "sof": 44.47,
+      "sof": 44.89,
       "winner_name": "Redstony",
       "winner_key": "76561198430273427",
       "results": [
@@ -719,7 +719,7 @@
       "map": "Dragon Cube Temple",
       "mapper": "DragonShadow84290",
       "lobby_size": 22,
-      "sof": 59.19,
+      "sof": 59.48,
       "winner_name": "justMaki",
       "winner_key": "76561198050792757",
       "results": [
@@ -885,7 +885,7 @@
       "map": "Glory to Frogkablu",
       "mapper": "[FORK] A Broken Forklift",
       "lobby_size": 13,
-      "sof": 44.11,
+      "sof": 44.53,
       "winner_name": "justMaki",
       "winner_key": "76561198050792757",
       "results": [
@@ -988,7 +988,7 @@
       "map": "Cubic Cobalt",
       "mapper": "[CSC]Mokster",
       "lobby_size": 14,
-      "sof": 35.4,
+      "sof": 35.9,
       "winner_name": "PandaMane",
       "winner_key": "76561198253679880",
       "results": [
@@ -1098,7 +1098,7 @@
       "map": "Dark Metallic",
       "mapper": "[bnuy]ttv/Lilly the Bun",
       "lobby_size": 27,
-      "sof": 58.54,
+      "sof": 58.83,
       "winner_name": "ZOMAN",
       "winner_key": "76561199126724675",
       "results": [
@@ -1299,7 +1299,7 @@
       "map": "Nostalgia",
       "mapper": "[CSC]Shadynook (in-cup); GTR registers as \"Synth Wave\" by another author",
       "lobby_size": 22,
-      "sof": 51.73,
+      "sof": 52.08,
       "winner_name": "justMaki",
       "winner_key": "76561198050792757",
       "results": [
@@ -1432,8 +1432,8 @@
         {
           "placement": 15,
           "name": "groovy",
-          "steamid": null,
-          "key": "name:groovy",
+          "steamid": "76561199282497311",
+          "key": "76561199282497311",
           "elim_round": 1
         },
         {
@@ -1465,7 +1465,7 @@
       "map": "QOTD #12 - Cube En Verre Rose",
       "mapper": "[CSC]OLR94 (in-cup); GTR registers as \"The Black Mamba\" by another author",
       "lobby_size": 18,
-      "sof": 57.02,
+      "sof": 57.33,
       "winner_name": "RoundNzt",
       "winner_key": "76561198896246339",
       "results": [
@@ -1603,7 +1603,7 @@
       "map": "Qubic Coppice",
       "mapper": "[CSC] redal",
       "lobby_size": 25,
-      "sof": 63.57,
+      "sof": 63.82,
       "winner_name": "Kernkob",
       "winner_key": "76561199024808939",
       "results": [
@@ -1790,7 +1790,7 @@
       "map": "Double Dip",
       "mapper": "Tigerplaysonpc",
       "lobby_size": 19,
-      "sof": 60.71,
+      "sof": 60.98,
       "winner_name": "ZOMAN",
       "winner_key": "76561199126724675",
       "results": [
@@ -1935,7 +1935,7 @@
       "map": "Concrete Junction",
       "mapper": "justMaki",
       "lobby_size": 34,
-      "sof": 57.41,
+      "sof": 57.71,
       "winner_name": "Lexer",
       "winner_key": "76561198851912263",
       "results": [
@@ -2185,7 +2185,7 @@
       "map": "Qube - Unusual Suspect",
       "mapper": "[CSC]Mokster",
       "lobby_size": 27,
-      "sof": 59.96,
+      "sof": 60.24,
       "winner_name": "Pants",
       "winner_key": "76561199498272376",
       "results": [
@@ -2386,7 +2386,7 @@
       "map": "What TF is a Cuboid",
       "mapper": "[JH17] MCRJAKE17",
       "lobby_size": 23,
-      "sof": 70.95,
+      "sof": 71.13,
       "winner_name": "Zodiak",
       "winner_key": "76561199292634733",
       "results": [
@@ -2559,7 +2559,7 @@
       "map": "bubbler",
       "mapper": "Joe-bgaming",
       "lobby_size": 13,
-      "sof": 46.8,
+      "sof": 47.19,
       "winner_name": "Lexer",
       "winner_key": "76561198851912263",
       "results": [
@@ -2662,7 +2662,7 @@
       "map": "Robot Dragon Foundry",
       "mapper": "DragonShadow84290",
       "lobby_size": 20,
-      "sof": 70.28,
+      "sof": 70.46,
       "winner_name": "justMaki",
       "winner_key": "76561198050792757",
       "results": [
@@ -2814,7 +2814,7 @@
       "map": "Techbox",
       "mapper": "[CSC] variableferret",
       "lobby_size": 19,
-      "sof": 75.05,
+      "sof": 75.19,
       "winner_name": "justMaki",
       "winner_key": "76561198050792757",
       "results": [
@@ -2959,7 +2959,7 @@
       "map": "Midnight Oasis",
       "mapper": "[Fenn]Lilly Fenn",
       "lobby_size": 21,
-      "sof": 54.81,
+      "sof": 55.14,
       "winner_name": "Lexer",
       "winner_key": "76561198851912263",
       "results": [
@@ -3035,9 +3035,9 @@
         },
         {
           "placement": 9,
-          "name": "Lunarbunny",
-          "steamid": null,
-          "key": "name:Lunarbunny",
+          "name": "[Buny]Lunarbunny",
+          "steamid": "76561199002621651",
+          "key": "76561199002621651",
           "elim_round": 2
         },
         {
@@ -3118,7 +3118,7 @@
       "map": "Cobalt Core",
       "mapper": "[CSC]IronDragon111000",
       "lobby_size": 23,
-      "sof": 51.31,
+      "sof": 51.67,
       "winner_name": "JakeAdjacent",
       "winner_key": "76561198152852852",
       "results": [
@@ -3291,7 +3291,7 @@
       "map": "The Spark",
       "mapper": "mori_cinis",
       "lobby_size": 22,
-      "sof": 64.03,
+      "sof": 64.28,
       "winner_name": "JakeAdjacent",
       "winner_key": "76561198152852852",
       "results": [
@@ -3409,9 +3409,9 @@
         },
         {
           "placement": 17,
-          "name": "Lunarbunny",
-          "steamid": null,
-          "key": "name:Lunarbunny",
+          "name": "[Buny]Lunarbunny",
+          "steamid": "76561199002621651",
+          "key": "76561199002621651",
           "elim_round": 2
         },
         {
@@ -3457,7 +3457,7 @@
       "map": "The Dungeon",
       "mapper": "Luna",
       "lobby_size": 22,
-      "sof": 68.03,
+      "sof": 68.24,
       "winner_name": "justMaki",
       "winner_key": "76561198050792757",
       "results": [
@@ -3623,7 +3623,7 @@
       "map": "Zeep Box",
       "mapper": "irondragon",
       "lobby_size": 22,
-      "sof": 58.39,
+      "sof": 58.68,
       "winner_name": "AndMe",
       "winner_key": "76561198067925412",
       "results": [
@@ -3782,6 +3782,214 @@
           "elim_round": 1
         }
       ]
+    },
+    {
+      "event": 33,
+      "date": "2026-06-18",
+      "map": "Brickworks",
+      "mapper": "justMaki",
+      "lobby_size": 28,
+      "sof": 78.68,
+      "winner_name": "JakeAdjacent",
+      "winner_key": "76561198152852852",
+      "results": [
+        {
+          "placement": 1,
+          "name": "JakeAdjacent",
+          "steamid": "76561198152852852",
+          "key": "76561198152852852",
+          "elim_round": null
+        },
+        {
+          "placement": 2,
+          "name": "Hydro",
+          "steamid": "76561199027567424",
+          "key": "76561199027567424",
+          "elim_round": 12
+        },
+        {
+          "placement": 3,
+          "name": "void",
+          "steamid": "76561199321598731",
+          "key": "76561199321598731",
+          "elim_round": 11
+        },
+        {
+          "placement": 4,
+          "name": "RoundNzt",
+          "steamid": "76561198896246339",
+          "key": "76561198896246339",
+          "elim_round": 10
+        },
+        {
+          "placement": 5,
+          "name": "Minkus",
+          "steamid": "76561198212710700",
+          "key": "76561198212710700",
+          "elim_round": 9
+        },
+        {
+          "placement": 6,
+          "name": "St Nicholas",
+          "steamid": "76561198047403251",
+          "key": "76561198047403251",
+          "elim_round": 8
+        },
+        {
+          "placement": 7,
+          "name": "Hi Im Bolo",
+          "steamid": null,
+          "key": "name:Hi Im Bolo",
+          "elim_round": 8
+        },
+        {
+          "placement": 8,
+          "name": "Shadynook",
+          "steamid": "76561197980151170",
+          "key": "76561197980151170",
+          "elim_round": 7
+        },
+        {
+          "placement": 9,
+          "name": "Noxitu",
+          "steamid": "76561198126038296",
+          "key": "76561198126038296",
+          "elim_round": 7
+        },
+        {
+          "placement": 10,
+          "name": "PlusMicron",
+          "steamid": "76561199186342067",
+          "key": "76561199186342067",
+          "elim_round": 6
+        },
+        {
+          "placement": 11,
+          "name": "Six",
+          "steamid": "76561198056113005",
+          "key": "76561198056113005",
+          "elim_round": 6
+        },
+        {
+          "placement": 12,
+          "name": "DeiRex",
+          "steamid": "76561198027169155",
+          "key": "76561198027169155",
+          "elim_round": 5
+        },
+        {
+          "placement": 13,
+          "name": "K410K3N",
+          "steamid": "76561198083300332",
+          "key": "76561198083300332",
+          "elim_round": 5
+        },
+        {
+          "placement": 14,
+          "name": "MAGS3",
+          "steamid": "76561198051058993",
+          "key": "76561198051058993",
+          "elim_round": 5
+        },
+        {
+          "placement": 15,
+          "name": "wokonbike",
+          "steamid": "76561198305054806",
+          "key": "76561198305054806",
+          "elim_round": 4
+        },
+        {
+          "placement": 16,
+          "name": "[Buny]Lunarbunny",
+          "steamid": "76561199002621651",
+          "key": "76561199002621651",
+          "elim_round": 4
+        },
+        {
+          "placement": 17,
+          "name": "gremlin in a blanky",
+          "steamid": null,
+          "key": "name:gremlin in a blanky",
+          "elim_round": 4
+        },
+        {
+          "placement": 18,
+          "name": "aizpun",
+          "steamid": "76561197972890120",
+          "key": "76561197972890120",
+          "elim_round": 3
+        },
+        {
+          "placement": 19,
+          "name": "Maki",
+          "steamid": null,
+          "key": "name:Maki",
+          "elim_round": 3
+        },
+        {
+          "placement": 20,
+          "name": "cucumis conditus solacii animi",
+          "steamid": null,
+          "key": "name:cucumis conditus solacii animi",
+          "elim_round": 3
+        },
+        {
+          "placement": 21,
+          "name": "Minixerces2116",
+          "steamid": null,
+          "key": "name:Minixerces2116",
+          "elim_round": 2
+        },
+        {
+          "placement": 22,
+          "name": "Shinikage221",
+          "steamid": null,
+          "key": "name:Shinikage221",
+          "elim_round": 2
+        },
+        {
+          "placement": 22,
+          "name": "Quickracer10",
+          "steamid": "76561198149636594",
+          "key": "76561198149636594",
+          "elim_round": 2
+        },
+        {
+          "placement": 24,
+          "name": "Secawesome",
+          "steamid": null,
+          "key": "name:Secawesome",
+          "elim_round": 1
+        },
+        {
+          "placement": 24,
+          "name": "DragonShadow84290",
+          "steamid": "76561198070406017",
+          "key": "76561198070406017",
+          "elim_round": 1
+        },
+        {
+          "placement": 24,
+          "name": "L3mmy",
+          "steamid": "76561198451895679",
+          "key": "76561198451895679",
+          "elim_round": 1
+        },
+        {
+          "placement": 24,
+          "name": "Lilly Fenn",
+          "steamid": "76561198040976717",
+          "key": "76561198040976717",
+          "elim_round": 1
+        },
+        {
+          "placement": 24,
+          "name": "Zodiak",
+          "steamid": "76561199292634733",
+          "key": "76561199292634733",
+          "elim_round": 1
+        }
+      ]
     }
   ],
   "players": [
@@ -3888,15 +4096,15 @@
     {
       "key": "76561198152852852",
       "name": "JakeAdjacent",
-      "rating": 2032.2,
-      "peak": 2032.2,
-      "cups": 9,
-      "pairs": 182,
-      "wins": 5,
+      "rating": 2090.6,
+      "peak": 2090.6,
+      "cups": 10,
+      "pairs": 209,
+      "wins": 6,
       "losses": 29,
       "draws": 0,
-      "avg_pos": 4.2,
-      "gold": 5,
+      "avg_pos": 3.9,
+      "gold": 6,
       "silver": 3,
       "bronze": 2,
       "history": [
@@ -3971,10 +4179,18 @@
           "w": 20,
           "l": 1,
           "d": 0
+        },
+        {
+          "e": 33,
+          "r": 2090.6,
+          "p": 1,
+          "w": 27,
+          "l": 0,
+          "d": 0
         }
       ],
       "rank": 2,
-      "podiums": 10,
+      "podiums": 11,
       "best": 1
     },
     {
@@ -4112,14 +4328,14 @@
     {
       "key": "76561198896246339",
       "name": "RoundNzt",
-      "rating": 1959.4,
-      "peak": 1959.4,
-      "cups": 5,
-      "pairs": 105,
+      "rating": 1981.6,
+      "peak": 1981.6,
+      "cups": 6,
+      "pairs": 132,
       "wins": 3,
-      "losses": 6,
+      "losses": 9,
       "draws": 1,
-      "avg_pos": 2.2,
+      "avg_pos": 2.5,
       "gold": 3,
       "silver": 3,
       "bronze": 0,
@@ -4163,6 +4379,14 @@
           "w": 17,
           "l": 0,
           "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1981.6,
+          "p": 4,
+          "w": 24,
+          "l": 3,
+          "d": 0
         }
       ],
       "rank": 4,
@@ -4170,40 +4394,40 @@
       "best": 1
     },
     {
-      "key": "76561199292634733",
-      "name": "Zodiak",
-      "rating": 1930.5,
-      "peak": 1930.5,
+      "key": "76561199027567424",
+      "name": "Hydro",
+      "rating": 1959.0,
+      "peak": 1959.0,
       "cups": 2,
-      "pairs": 55,
-      "wins": 1,
-      "losses": 6,
+      "pairs": 53,
+      "wins": 0,
+      "losses": 2,
       "draws": 0,
-      "avg_pos": 4.0,
-      "gold": 1,
-      "silver": 0,
+      "avg_pos": 2.0,
+      "gold": 0,
+      "silver": 2,
       "bronze": 0,
       "history": [
         {
-          "e": 15,
-          "r": 1787.6,
-          "p": 7,
-          "w": 27,
-          "l": 6,
+          "e": 10,
+          "r": 1819.7,
+          "p": 2,
+          "w": 25,
+          "l": 1,
           "d": 0
         },
         {
-          "e": 17,
-          "r": 1930.5,
-          "p": 1,
-          "w": 22,
-          "l": 0,
+          "e": 33,
+          "r": 1959.0,
+          "p": 2,
+          "w": 26,
+          "l": 1,
           "d": 0
         }
       ],
       "rank": 5,
-      "podiums": 1,
-      "best": 1
+      "podiums": 2,
+      "best": 2
     },
     {
       "key": "76561199024808939",
@@ -4446,6 +4670,42 @@
       "best": 1
     },
     {
+      "key": "76561199321598731",
+      "name": "void",
+      "rating": 1869.5,
+      "peak": 1869.5,
+      "cups": 2,
+      "pairs": 48,
+      "wins": 0,
+      "losses": 8,
+      "draws": 1,
+      "avg_pos": 5.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "history": [
+        {
+          "e": 30,
+          "r": 1623.9,
+          "p": 7,
+          "w": 14,
+          "l": 6,
+          "d": 1
+        },
+        {
+          "e": 33,
+          "r": 1869.5,
+          "p": 3,
+          "w": 25,
+          "l": 2,
+          "d": 0
+        }
+      ],
+      "rank": 10,
+      "podiums": 1,
+      "best": 3
+    },
+    {
       "key": "76561198001387193",
       "name": "Warsnac",
       "rating": 1867.3,
@@ -4477,7 +4737,7 @@
           "d": 0
         }
       ],
-      "rank": 10,
+      "rank": 11,
       "podiums": 1,
       "best": 3
     },
@@ -4521,7 +4781,7 @@
           "d": 0
         }
       ],
-      "rank": 11,
+      "rank": 12,
       "podiums": 2,
       "best": 2
     },
@@ -4573,53 +4833,9 @@
           "d": 0
         }
       ],
-      "rank": 12,
+      "rank": 13,
       "podiums": 5,
       "best": 1
-    },
-    {
-      "key": "76561197980151170",
-      "name": "Shadynook",
-      "rating": 1833.7,
-      "peak": 1833.7,
-      "cups": 3,
-      "pairs": 73,
-      "wins": 0,
-      "losses": 17,
-      "draws": 0,
-      "avg_pos": 6.7,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 15,
-          "r": 1739.6,
-          "p": 9,
-          "w": 25,
-          "l": 8,
-          "d": 0
-        },
-        {
-          "e": 17,
-          "r": 1787.8,
-          "p": 6,
-          "w": 17,
-          "l": 5,
-          "d": 0
-        },
-        {
-          "e": 27,
-          "r": 1833.7,
-          "p": 5,
-          "w": 14,
-          "l": 4,
-          "d": 0
-        }
-      ],
-      "rank": 13,
-      "podiums": 0,
-      "best": 5
     },
     {
       "key": "76561198178190613",
@@ -4702,6 +4918,58 @@
       "best": 3
     },
     {
+      "key": "76561197980151170",
+      "name": "Shadynook",
+      "rating": 1820.9,
+      "peak": 1833.7,
+      "cups": 4,
+      "pairs": 100,
+      "wins": 0,
+      "losses": 24,
+      "draws": 0,
+      "avg_pos": 7.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 15,
+          "r": 1739.6,
+          "p": 9,
+          "w": 25,
+          "l": 8,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1787.8,
+          "p": 6,
+          "w": 17,
+          "l": 5,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1833.7,
+          "p": 5,
+          "w": 14,
+          "l": 4,
+          "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1820.9,
+          "p": 8,
+          "w": 20,
+          "l": 7,
+          "d": 0
+        }
+      ],
+      "rank": 16,
+      "podiums": 0,
+      "best": 5
+    },
+    {
       "key": "76561198840040581",
       "name": "RadAbsRad",
       "rating": 1807.9,
@@ -4733,7 +5001,7 @@
           "d": 0
         }
       ],
-      "rank": 16,
+      "rank": 17,
       "podiums": 0,
       "best": 6
     },
@@ -4841,53 +5109,45 @@
           "d": 0
         }
       ],
-      "rank": 17,
+      "rank": 18,
       "podiums": 2,
       "best": 3
     },
     {
-      "key": "76561198056113005",
-      "name": "Six",
-      "rating": 1795.8,
-      "peak": 1795.8,
-      "cups": 3,
-      "pairs": 59,
+      "key": "76561198047403251",
+      "name": "St Nicholas",
+      "rating": 1795.7,
+      "peak": 1795.7,
+      "cups": 2,
+      "pairs": 48,
       "wins": 0,
-      "losses": 11,
+      "losses": 12,
       "draws": 0,
-      "avg_pos": 4.7,
+      "avg_pos": 7.0,
       "gold": 0,
-      "silver": 2,
+      "silver": 0,
       "bronze": 0,
       "history": [
         {
-          "e": 27,
-          "r": 1761.7,
-          "p": 2,
-          "w": 17,
-          "l": 1,
-          "d": 0
-        },
-        {
-          "e": 28,
-          "r": 1708.1,
+          "e": 31,
+          "r": 1617.5,
           "p": 8,
-          "w": 13,
+          "w": 14,
           "l": 7,
           "d": 0
         },
         {
-          "e": 30,
-          "r": 1795.8,
-          "p": 4,
-          "w": 18,
-          "l": 3,
+          "e": 33,
+          "r": 1795.7,
+          "p": 6,
+          "w": 22,
+          "l": 5,
           "d": 0
         }
       ],
-      "rank": 18,
-      "podiums": 2,
-      "best": 2
+      "rank": 19,
+      "podiums": 0,
+      "best": 6
     },
     {
       "key": "76561199109206781",
@@ -4993,7 +5253,7 @@
           "d": 0
         }
       ],
-      "rank": 19,
+      "rank": 20,
       "podiums": 4,
       "best": 2
     },
@@ -5029,7 +5289,7 @@
           "d": 0
         }
       ],
-      "rank": 20,
+      "rank": 21,
       "podiums": 1,
       "best": 3
     },
@@ -5153,7 +5413,7 @@
           "d": 0
         }
       ],
-      "rank": 21,
+      "rank": 22,
       "podiums": 4,
       "best": 1
     },
@@ -5237,61 +5497,9 @@
           "d": 0
         }
       ],
-      "rank": 22,
+      "rank": 23,
       "podiums": 3,
       "best": 2
-    },
-    {
-      "key": "76561199186342067",
-      "name": "PlusMicron",
-      "rating": 1759.6,
-      "peak": 1759.6,
-      "cups": 4,
-      "pairs": 83,
-      "wins": 1,
-      "losses": 26,
-      "draws": 3,
-      "avg_pos": 7.5,
-      "gold": 1,
-      "silver": 0,
-      "bronze": 1,
-      "history": [
-        {
-          "e": 28,
-          "r": 1544.1,
-          "p": 9,
-          "w": 10,
-          "l": 8,
-          "d": 2
-        },
-        {
-          "e": 30,
-          "r": 1641.5,
-          "p": 7,
-          "w": 14,
-          "l": 6,
-          "d": 1
-        },
-        {
-          "e": 31,
-          "r": 1604.0,
-          "p": 11,
-          "w": 11,
-          "l": 10,
-          "d": 0
-        },
-        {
-          "e": 32,
-          "r": 1759.6,
-          "p": 3,
-          "w": 19,
-          "l": 2,
-          "d": 0
-        }
-      ],
-      "rank": 23,
-      "podiums": 2,
-      "best": 1
     },
     {
       "key": "76561199498272376",
@@ -5346,6 +5554,110 @@
       "best": 1
     },
     {
+      "key": "76561198126038296",
+      "name": "Noxitu",
+      "rating": 1751.1,
+      "peak": 1751.1,
+      "cups": 3,
+      "pairs": 71,
+      "wins": 0,
+      "losses": 25,
+      "draws": 1,
+      "avg_pos": 9.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 10,
+          "r": 1495.7,
+          "p": 15,
+          "w": 11,
+          "l": 14,
+          "d": 1
+        },
+        {
+          "e": 27,
+          "r": 1711.4,
+          "p": 4,
+          "w": 15,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1751.1,
+          "p": 9,
+          "w": 19,
+          "l": 8,
+          "d": 0
+        }
+      ],
+      "rank": 25,
+      "podiums": 0,
+      "best": 4
+    },
+    {
+      "key": "76561199186342067",
+      "name": "PlusMicron",
+      "rating": 1743.5,
+      "peak": 1759.6,
+      "cups": 5,
+      "pairs": 110,
+      "wins": 1,
+      "losses": 35,
+      "draws": 3,
+      "avg_pos": 8.0,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "history": [
+        {
+          "e": 28,
+          "r": 1544.1,
+          "p": 9,
+          "w": 10,
+          "l": 8,
+          "d": 2
+        },
+        {
+          "e": 30,
+          "r": 1641.5,
+          "p": 7,
+          "w": 14,
+          "l": 6,
+          "d": 1
+        },
+        {
+          "e": 31,
+          "r": 1604.0,
+          "p": 11,
+          "w": 11,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 32,
+          "r": 1759.6,
+          "p": 3,
+          "w": 19,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1743.5,
+          "p": 10,
+          "w": 18,
+          "l": 9,
+          "d": 0
+        }
+      ],
+      "rank": 26,
+      "podiums": 2,
+      "best": 1
+    },
+    {
       "key": "76561198359568548",
       "name": "Kodiak",
       "rating": 1743.5,
@@ -5377,7 +5689,7 @@
           "d": 0
         }
       ],
-      "rank": 25,
+      "rank": 27,
       "podiums": 0,
       "best": 5
     },
@@ -5413,9 +5725,61 @@
           "d": 0
         }
       ],
-      "rank": 26,
+      "rank": 28,
       "podiums": 0,
       "best": 6
+    },
+    {
+      "key": "76561198056113005",
+      "name": "Six",
+      "rating": 1733.2,
+      "peak": 1795.8,
+      "cups": 4,
+      "pairs": 86,
+      "wins": 0,
+      "losses": 21,
+      "draws": 0,
+      "avg_pos": 6.2,
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 27,
+          "r": 1761.7,
+          "p": 2,
+          "w": 17,
+          "l": 1,
+          "d": 0
+        },
+        {
+          "e": 28,
+          "r": 1708.1,
+          "p": 8,
+          "w": 13,
+          "l": 7,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1795.8,
+          "p": 4,
+          "w": 18,
+          "l": 3,
+          "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1733.2,
+          "p": 11,
+          "w": 17,
+          "l": 10,
+          "d": 0
+        }
+      ],
+      "rank": 29,
+      "podiums": 2,
+      "best": 2
     },
     {
       "key": "76561198428660617",
@@ -5465,7 +5829,7 @@
           "d": 0
         }
       ],
-      "rank": 27,
+      "rank": 30,
       "podiums": 0,
       "best": 6
     },
@@ -5541,97 +5905,9 @@
           "d": 0
         }
       ],
-      "rank": 28,
+      "rank": 31,
       "podiums": 1,
       "best": 3
-    },
-    {
-      "key": "76561198149636594",
-      "name": "Quickracer10",
-      "rating": 1716.2,
-      "peak": 1745.6,
-      "cups": 4,
-      "pairs": 83,
-      "wins": 0,
-      "losses": 27,
-      "draws": 1,
-      "avg_pos": 7.8,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 1,
-      "history": [
-        {
-          "e": 3,
-          "r": 1745.6,
-          "p": 3,
-          "w": 24,
-          "l": 2,
-          "d": 0
-        },
-        {
-          "e": 11,
-          "r": 1570.5,
-          "p": 13,
-          "w": 8,
-          "l": 12,
-          "d": 1
-        },
-        {
-          "e": 14,
-          "r": 1600.9,
-          "p": 9,
-          "w": 10,
-          "l": 8,
-          "d": 0
-        },
-        {
-          "e": 27,
-          "r": 1716.2,
-          "p": 6,
-          "w": 13,
-          "l": 5,
-          "d": 0
-        }
-      ],
-      "rank": 29,
-      "podiums": 1,
-      "best": 3
-    },
-    {
-      "key": "76561198126038296",
-      "name": "Noxitu",
-      "rating": 1711.4,
-      "peak": 1711.4,
-      "cups": 2,
-      "pairs": 44,
-      "wins": 0,
-      "losses": 17,
-      "draws": 1,
-      "avg_pos": 9.5,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 10,
-          "r": 1495.7,
-          "p": 15,
-          "w": 11,
-          "l": 14,
-          "d": 1
-        },
-        {
-          "e": 27,
-          "r": 1711.4,
-          "p": 4,
-          "w": 15,
-          "l": 3,
-          "d": 0
-        }
-      ],
-      "rank": 30,
-      "podiums": 0,
-      "best": 4
     },
     {
       "key": "name:Yoshi",
@@ -5665,7 +5941,7 @@
           "d": 0
         }
       ],
-      "rank": 31,
+      "rank": 32,
       "podiums": 0,
       "best": 7
     },
@@ -5701,7 +5977,7 @@
           "d": 1
         }
       ],
-      "rank": 32,
+      "rank": 33,
       "podiums": 0,
       "best": 7
     },
@@ -5737,7 +6013,7 @@
           "d": 0
         }
       ],
-      "rank": 33,
+      "rank": 34,
       "podiums": 0,
       "best": 5
     },
@@ -5773,7 +6049,7 @@
           "d": 0
         }
       ],
-      "rank": 34,
+      "rank": 35,
       "podiums": 0,
       "best": 4
     },
@@ -5809,7 +6085,7 @@
           "d": 0
         }
       ],
-      "rank": 35,
+      "rank": 36,
       "podiums": 0,
       "best": 7
     },
@@ -5861,19 +6137,19 @@
           "d": 0
         }
       ],
-      "rank": 36,
+      "rank": 37,
       "podiums": 1,
       "best": 2
     },
     {
       "key": "76561198027169155",
       "name": "DeiRex",
-      "rating": 1653.1,
+      "rating": 1655.8,
       "peak": 1720.7,
-      "cups": 21,
-      "pairs": 448,
+      "cups": 22,
+      "pairs": 475,
       "wins": 0,
-      "losses": 188,
+      "losses": 199,
       "draws": 16,
       "avg_pos": 10.0,
       "gold": 0,
@@ -6047,9 +6323,17 @@
           "w": 17,
           "l": 4,
           "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1655.8,
+          "p": 12,
+          "w": 16,
+          "l": 11,
+          "d": 0
         }
       ],
-      "rank": 37,
+      "rank": 38,
       "podiums": 2,
       "best": 2
     },
@@ -6093,7 +6377,7 @@
           "d": 1
         }
       ],
-      "rank": 38,
+      "rank": 39,
       "podiums": 0,
       "best": 8
     },
@@ -6129,57 +6413,21 @@
           "d": 1
         }
       ],
-      "rank": 39,
+      "rank": 40,
       "podiums": 0,
       "best": 11
     },
     {
-      "key": "76561199082360966",
-      "name": "B_ES",
-      "rating": 1627.4,
-      "peak": 1688.1,
-      "cups": 2,
-      "pairs": 43,
-      "wins": 0,
-      "losses": 13,
-      "draws": 0,
-      "avg_pos": 7.5,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 29,
-          "r": 1688.1,
-          "p": 5,
-          "w": 18,
-          "l": 4,
-          "d": 0
-        },
-        {
-          "e": 32,
-          "r": 1627.4,
-          "p": 10,
-          "w": 12,
-          "l": 9,
-          "d": 0
-        }
-      ],
-      "rank": 40,
-      "podiums": 0,
-      "best": 5
-    },
-    {
       "key": "76561198083300332",
       "name": "K410K3N",
-      "rating": 1625.3,
-      "peak": 1625.3,
-      "cups": 5,
-      "pairs": 104,
+      "rating": 1634.3,
+      "peak": 1634.3,
+      "cups": 6,
+      "pairs": 131,
       "wins": 0,
-      "losses": 52,
+      "losses": 64,
       "draws": 2,
-      "avg_pos": 11.4,
+      "avg_pos": 11.7,
       "gold": 0,
       "silver": 0,
       "bronze": 0,
@@ -6223,11 +6471,55 @@
           "w": 14,
           "l": 7,
           "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1634.3,
+          "p": 13,
+          "w": 15,
+          "l": 12,
+          "d": 0
         }
       ],
       "rank": 41,
       "podiums": 0,
       "best": 8
+    },
+    {
+      "key": "76561199082360966",
+      "name": "B_ES",
+      "rating": 1627.4,
+      "peak": 1688.1,
+      "cups": 2,
+      "pairs": 43,
+      "wins": 0,
+      "losses": 13,
+      "draws": 0,
+      "avg_pos": 7.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 29,
+          "r": 1688.1,
+          "p": 5,
+          "w": 18,
+          "l": 4,
+          "d": 0
+        },
+        {
+          "e": 32,
+          "r": 1627.4,
+          "p": 10,
+          "w": 12,
+          "l": 9,
+          "d": 0
+        }
+      ],
+      "rank": 42,
+      "podiums": 0,
+      "best": 5
     },
     {
       "key": "76561199278221929",
@@ -6261,7 +6553,7 @@
           "d": 1
         }
       ],
-      "rank": 42,
+      "rank": 43,
       "podiums": 0,
       "best": 8
     },
@@ -6305,7 +6597,7 @@
           "d": 1
         }
       ],
-      "rank": 43,
+      "rank": 44,
       "podiums": 0,
       "best": 5
     },
@@ -6341,7 +6633,7 @@
           "d": 0
         }
       ],
-      "rank": 44,
+      "rank": 45,
       "podiums": 0,
       "best": 10
     },
@@ -6377,7 +6669,7 @@
           "d": 0
         }
       ],
-      "rank": 45,
+      "rank": 46,
       "podiums": 0,
       "best": 9
     },
@@ -6413,7 +6705,7 @@
           "d": 0
         }
       ],
-      "rank": 46,
+      "rank": 47,
       "podiums": 0,
       "best": 11
     },
@@ -6497,7 +6789,7 @@
           "d": 0
         }
       ],
-      "rank": 47,
+      "rank": 48,
       "podiums": 0,
       "best": 6
     },
@@ -6541,7 +6833,7 @@
           "d": 1
         }
       ],
-      "rank": 48,
+      "rank": 49,
       "podiums": 0,
       "best": 5
     },
@@ -6633,7 +6925,7 @@
           "d": 0
         }
       ],
-      "rank": 49,
+      "rank": 50,
       "podiums": 1,
       "best": 3
     },
@@ -6677,7 +6969,7 @@
           "d": 0
         }
       ],
-      "rank": 50,
+      "rank": 51,
       "podiums": 0,
       "best": 9
     },
@@ -6713,7 +7005,7 @@
           "d": 0
         }
       ],
-      "rank": 51,
+      "rank": 52,
       "podiums": 0,
       "best": 13
     },
@@ -6781,7 +7073,7 @@
           "d": 0
         }
       ],
-      "rank": 52,
+      "rank": 53,
       "podiums": 1,
       "best": 3
     },
@@ -6849,7 +7141,7 @@
           "d": 0
         }
       ],
-      "rank": 53,
+      "rank": 54,
       "podiums": 0,
       "best": 5
     },
@@ -6893,7 +7185,7 @@
           "d": 0
         }
       ],
-      "rank": 54,
+      "rank": 55,
       "podiums": 0,
       "best": 9
     },
@@ -6929,9 +7221,53 @@
           "d": 0
         }
       ],
-      "rank": 55,
+      "rank": 56,
       "podiums": 0,
       "best": 7
+    },
+    {
+      "key": "76561199002621651",
+      "name": "[Buny]Lunarbunny",
+      "rating": 1497.4,
+      "peak": 1544.1,
+      "cups": 3,
+      "pairs": 68,
+      "wins": 0,
+      "losses": 39,
+      "draws": 2,
+      "avg_pos": 14.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 28,
+          "r": 1544.1,
+          "p": 9,
+          "w": 10,
+          "l": 8,
+          "d": 2
+        },
+        {
+          "e": 30,
+          "r": 1413.5,
+          "p": 17,
+          "w": 5,
+          "l": 16,
+          "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1497.4,
+          "p": 16,
+          "w": 12,
+          "l": 15,
+          "d": 0
+        }
+      ],
+      "rank": 57,
+      "podiums": 0,
+      "best": 9
     },
     {
       "key": "76561198364662649",
@@ -6997,7 +7333,7 @@
           "d": 1
         }
       ],
-      "rank": 56,
+      "rank": 58,
       "podiums": 1,
       "best": 3
     },
@@ -7033,7 +7369,7 @@
           "d": 0
         }
       ],
-      "rank": 57,
+      "rank": 59,
       "podiums": 0,
       "best": 7
     },
@@ -7077,21 +7413,21 @@
           "d": 0
         }
       ],
-      "rank": 58,
+      "rank": 60,
       "podiums": 0,
       "best": 11
     },
     {
       "key": "76561197972890120",
       "name": "aizpun",
-      "rating": 1461.9,
+      "rating": 1465.0,
       "peak": 1500,
-      "cups": 4,
-      "pairs": 83,
+      "cups": 5,
+      "pairs": 110,
       "wins": 0,
-      "losses": 48,
+      "losses": 65,
       "draws": 10,
-      "avg_pos": 13.0,
+      "avg_pos": 14.0,
       "gold": 0,
       "silver": 0,
       "bronze": 0,
@@ -7127,9 +7463,17 @@
           "w": 10,
           "l": 11,
           "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1465.0,
+          "p": 18,
+          "w": 10,
+          "l": 17,
+          "d": 0
         }
       ],
-      "rank": 59,
+      "rank": 61,
       "podiums": 0,
       "best": 12
     },
@@ -7165,7 +7509,7 @@
           "d": 3
         }
       ],
-      "rank": 60,
+      "rank": 62,
       "podiums": 0,
       "best": 12
     },
@@ -7241,9 +7585,53 @@
           "d": 0
         }
       ],
-      "rank": 61,
+      "rank": 63,
       "podiums": 0,
       "best": 4
+    },
+    {
+      "key": "76561199292634733",
+      "name": "Zodiak",
+      "rating": 1436.5,
+      "peak": 1930.5,
+      "cups": 3,
+      "pairs": 82,
+      "wins": 1,
+      "losses": 29,
+      "draws": 4,
+      "avg_pos": 10.7,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 15,
+          "r": 1787.6,
+          "p": 7,
+          "w": 27,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1930.5,
+          "p": 1,
+          "w": 22,
+          "l": 0,
+          "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1436.5,
+          "p": 24,
+          "w": 0,
+          "l": 23,
+          "d": 4
+        }
+      ],
+      "rank": 64,
+      "podiums": 1,
+      "best": 1
     },
     {
       "key": "76561198040861578",
@@ -7277,45 +7665,69 @@
           "d": 0
         }
       ],
-      "rank": 62,
+      "rank": 65,
       "podiums": 0,
       "best": 15
     },
     {
-      "key": "name:Lunarbunny",
-      "name": "Lunarbunny",
-      "rating": 1413.5,
-      "peak": 1544.1,
-      "cups": 2,
-      "pairs": 41,
+      "key": "76561198149636594",
+      "name": "Quickracer10",
+      "rating": 1428.7,
+      "peak": 1745.6,
+      "cups": 5,
+      "pairs": 110,
       "wins": 0,
-      "losses": 24,
+      "losses": 48,
       "draws": 2,
-      "avg_pos": 13.0,
+      "avg_pos": 10.6,
       "gold": 0,
       "silver": 0,
-      "bronze": 0,
+      "bronze": 1,
       "history": [
         {
-          "e": 28,
-          "r": 1544.1,
+          "e": 3,
+          "r": 1745.6,
+          "p": 3,
+          "w": 24,
+          "l": 2,
+          "d": 0
+        },
+        {
+          "e": 11,
+          "r": 1570.5,
+          "p": 13,
+          "w": 8,
+          "l": 12,
+          "d": 1
+        },
+        {
+          "e": 14,
+          "r": 1600.9,
           "p": 9,
           "w": 10,
           "l": 8,
-          "d": 2
+          "d": 0
         },
         {
-          "e": 30,
-          "r": 1413.5,
-          "p": 17,
-          "w": 5,
-          "l": 16,
+          "e": 27,
+          "r": 1716.2,
+          "p": 6,
+          "w": 13,
+          "l": 5,
           "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1428.7,
+          "p": 22,
+          "w": 5,
+          "l": 21,
+          "d": 1
         }
       ],
-      "rank": 63,
-      "podiums": 0,
-      "best": 9
+      "rank": 66,
+      "podiums": 1,
+      "best": 3
     },
     {
       "key": "76561198758353504",
@@ -7349,7 +7761,7 @@
           "d": 0
         }
       ],
-      "rank": 64,
+      "rank": 67,
       "podiums": 0,
       "best": 14
     },
@@ -7385,7 +7797,7 @@
           "d": 0
         }
       ],
-      "rank": 65,
+      "rank": 68,
       "podiums": 0,
       "best": 14
     },
@@ -7421,21 +7833,401 @@
           "d": 2
         }
       ],
-      "rank": 66,
+      "rank": 69,
+      "podiums": 0,
+      "best": 15
+    },
+    {
+      "key": "76561198041670380",
+      "name": "Weside",
+      "rating": 1363.6,
+      "peak": 1500,
+      "cups": 2,
+      "pairs": 38,
+      "wins": 0,
+      "losses": 26,
+      "draws": 1,
+      "avg_pos": 14.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 3,
+          "r": 1313.6,
+          "p": 21,
+          "w": 6,
+          "l": 20,
+          "d": 0
+        },
+        {
+          "e": 6,
+          "r": 1363.6,
+          "p": 7,
+          "w": 5,
+          "l": 6,
+          "d": 1
+        }
+      ],
+      "rank": 70,
+      "podiums": 0,
+      "best": 5
+    },
+    {
+      "key": "76561198846673916",
+      "name": "Matic_D",
+      "rating": 1341.1,
+      "peak": 1616.1,
+      "cups": 2,
+      "pairs": 41,
+      "wins": 0,
+      "losses": 26,
+      "draws": 1,
+      "avg_pos": 14.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 28,
+          "r": 1616.1,
+          "p": 7,
+          "w": 14,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 31,
+          "r": 1341.1,
+          "p": 21,
+          "w": 0,
+          "l": 20,
+          "d": 1
+        }
+      ],
+      "rank": 71,
+      "podiums": 0,
+      "best": 7
+    },
+    {
+      "key": "name:MCRJAKE17",
+      "name": "MCRJAKE17",
+      "rating": 1318.6,
+      "peak": 1500,
+      "cups": 3,
+      "pairs": 81,
+      "wins": 0,
+      "losses": 53,
+      "draws": 6,
+      "avg_pos": 18.7,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 15,
+          "r": 1379.6,
+          "p": 23,
+          "w": 9,
+          "l": 22,
+          "d": 2
+        },
+        {
+          "e": 16,
+          "r": 1469.1,
+          "p": 14,
+          "w": 13,
+          "l": 13,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1318.6,
+          "p": 19,
+          "w": 0,
+          "l": 18,
+          "d": 4
+        }
+      ],
+      "rank": 72,
+      "podiums": 0,
+      "best": 14
+    },
+    {
+      "key": "76561198314583077",
+      "name": "ShyGirlyRaccoon",
+      "rating": 1312.4,
+      "peak": 1500,
+      "cups": 7,
+      "pairs": 131,
+      "wins": 0,
+      "losses": 91,
+      "draws": 13,
+      "avg_pos": 14.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 1,
+          "r": 1488.0,
+          "p": 11,
+          "w": 9,
+          "l": 10,
+          "d": 0
+        },
+        {
+          "e": 2,
+          "r": 1310.9,
+          "p": 24,
+          "w": 6,
+          "l": 23,
+          "d": 0
+        },
+        {
+          "e": 4,
+          "r": 1286.2,
+          "p": 14,
+          "w": 3,
+          "l": 13,
+          "d": 0
+        },
+        {
+          "e": 12,
+          "r": 1229.0,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 3
+        },
+        {
+          "e": 18,
+          "r": 1311.0,
+          "p": 7,
+          "w": 6,
+          "l": 6,
+          "d": 0
+        },
+        {
+          "e": 27,
+          "r": 1330.6,
+          "p": 15,
+          "w": 3,
+          "l": 14,
+          "d": 1
+        },
+        {
+          "e": 28,
+          "r": 1312.4,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        }
+      ],
+      "rank": 73,
+      "podiums": 0,
+      "best": 7
+    },
+    {
+      "key": "name:CritterZoid",
+      "name": "CritterZoid",
+      "rating": 1306.3,
+      "peak": 1534.5,
+      "cups": 2,
+      "pairs": 38,
+      "wins": 0,
+      "losses": 21,
+      "draws": 10,
+      "avg_pos": 11.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 6,
+          "r": 1534.5,
+          "p": 5,
+          "w": 7,
+          "l": 4,
+          "d": 1
+        },
+        {
+          "e": 16,
+          "r": 1306.3,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 9
+        }
+      ],
+      "rank": 74,
+      "podiums": 0,
+      "best": 5
+    },
+    {
+      "key": "76561198976514611",
+      "name": "sailingman",
+      "rating": 1304.7,
+      "peak": 1500,
+      "cups": 2,
+      "pairs": 42,
+      "wins": 0,
+      "losses": 26,
+      "draws": 16,
+      "avg_pos": 14.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 28,
+          "r": 1388.1,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 9
+        },
+        {
+          "e": 29,
+          "r": 1304.7,
+          "p": 16,
+          "w": 0,
+          "l": 15,
+          "d": 7
+        }
+      ],
+      "rank": 75,
+      "podiums": 0,
+      "best": 12
+    },
+    {
+      "key": "76561199842604096",
+      "name": "Dartho Mas",
+      "rating": 1301.9,
+      "peak": 1500,
+      "cups": 3,
+      "pairs": 73,
+      "wins": 0,
+      "losses": 52,
+      "draws": 9,
+      "avg_pos": 18.3,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 14,
+          "r": 1388.7,
+          "p": 14,
+          "w": 0,
+          "l": 13,
+          "d": 5
+        },
+        {
+          "e": 15,
+          "r": 1429.6,
+          "p": 22,
+          "w": 12,
+          "l": 21,
+          "d": 0
+        },
+        {
+          "e": 17,
+          "r": 1301.9,
+          "p": 19,
+          "w": 0,
+          "l": 18,
+          "d": 4
+        }
+      ],
+      "rank": 76,
+      "podiums": 0,
+      "best": 14
+    },
+    {
+      "key": "name:Lunar_eclipse",
+      "name": "Lunar_eclipse",
+      "rating": 1290.1,
+      "peak": 1500,
+      "cups": 2,
+      "pairs": 31,
+      "wins": 0,
+      "losses": 28,
+      "draws": 1,
+      "avg_pos": 15.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 18,
+          "r": 1368.7,
+          "p": 12,
+          "w": 0,
+          "l": 11,
+          "d": 1
+        },
+        {
+          "e": 19,
+          "r": 1290.1,
+          "p": 18,
+          "w": 2,
+          "l": 17,
+          "d": 0
+        }
+      ],
+      "rank": 77,
+      "podiums": 0,
+      "best": 12
+    },
+    {
+      "key": "76561198042873074",
+      "name": "krisu",
+      "rating": 1258.1,
+      "peak": 1500,
+      "cups": 2,
+      "pairs": 47,
+      "wins": 0,
+      "losses": 31,
+      "draws": 16,
+      "avg_pos": 16.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 11,
+          "r": 1356.9,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 7
+        },
+        {
+          "e": 16,
+          "r": 1258.1,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 9
+        }
+      ],
+      "rank": 78,
       "podiums": 0,
       "best": 15
     },
     {
       "key": "76561198040976717",
       "name": "Lilly Fenn",
-      "rating": 1365.8,
+      "rating": 1251.2,
       "peak": 1644.5,
-      "cups": 19,
-      "pairs": 375,
+      "cups": 20,
+      "pairs": 402,
       "wins": 0,
-      "losses": 237,
-      "draws": 47,
-      "avg_pos": 13.5,
+      "losses": 260,
+      "draws": 51,
+      "avg_pos": 14.0,
       "gold": 0,
       "silver": 0,
       "bronze": 0,
@@ -7591,475 +8383,31 @@
           "w": 4,
           "l": 17,
           "d": 0
+        },
+        {
+          "e": 33,
+          "r": 1251.2,
+          "p": 24,
+          "w": 0,
+          "l": 23,
+          "d": 4
         }
       ],
-      "rank": 67,
+      "rank": 79,
       "podiums": 0,
       "best": 4
     },
     {
-      "key": "76561198041670380",
-      "name": "Weside",
-      "rating": 1363.6,
-      "peak": 1500,
-      "cups": 2,
-      "pairs": 38,
-      "wins": 0,
-      "losses": 26,
-      "draws": 1,
-      "avg_pos": 14.0,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 3,
-          "r": 1313.6,
-          "p": 21,
-          "w": 6,
-          "l": 20,
-          "d": 0
-        },
-        {
-          "e": 6,
-          "r": 1363.6,
-          "p": 7,
-          "w": 5,
-          "l": 6,
-          "d": 1
-        }
-      ],
-      "rank": 68,
-      "podiums": 0,
-      "best": 5
-    },
-    {
-      "key": "76561198846673916",
-      "name": "Matic_D",
-      "rating": 1341.1,
-      "peak": 1616.1,
-      "cups": 2,
-      "pairs": 41,
-      "wins": 0,
-      "losses": 26,
-      "draws": 1,
-      "avg_pos": 14.0,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 28,
-          "r": 1616.1,
-          "p": 7,
-          "w": 14,
-          "l": 6,
-          "d": 0
-        },
-        {
-          "e": 31,
-          "r": 1341.1,
-          "p": 21,
-          "w": 0,
-          "l": 20,
-          "d": 1
-        }
-      ],
-      "rank": 69,
-      "podiums": 0,
-      "best": 7
-    },
-    {
-      "key": "name:MCRJAKE17",
-      "name": "MCRJAKE17",
-      "rating": 1318.6,
-      "peak": 1500,
-      "cups": 3,
-      "pairs": 81,
-      "wins": 0,
-      "losses": 53,
-      "draws": 6,
-      "avg_pos": 18.7,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 15,
-          "r": 1379.6,
-          "p": 23,
-          "w": 9,
-          "l": 22,
-          "d": 2
-        },
-        {
-          "e": 16,
-          "r": 1469.1,
-          "p": 14,
-          "w": 13,
-          "l": 13,
-          "d": 0
-        },
-        {
-          "e": 17,
-          "r": 1318.6,
-          "p": 19,
-          "w": 0,
-          "l": 18,
-          "d": 4
-        }
-      ],
-      "rank": 70,
-      "podiums": 0,
-      "best": 14
-    },
-    {
-      "key": "76561198314583077",
-      "name": "ShyGirlyRaccoon",
-      "rating": 1312.4,
-      "peak": 1500,
-      "cups": 7,
-      "pairs": 131,
-      "wins": 0,
-      "losses": 91,
-      "draws": 13,
-      "avg_pos": 14.0,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 1,
-          "r": 1488.0,
-          "p": 11,
-          "w": 9,
-          "l": 10,
-          "d": 0
-        },
-        {
-          "e": 2,
-          "r": 1310.9,
-          "p": 24,
-          "w": 6,
-          "l": 23,
-          "d": 0
-        },
-        {
-          "e": 4,
-          "r": 1286.2,
-          "p": 14,
-          "w": 3,
-          "l": 13,
-          "d": 0
-        },
-        {
-          "e": 12,
-          "r": 1229.0,
-          "p": 15,
-          "w": 0,
-          "l": 14,
-          "d": 3
-        },
-        {
-          "e": 18,
-          "r": 1311.0,
-          "p": 7,
-          "w": 6,
-          "l": 6,
-          "d": 0
-        },
-        {
-          "e": 27,
-          "r": 1330.6,
-          "p": 15,
-          "w": 3,
-          "l": 14,
-          "d": 1
-        },
-        {
-          "e": 28,
-          "r": 1312.4,
-          "p": 12,
-          "w": 0,
-          "l": 11,
-          "d": 9
-        }
-      ],
-      "rank": 71,
-      "podiums": 0,
-      "best": 7
-    },
-    {
-      "key": "name:CritterZoid",
-      "name": "CritterZoid",
-      "rating": 1306.3,
-      "peak": 1534.5,
-      "cups": 2,
-      "pairs": 38,
-      "wins": 0,
-      "losses": 21,
-      "draws": 10,
-      "avg_pos": 11.5,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 6,
-          "r": 1534.5,
-          "p": 5,
-          "w": 7,
-          "l": 4,
-          "d": 1
-        },
-        {
-          "e": 16,
-          "r": 1306.3,
-          "p": 18,
-          "w": 0,
-          "l": 17,
-          "d": 9
-        }
-      ],
-      "rank": 72,
-      "podiums": 0,
-      "best": 5
-    },
-    {
-      "key": "76561198976514611",
-      "name": "sailingman",
-      "rating": 1304.7,
-      "peak": 1500,
-      "cups": 2,
-      "pairs": 42,
-      "wins": 0,
-      "losses": 26,
-      "draws": 16,
-      "avg_pos": 14.0,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 28,
-          "r": 1388.1,
-          "p": 12,
-          "w": 0,
-          "l": 11,
-          "d": 9
-        },
-        {
-          "e": 29,
-          "r": 1304.7,
-          "p": 16,
-          "w": 0,
-          "l": 15,
-          "d": 7
-        }
-      ],
-      "rank": 73,
-      "podiums": 0,
-      "best": 12
-    },
-    {
-      "key": "76561199842604096",
-      "name": "Dartho Mas",
-      "rating": 1301.9,
-      "peak": 1500,
-      "cups": 3,
-      "pairs": 73,
-      "wins": 0,
-      "losses": 52,
-      "draws": 9,
-      "avg_pos": 18.3,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 14,
-          "r": 1388.7,
-          "p": 14,
-          "w": 0,
-          "l": 13,
-          "d": 5
-        },
-        {
-          "e": 15,
-          "r": 1429.6,
-          "p": 22,
-          "w": 12,
-          "l": 21,
-          "d": 0
-        },
-        {
-          "e": 17,
-          "r": 1301.9,
-          "p": 19,
-          "w": 0,
-          "l": 18,
-          "d": 4
-        }
-      ],
-      "rank": 74,
-      "podiums": 0,
-      "best": 14
-    },
-    {
-      "key": "name:Lunar_eclipse",
-      "name": "Lunar_eclipse",
-      "rating": 1290.1,
-      "peak": 1500,
-      "cups": 2,
-      "pairs": 31,
-      "wins": 0,
-      "losses": 28,
-      "draws": 1,
-      "avg_pos": 15.0,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 18,
-          "r": 1368.7,
-          "p": 12,
-          "w": 0,
-          "l": 11,
-          "d": 1
-        },
-        {
-          "e": 19,
-          "r": 1290.1,
-          "p": 18,
-          "w": 2,
-          "l": 17,
-          "d": 0
-        }
-      ],
-      "rank": 75,
-      "podiums": 0,
-      "best": 12
-    },
-    {
-      "key": "76561198042873074",
-      "name": "krisu",
-      "rating": 1258.1,
-      "peak": 1500,
-      "cups": 2,
-      "pairs": 47,
-      "wins": 0,
-      "losses": 31,
-      "draws": 16,
-      "avg_pos": 16.5,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 11,
-          "r": 1356.9,
-          "p": 15,
-          "w": 0,
-          "l": 14,
-          "d": 7
-        },
-        {
-          "e": 16,
-          "r": 1258.1,
-          "p": 18,
-          "w": 0,
-          "l": 17,
-          "d": 9
-        }
-      ],
-      "rank": 76,
-      "podiums": 0,
-      "best": 15
-    },
-    {
-      "key": "76561197961191126",
-      "name": "alpa",
-      "rating": 1247.0,
-      "peak": 1500,
-      "cups": 2,
-      "pairs": 40,
-      "wins": 0,
-      "losses": 35,
-      "draws": 0,
-      "avg_pos": 18.5,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 19,
-          "r": 1429.4,
-          "p": 15,
-          "w": 5,
-          "l": 14,
-          "d": 0
-        },
-        {
-          "e": 30,
-          "r": 1247.0,
-          "p": 22,
-          "w": 0,
-          "l": 21,
-          "d": 0
-        }
-      ],
-      "rank": 77,
-      "podiums": 0,
-      "best": 15
-    },
-    {
-      "key": "76561198071556725",
-      "name": "gameface",
-      "rating": 1228.9,
-      "peak": 1500,
-      "cups": 2,
-      "pairs": 40,
-      "wins": 0,
-      "losses": 32,
-      "draws": 8,
-      "avg_pos": 17.0,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 1,
-          "r": 1356.0,
-          "p": 13,
-          "w": 0,
-          "l": 12,
-          "d": 7
-        },
-        {
-          "e": 31,
-          "r": 1228.9,
-          "p": 21,
-          "w": 0,
-          "l": 20,
-          "d": 1
-        }
-      ],
-      "rank": 78,
-      "podiums": 0,
-      "best": 13
-    },
-    {
       "key": "name:Shinikage221",
       "name": "Shinikage221",
-      "rating": 1210.8,
+      "rating": 1248.6,
       "peak": 1500,
-      "cups": 4,
-      "pairs": 81,
+      "cups": 5,
+      "pairs": 108,
       "wins": 0,
-      "losses": 61,
-      "draws": 10,
-      "avg_pos": 16.2,
+      "losses": 82,
+      "draws": 11,
+      "avg_pos": 17.4,
       "gold": 0,
       "silver": 0,
       "bronze": 0,
@@ -8095,11 +8443,91 @@
           "w": 0,
           "l": 18,
           "d": 3
+        },
+        {
+          "e": 33,
+          "r": 1248.6,
+          "p": 22,
+          "w": 5,
+          "l": 21,
+          "d": 1
         }
       ],
-      "rank": 79,
+      "rank": 80,
       "podiums": 0,
       "best": 12
+    },
+    {
+      "key": "76561197961191126",
+      "name": "alpa",
+      "rating": 1247.0,
+      "peak": 1500,
+      "cups": 2,
+      "pairs": 40,
+      "wins": 0,
+      "losses": 35,
+      "draws": 0,
+      "avg_pos": 18.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 19,
+          "r": 1429.4,
+          "p": 15,
+          "w": 5,
+          "l": 14,
+          "d": 0
+        },
+        {
+          "e": 30,
+          "r": 1247.0,
+          "p": 22,
+          "w": 0,
+          "l": 21,
+          "d": 0
+        }
+      ],
+      "rank": 81,
+      "podiums": 0,
+      "best": 15
+    },
+    {
+      "key": "76561198071556725",
+      "name": "gameface",
+      "rating": 1228.9,
+      "peak": 1500,
+      "cups": 2,
+      "pairs": 40,
+      "wins": 0,
+      "losses": 32,
+      "draws": 8,
+      "avg_pos": 17.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 1,
+          "r": 1356.0,
+          "p": 13,
+          "w": 0,
+          "l": 12,
+          "d": 7
+        },
+        {
+          "e": 31,
+          "r": 1228.9,
+          "p": 21,
+          "w": 0,
+          "l": 20,
+          "d": 1
+        }
+      ],
+      "rank": 82,
+      "podiums": 0,
+      "best": 13
     },
     {
       "key": "76561198988960546",
@@ -8141,21 +8569,141 @@
           "d": 0
         }
       ],
-      "rank": 80,
+      "rank": 83,
       "podiums": 0,
       "best": 20
     },
     {
+      "key": "76561198096236961",
+      "name": "koz",
+      "rating": 1158.3,
+      "peak": 1500,
+      "cups": 6,
+      "pairs": 147,
+      "wins": 0,
+      "losses": 117,
+      "draws": 22,
+      "avg_pos": 20.5,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 2,
+          "r": 1214.8,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 4
+        },
+        {
+          "e": 3,
+          "r": 1124.1,
+          "p": 24,
+          "w": 0,
+          "l": 23,
+          "d": 3
+        },
+        {
+          "e": 5,
+          "r": 1261.2,
+          "p": 14,
+          "w": 8,
+          "l": 13,
+          "d": 0
+        },
+        {
+          "e": 10,
+          "r": 1217.5,
+          "p": 21,
+          "w": 0,
+          "l": 20,
+          "d": 6
+        },
+        {
+          "e": 16,
+          "r": 1203.5,
+          "p": 18,
+          "w": 0,
+          "l": 17,
+          "d": 9
+        },
+        {
+          "e": 19,
+          "r": 1158.3,
+          "p": 20,
+          "w": 0,
+          "l": 19,
+          "d": 0
+        }
+      ],
+      "rank": 84,
+      "podiums": 0,
+      "best": 14
+    },
+    {
+      "key": "76561198076209946",
+      "name": "[ZET]maskeddog",
+      "rating": 1140.9,
+      "peak": 1500,
+      "cups": 4,
+      "pairs": 85,
+      "wins": 0,
+      "losses": 68,
+      "draws": 17,
+      "avg_pos": 18.0,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "history": [
+        {
+          "e": 2,
+          "r": 1214.8,
+          "p": 26,
+          "w": 0,
+          "l": 25,
+          "d": 4
+        },
+        {
+          "e": 3,
+          "r": 1124.1,
+          "p": 24,
+          "w": 0,
+          "l": 23,
+          "d": 3
+        },
+        {
+          "e": 7,
+          "r": 1156.9,
+          "p": 7,
+          "w": 0,
+          "l": 6,
+          "d": 7
+        },
+        {
+          "e": 12,
+          "r": 1140.9,
+          "p": 15,
+          "w": 0,
+          "l": 14,
+          "d": 3
+        }
+      ],
+      "rank": 85,
+      "podiums": 0,
+      "best": 7
+    },
+    {
       "key": "76561198070406017",
       "name": "DragonShadow84290",
-      "rating": 1159.5,
+      "rating": 1132.1,
       "peak": 1500,
-      "cups": 8,
-      "pairs": 158,
+      "cups": 9,
+      "pairs": 185,
       "wins": 0,
-      "losses": 119,
-      "draws": 35,
-      "avg_pos": 15.9,
+      "losses": 142,
+      "draws": 39,
+      "avg_pos": 16.8,
       "gold": 0,
       "silver": 0,
       "bronze": 0,
@@ -8223,143 +8771,31 @@
           "w": 0,
           "l": 18,
           "d": 3
+        },
+        {
+          "e": 33,
+          "r": 1132.1,
+          "p": 24,
+          "w": 0,
+          "l": 23,
+          "d": 4
         }
       ],
-      "rank": 81,
+      "rank": 86,
       "podiums": 0,
       "best": 11
     },
     {
-      "key": "76561198096236961",
-      "name": "koz",
-      "rating": 1158.3,
-      "peak": 1500,
-      "cups": 6,
-      "pairs": 147,
-      "wins": 0,
-      "losses": 117,
-      "draws": 22,
-      "avg_pos": 20.5,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 2,
-          "r": 1214.8,
-          "p": 26,
-          "w": 0,
-          "l": 25,
-          "d": 4
-        },
-        {
-          "e": 3,
-          "r": 1124.1,
-          "p": 24,
-          "w": 0,
-          "l": 23,
-          "d": 3
-        },
-        {
-          "e": 5,
-          "r": 1261.2,
-          "p": 14,
-          "w": 8,
-          "l": 13,
-          "d": 0
-        },
-        {
-          "e": 10,
-          "r": 1217.5,
-          "p": 21,
-          "w": 0,
-          "l": 20,
-          "d": 6
-        },
-        {
-          "e": 16,
-          "r": 1203.5,
-          "p": 18,
-          "w": 0,
-          "l": 17,
-          "d": 9
-        },
-        {
-          "e": 19,
-          "r": 1158.3,
-          "p": 20,
-          "w": 0,
-          "l": 19,
-          "d": 0
-        }
-      ],
-      "rank": 82,
-      "podiums": 0,
-      "best": 14
-    },
-    {
-      "key": "76561198076209946",
-      "name": "[ZET]maskeddog",
-      "rating": 1140.9,
-      "peak": 1500,
-      "cups": 4,
-      "pairs": 85,
-      "wins": 0,
-      "losses": 68,
-      "draws": 17,
-      "avg_pos": 18.0,
-      "gold": 0,
-      "silver": 0,
-      "bronze": 0,
-      "history": [
-        {
-          "e": 2,
-          "r": 1214.8,
-          "p": 26,
-          "w": 0,
-          "l": 25,
-          "d": 4
-        },
-        {
-          "e": 3,
-          "r": 1124.1,
-          "p": 24,
-          "w": 0,
-          "l": 23,
-          "d": 3
-        },
-        {
-          "e": 7,
-          "r": 1156.9,
-          "p": 7,
-          "w": 0,
-          "l": 6,
-          "d": 7
-        },
-        {
-          "e": 12,
-          "r": 1140.9,
-          "p": 15,
-          "w": 0,
-          "l": 14,
-          "d": 3
-        }
-      ],
-      "rank": 83,
-      "podiums": 0,
-      "best": 7
-    },
-    {
       "key": "76561198451895679",
       "name": "L3mmy",
-      "rating": 1140.6,
+      "rating": 1118.7,
       "peak": 1500,
-      "cups": 18,
-      "pairs": 371,
+      "cups": 19,
+      "pairs": 398,
       "wins": 0,
-      "losses": 292,
-      "draws": 61,
-      "avg_pos": 17.2,
+      "losses": 315,
+      "draws": 65,
+      "avg_pos": 17.6,
       "gold": 0,
       "silver": 0,
       "bronze": 0,
@@ -8507,9 +8943,17 @@
           "w": 0,
           "l": 18,
           "d": 3
+        },
+        {
+          "e": 33,
+          "r": 1118.7,
+          "p": 24,
+          "w": 0,
+          "l": 23,
+          "d": 4
         }
       ],
-      "rank": 84,
+      "rank": 87,
       "podiums": 0,
       "best": 7
     }
@@ -8522,12 +8966,12 @@
       "k_base": 12,
       "prov_cups": 5,
       "min_cups_display": 2,
-      "sof_floor": 1282.3,
-      "sof_peak": 1968.17
+      "sof_floor": 1276.7,
+      "sof_peak": 1968.67
     },
     "first_event": 1,
-    "last_event": 32,
-    "total_pairs": 5478,
+    "last_event": 33,
+    "total_pairs": 5856,
     "players": [
       {
         "key": "76561198050792757",
@@ -8632,15 +9076,15 @@
       {
         "key": "76561198152852852",
         "name": "JakeAdjacent",
-        "rating": 2032.2,
-        "peak": 2032.2,
-        "cups": 9,
-        "pairs": 182,
-        "wins": 5,
+        "rating": 2090.6,
+        "peak": 2090.6,
+        "cups": 10,
+        "pairs": 209,
+        "wins": 6,
         "losses": 29,
         "draws": 0,
-        "avg_pos": 4.2,
-        "gold": 5,
+        "avg_pos": 3.9,
+        "gold": 6,
         "silver": 3,
         "bronze": 2,
         "history": [
@@ -8715,10 +9159,18 @@
             "w": 20,
             "l": 1,
             "d": 0
+          },
+          {
+            "e": 33,
+            "r": 2090.6,
+            "p": 1,
+            "w": 27,
+            "l": 0,
+            "d": 0
           }
         ],
         "rank": 2,
-        "podiums": 10,
+        "podiums": 11,
         "best": 1
       },
       {
@@ -8856,14 +9308,14 @@
       {
         "key": "76561198896246339",
         "name": "RoundNzt",
-        "rating": 1959.4,
-        "peak": 1959.4,
-        "cups": 5,
-        "pairs": 105,
+        "rating": 1981.6,
+        "peak": 1981.6,
+        "cups": 6,
+        "pairs": 132,
         "wins": 3,
-        "losses": 6,
+        "losses": 9,
         "draws": 1,
-        "avg_pos": 2.2,
+        "avg_pos": 2.5,
         "gold": 3,
         "silver": 3,
         "bronze": 0,
@@ -8907,6 +9359,14 @@
             "w": 17,
             "l": 0,
             "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1981.6,
+            "p": 4,
+            "w": 24,
+            "l": 3,
+            "d": 0
           }
         ],
         "rank": 4,
@@ -8914,40 +9374,40 @@
         "best": 1
       },
       {
-        "key": "76561199292634733",
-        "name": "Zodiak",
-        "rating": 1930.5,
-        "peak": 1930.5,
+        "key": "76561199027567424",
+        "name": "Hydro",
+        "rating": 1959.0,
+        "peak": 1959.0,
         "cups": 2,
-        "pairs": 55,
-        "wins": 1,
-        "losses": 6,
+        "pairs": 53,
+        "wins": 0,
+        "losses": 2,
         "draws": 0,
-        "avg_pos": 4.0,
-        "gold": 1,
-        "silver": 0,
+        "avg_pos": 2.0,
+        "gold": 0,
+        "silver": 2,
         "bronze": 0,
         "history": [
           {
-            "e": 15,
-            "r": 1787.6,
-            "p": 7,
-            "w": 27,
-            "l": 6,
+            "e": 10,
+            "r": 1819.7,
+            "p": 2,
+            "w": 25,
+            "l": 1,
             "d": 0
           },
           {
-            "e": 17,
-            "r": 1930.5,
-            "p": 1,
-            "w": 22,
-            "l": 0,
+            "e": 33,
+            "r": 1959.0,
+            "p": 2,
+            "w": 26,
+            "l": 1,
             "d": 0
           }
         ],
         "rank": 5,
-        "podiums": 1,
-        "best": 1
+        "podiums": 2,
+        "best": 2
       },
       {
         "key": "76561199024808939",
@@ -9190,6 +9650,42 @@
         "best": 1
       },
       {
+        "key": "76561199321598731",
+        "name": "void",
+        "rating": 1869.5,
+        "peak": 1869.5,
+        "cups": 2,
+        "pairs": 48,
+        "wins": 0,
+        "losses": 8,
+        "draws": 1,
+        "avg_pos": 5.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 30,
+            "r": 1623.9,
+            "p": 7,
+            "w": 14,
+            "l": 6,
+            "d": 1
+          },
+          {
+            "e": 33,
+            "r": 1869.5,
+            "p": 3,
+            "w": 25,
+            "l": 2,
+            "d": 0
+          }
+        ],
+        "rank": 10,
+        "podiums": 1,
+        "best": 3
+      },
+      {
         "key": "76561198001387193",
         "name": "Warsnac",
         "rating": 1867.3,
@@ -9221,7 +9717,7 @@
             "d": 0
           }
         ],
-        "rank": 10,
+        "rank": 11,
         "podiums": 1,
         "best": 3
       },
@@ -9265,7 +9761,7 @@
             "d": 0
           }
         ],
-        "rank": 11,
+        "rank": 12,
         "podiums": 2,
         "best": 2
       },
@@ -9317,53 +9813,9 @@
             "d": 0
           }
         ],
-        "rank": 12,
+        "rank": 13,
         "podiums": 5,
         "best": 1
-      },
-      {
-        "key": "76561197980151170",
-        "name": "Shadynook",
-        "rating": 1833.7,
-        "peak": 1833.7,
-        "cups": 3,
-        "pairs": 73,
-        "wins": 0,
-        "losses": 17,
-        "draws": 0,
-        "avg_pos": 6.7,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 15,
-            "r": 1739.6,
-            "p": 9,
-            "w": 25,
-            "l": 8,
-            "d": 0
-          },
-          {
-            "e": 17,
-            "r": 1787.8,
-            "p": 6,
-            "w": 17,
-            "l": 5,
-            "d": 0
-          },
-          {
-            "e": 27,
-            "r": 1833.7,
-            "p": 5,
-            "w": 14,
-            "l": 4,
-            "d": 0
-          }
-        ],
-        "rank": 13,
-        "podiums": 0,
-        "best": 5
       },
       {
         "key": "76561198178190613",
@@ -9446,6 +9898,58 @@
         "best": 3
       },
       {
+        "key": "76561197980151170",
+        "name": "Shadynook",
+        "rating": 1820.9,
+        "peak": 1833.7,
+        "cups": 4,
+        "pairs": 100,
+        "wins": 0,
+        "losses": 24,
+        "draws": 0,
+        "avg_pos": 7.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1739.6,
+            "p": 9,
+            "w": 25,
+            "l": 8,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1787.8,
+            "p": 6,
+            "w": 17,
+            "l": 5,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1833.7,
+            "p": 5,
+            "w": 14,
+            "l": 4,
+            "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1820.9,
+            "p": 8,
+            "w": 20,
+            "l": 7,
+            "d": 0
+          }
+        ],
+        "rank": 16,
+        "podiums": 0,
+        "best": 5
+      },
+      {
         "key": "76561198840040581",
         "name": "RadAbsRad",
         "rating": 1807.9,
@@ -9477,7 +9981,7 @@
             "d": 0
           }
         ],
-        "rank": 16,
+        "rank": 17,
         "podiums": 0,
         "best": 6
       },
@@ -9585,53 +10089,45 @@
             "d": 0
           }
         ],
-        "rank": 17,
+        "rank": 18,
         "podiums": 2,
         "best": 3
       },
       {
-        "key": "76561198056113005",
-        "name": "Six",
-        "rating": 1795.8,
-        "peak": 1795.8,
-        "cups": 3,
-        "pairs": 59,
+        "key": "76561198047403251",
+        "name": "St Nicholas",
+        "rating": 1795.7,
+        "peak": 1795.7,
+        "cups": 2,
+        "pairs": 48,
         "wins": 0,
-        "losses": 11,
+        "losses": 12,
         "draws": 0,
-        "avg_pos": 4.7,
+        "avg_pos": 7.0,
         "gold": 0,
-        "silver": 2,
+        "silver": 0,
         "bronze": 0,
         "history": [
           {
-            "e": 27,
-            "r": 1761.7,
-            "p": 2,
-            "w": 17,
-            "l": 1,
-            "d": 0
-          },
-          {
-            "e": 28,
-            "r": 1708.1,
+            "e": 31,
+            "r": 1617.5,
             "p": 8,
-            "w": 13,
+            "w": 14,
             "l": 7,
             "d": 0
           },
           {
-            "e": 30,
-            "r": 1795.8,
-            "p": 4,
-            "w": 18,
-            "l": 3,
+            "e": 33,
+            "r": 1795.7,
+            "p": 6,
+            "w": 22,
+            "l": 5,
             "d": 0
           }
         ],
-        "rank": 18,
-        "podiums": 2,
-        "best": 2
+        "rank": 19,
+        "podiums": 0,
+        "best": 6
       },
       {
         "key": "76561199109206781",
@@ -9737,7 +10233,7 @@
             "d": 0
           }
         ],
-        "rank": 19,
+        "rank": 20,
         "podiums": 4,
         "best": 2
       },
@@ -9773,7 +10269,7 @@
             "d": 0
           }
         ],
-        "rank": 20,
+        "rank": 21,
         "podiums": 1,
         "best": 3
       },
@@ -9897,7 +10393,7 @@
             "d": 0
           }
         ],
-        "rank": 21,
+        "rank": 22,
         "podiums": 4,
         "best": 1
       },
@@ -9981,61 +10477,9 @@
             "d": 0
           }
         ],
-        "rank": 22,
+        "rank": 23,
         "podiums": 3,
         "best": 2
-      },
-      {
-        "key": "76561199186342067",
-        "name": "PlusMicron",
-        "rating": 1759.6,
-        "peak": 1759.6,
-        "cups": 4,
-        "pairs": 83,
-        "wins": 1,
-        "losses": 26,
-        "draws": 3,
-        "avg_pos": 7.5,
-        "gold": 1,
-        "silver": 0,
-        "bronze": 1,
-        "history": [
-          {
-            "e": 28,
-            "r": 1544.1,
-            "p": 9,
-            "w": 10,
-            "l": 8,
-            "d": 2
-          },
-          {
-            "e": 30,
-            "r": 1641.5,
-            "p": 7,
-            "w": 14,
-            "l": 6,
-            "d": 1
-          },
-          {
-            "e": 31,
-            "r": 1604.0,
-            "p": 11,
-            "w": 11,
-            "l": 10,
-            "d": 0
-          },
-          {
-            "e": 32,
-            "r": 1759.6,
-            "p": 3,
-            "w": 19,
-            "l": 2,
-            "d": 0
-          }
-        ],
-        "rank": 23,
-        "podiums": 2,
-        "best": 1
       },
       {
         "key": "76561199498272376",
@@ -10090,6 +10534,110 @@
         "best": 1
       },
       {
+        "key": "76561198126038296",
+        "name": "Noxitu",
+        "rating": 1751.1,
+        "peak": 1751.1,
+        "cups": 3,
+        "pairs": 71,
+        "wins": 0,
+        "losses": 25,
+        "draws": 1,
+        "avg_pos": 9.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 10,
+            "r": 1495.7,
+            "p": 15,
+            "w": 11,
+            "l": 14,
+            "d": 1
+          },
+          {
+            "e": 27,
+            "r": 1711.4,
+            "p": 4,
+            "w": 15,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1751.1,
+            "p": 9,
+            "w": 19,
+            "l": 8,
+            "d": 0
+          }
+        ],
+        "rank": 25,
+        "podiums": 0,
+        "best": 4
+      },
+      {
+        "key": "76561199186342067",
+        "name": "PlusMicron",
+        "rating": 1743.5,
+        "peak": 1759.6,
+        "cups": 5,
+        "pairs": 110,
+        "wins": 1,
+        "losses": 35,
+        "draws": 3,
+        "avg_pos": 8.0,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "history": [
+          {
+            "e": 28,
+            "r": 1544.1,
+            "p": 9,
+            "w": 10,
+            "l": 8,
+            "d": 2
+          },
+          {
+            "e": 30,
+            "r": 1641.5,
+            "p": 7,
+            "w": 14,
+            "l": 6,
+            "d": 1
+          },
+          {
+            "e": 31,
+            "r": 1604.0,
+            "p": 11,
+            "w": 11,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 32,
+            "r": 1759.6,
+            "p": 3,
+            "w": 19,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1743.5,
+            "p": 10,
+            "w": 18,
+            "l": 9,
+            "d": 0
+          }
+        ],
+        "rank": 26,
+        "podiums": 2,
+        "best": 1
+      },
+      {
         "key": "76561198359568548",
         "name": "Kodiak",
         "rating": 1743.5,
@@ -10121,7 +10669,7 @@
             "d": 0
           }
         ],
-        "rank": 25,
+        "rank": 27,
         "podiums": 0,
         "best": 5
       },
@@ -10157,9 +10705,61 @@
             "d": 0
           }
         ],
-        "rank": 26,
+        "rank": 28,
         "podiums": 0,
         "best": 6
+      },
+      {
+        "key": "76561198056113005",
+        "name": "Six",
+        "rating": 1733.2,
+        "peak": 1795.8,
+        "cups": 4,
+        "pairs": 86,
+        "wins": 0,
+        "losses": 21,
+        "draws": 0,
+        "avg_pos": 6.2,
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 27,
+            "r": 1761.7,
+            "p": 2,
+            "w": 17,
+            "l": 1,
+            "d": 0
+          },
+          {
+            "e": 28,
+            "r": 1708.1,
+            "p": 8,
+            "w": 13,
+            "l": 7,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1795.8,
+            "p": 4,
+            "w": 18,
+            "l": 3,
+            "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1733.2,
+            "p": 11,
+            "w": 17,
+            "l": 10,
+            "d": 0
+          }
+        ],
+        "rank": 29,
+        "podiums": 2,
+        "best": 2
       },
       {
         "key": "76561198428660617",
@@ -10209,7 +10809,7 @@
             "d": 0
           }
         ],
-        "rank": 27,
+        "rank": 30,
         "podiums": 0,
         "best": 6
       },
@@ -10285,97 +10885,9 @@
             "d": 0
           }
         ],
-        "rank": 28,
+        "rank": 31,
         "podiums": 1,
         "best": 3
-      },
-      {
-        "key": "76561198149636594",
-        "name": "Quickracer10",
-        "rating": 1716.2,
-        "peak": 1745.6,
-        "cups": 4,
-        "pairs": 83,
-        "wins": 0,
-        "losses": 27,
-        "draws": 1,
-        "avg_pos": 7.8,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 1,
-        "history": [
-          {
-            "e": 3,
-            "r": 1745.6,
-            "p": 3,
-            "w": 24,
-            "l": 2,
-            "d": 0
-          },
-          {
-            "e": 11,
-            "r": 1570.5,
-            "p": 13,
-            "w": 8,
-            "l": 12,
-            "d": 1
-          },
-          {
-            "e": 14,
-            "r": 1600.9,
-            "p": 9,
-            "w": 10,
-            "l": 8,
-            "d": 0
-          },
-          {
-            "e": 27,
-            "r": 1716.2,
-            "p": 6,
-            "w": 13,
-            "l": 5,
-            "d": 0
-          }
-        ],
-        "rank": 29,
-        "podiums": 1,
-        "best": 3
-      },
-      {
-        "key": "76561198126038296",
-        "name": "Noxitu",
-        "rating": 1711.4,
-        "peak": 1711.4,
-        "cups": 2,
-        "pairs": 44,
-        "wins": 0,
-        "losses": 17,
-        "draws": 1,
-        "avg_pos": 9.5,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 10,
-            "r": 1495.7,
-            "p": 15,
-            "w": 11,
-            "l": 14,
-            "d": 1
-          },
-          {
-            "e": 27,
-            "r": 1711.4,
-            "p": 4,
-            "w": 15,
-            "l": 3,
-            "d": 0
-          }
-        ],
-        "rank": 30,
-        "podiums": 0,
-        "best": 4
       },
       {
         "key": "name:Yoshi",
@@ -10409,7 +10921,7 @@
             "d": 0
           }
         ],
-        "rank": 31,
+        "rank": 32,
         "podiums": 0,
         "best": 7
       },
@@ -10445,7 +10957,7 @@
             "d": 1
           }
         ],
-        "rank": 32,
+        "rank": 33,
         "podiums": 0,
         "best": 7
       },
@@ -10481,7 +10993,7 @@
             "d": 0
           }
         ],
-        "rank": 33,
+        "rank": 34,
         "podiums": 0,
         "best": 5
       },
@@ -10517,7 +11029,7 @@
             "d": 0
           }
         ],
-        "rank": 34,
+        "rank": 35,
         "podiums": 0,
         "best": 4
       },
@@ -10553,7 +11065,7 @@
             "d": 0
           }
         ],
-        "rank": 35,
+        "rank": 36,
         "podiums": 0,
         "best": 7
       },
@@ -10605,19 +11117,19 @@
             "d": 0
           }
         ],
-        "rank": 36,
+        "rank": 37,
         "podiums": 1,
         "best": 2
       },
       {
         "key": "76561198027169155",
         "name": "DeiRex",
-        "rating": 1653.1,
+        "rating": 1655.8,
         "peak": 1720.7,
-        "cups": 21,
-        "pairs": 448,
+        "cups": 22,
+        "pairs": 475,
         "wins": 0,
-        "losses": 188,
+        "losses": 199,
         "draws": 16,
         "avg_pos": 10.0,
         "gold": 0,
@@ -10791,9 +11303,17 @@
             "w": 17,
             "l": 4,
             "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1655.8,
+            "p": 12,
+            "w": 16,
+            "l": 11,
+            "d": 0
           }
         ],
-        "rank": 37,
+        "rank": 38,
         "podiums": 2,
         "best": 2
       },
@@ -10837,7 +11357,7 @@
             "d": 1
           }
         ],
-        "rank": 38,
+        "rank": 39,
         "podiums": 0,
         "best": 8
       },
@@ -10873,57 +11393,21 @@
             "d": 1
           }
         ],
-        "rank": 39,
+        "rank": 40,
         "podiums": 0,
         "best": 11
       },
       {
-        "key": "76561199082360966",
-        "name": "B_ES",
-        "rating": 1627.4,
-        "peak": 1688.1,
-        "cups": 2,
-        "pairs": 43,
-        "wins": 0,
-        "losses": 13,
-        "draws": 0,
-        "avg_pos": 7.5,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 29,
-            "r": 1688.1,
-            "p": 5,
-            "w": 18,
-            "l": 4,
-            "d": 0
-          },
-          {
-            "e": 32,
-            "r": 1627.4,
-            "p": 10,
-            "w": 12,
-            "l": 9,
-            "d": 0
-          }
-        ],
-        "rank": 40,
-        "podiums": 0,
-        "best": 5
-      },
-      {
         "key": "76561198083300332",
         "name": "K410K3N",
-        "rating": 1625.3,
-        "peak": 1625.3,
-        "cups": 5,
-        "pairs": 104,
+        "rating": 1634.3,
+        "peak": 1634.3,
+        "cups": 6,
+        "pairs": 131,
         "wins": 0,
-        "losses": 52,
+        "losses": 64,
         "draws": 2,
-        "avg_pos": 11.4,
+        "avg_pos": 11.7,
         "gold": 0,
         "silver": 0,
         "bronze": 0,
@@ -10967,11 +11451,55 @@
             "w": 14,
             "l": 7,
             "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1634.3,
+            "p": 13,
+            "w": 15,
+            "l": 12,
+            "d": 0
           }
         ],
         "rank": 41,
         "podiums": 0,
         "best": 8
+      },
+      {
+        "key": "76561199082360966",
+        "name": "B_ES",
+        "rating": 1627.4,
+        "peak": 1688.1,
+        "cups": 2,
+        "pairs": 43,
+        "wins": 0,
+        "losses": 13,
+        "draws": 0,
+        "avg_pos": 7.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 29,
+            "r": 1688.1,
+            "p": 5,
+            "w": 18,
+            "l": 4,
+            "d": 0
+          },
+          {
+            "e": 32,
+            "r": 1627.4,
+            "p": 10,
+            "w": 12,
+            "l": 9,
+            "d": 0
+          }
+        ],
+        "rank": 42,
+        "podiums": 0,
+        "best": 5
       },
       {
         "key": "76561199278221929",
@@ -11005,7 +11533,7 @@
             "d": 1
           }
         ],
-        "rank": 42,
+        "rank": 43,
         "podiums": 0,
         "best": 8
       },
@@ -11049,7 +11577,7 @@
             "d": 1
           }
         ],
-        "rank": 43,
+        "rank": 44,
         "podiums": 0,
         "best": 5
       },
@@ -11085,7 +11613,7 @@
             "d": 0
           }
         ],
-        "rank": 44,
+        "rank": 45,
         "podiums": 0,
         "best": 10
       },
@@ -11121,7 +11649,7 @@
             "d": 0
           }
         ],
-        "rank": 45,
+        "rank": 46,
         "podiums": 0,
         "best": 9
       },
@@ -11157,7 +11685,7 @@
             "d": 0
           }
         ],
-        "rank": 46,
+        "rank": 47,
         "podiums": 0,
         "best": 11
       },
@@ -11241,7 +11769,7 @@
             "d": 0
           }
         ],
-        "rank": 47,
+        "rank": 48,
         "podiums": 0,
         "best": 6
       },
@@ -11285,7 +11813,7 @@
             "d": 1
           }
         ],
-        "rank": 48,
+        "rank": 49,
         "podiums": 0,
         "best": 5
       },
@@ -11377,7 +11905,7 @@
             "d": 0
           }
         ],
-        "rank": 49,
+        "rank": 50,
         "podiums": 1,
         "best": 3
       },
@@ -11421,7 +11949,7 @@
             "d": 0
           }
         ],
-        "rank": 50,
+        "rank": 51,
         "podiums": 0,
         "best": 9
       },
@@ -11457,7 +11985,7 @@
             "d": 0
           }
         ],
-        "rank": 51,
+        "rank": 52,
         "podiums": 0,
         "best": 13
       },
@@ -11525,7 +12053,7 @@
             "d": 0
           }
         ],
-        "rank": 52,
+        "rank": 53,
         "podiums": 1,
         "best": 3
       },
@@ -11593,7 +12121,7 @@
             "d": 0
           }
         ],
-        "rank": 53,
+        "rank": 54,
         "podiums": 0,
         "best": 5
       },
@@ -11637,7 +12165,7 @@
             "d": 0
           }
         ],
-        "rank": 54,
+        "rank": 55,
         "podiums": 0,
         "best": 9
       },
@@ -11673,9 +12201,53 @@
             "d": 0
           }
         ],
-        "rank": 55,
+        "rank": 56,
         "podiums": 0,
         "best": 7
+      },
+      {
+        "key": "76561199002621651",
+        "name": "[Buny]Lunarbunny",
+        "rating": 1497.4,
+        "peak": 1544.1,
+        "cups": 3,
+        "pairs": 68,
+        "wins": 0,
+        "losses": 39,
+        "draws": 2,
+        "avg_pos": 14.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 28,
+            "r": 1544.1,
+            "p": 9,
+            "w": 10,
+            "l": 8,
+            "d": 2
+          },
+          {
+            "e": 30,
+            "r": 1413.5,
+            "p": 17,
+            "w": 5,
+            "l": 16,
+            "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1497.4,
+            "p": 16,
+            "w": 12,
+            "l": 15,
+            "d": 0
+          }
+        ],
+        "rank": 57,
+        "podiums": 0,
+        "best": 9
       },
       {
         "key": "76561198364662649",
@@ -11741,7 +12313,7 @@
             "d": 1
           }
         ],
-        "rank": 56,
+        "rank": 58,
         "podiums": 1,
         "best": 3
       },
@@ -11777,7 +12349,7 @@
             "d": 0
           }
         ],
-        "rank": 57,
+        "rank": 59,
         "podiums": 0,
         "best": 7
       },
@@ -11821,21 +12393,21 @@
             "d": 0
           }
         ],
-        "rank": 58,
+        "rank": 60,
         "podiums": 0,
         "best": 11
       },
       {
         "key": "76561197972890120",
         "name": "aizpun",
-        "rating": 1461.9,
+        "rating": 1465.0,
         "peak": 1500,
-        "cups": 4,
-        "pairs": 83,
+        "cups": 5,
+        "pairs": 110,
         "wins": 0,
-        "losses": 48,
+        "losses": 65,
         "draws": 10,
-        "avg_pos": 13.0,
+        "avg_pos": 14.0,
         "gold": 0,
         "silver": 0,
         "bronze": 0,
@@ -11871,9 +12443,17 @@
             "w": 10,
             "l": 11,
             "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1465.0,
+            "p": 18,
+            "w": 10,
+            "l": 17,
+            "d": 0
           }
         ],
-        "rank": 59,
+        "rank": 61,
         "podiums": 0,
         "best": 12
       },
@@ -11909,7 +12489,7 @@
             "d": 3
           }
         ],
-        "rank": 60,
+        "rank": 62,
         "podiums": 0,
         "best": 12
       },
@@ -11985,9 +12565,53 @@
             "d": 0
           }
         ],
-        "rank": 61,
+        "rank": 63,
         "podiums": 0,
         "best": 4
+      },
+      {
+        "key": "76561199292634733",
+        "name": "Zodiak",
+        "rating": 1436.5,
+        "peak": 1930.5,
+        "cups": 3,
+        "pairs": 82,
+        "wins": 1,
+        "losses": 29,
+        "draws": 4,
+        "avg_pos": 10.7,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1787.6,
+            "p": 7,
+            "w": 27,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1930.5,
+            "p": 1,
+            "w": 22,
+            "l": 0,
+            "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1436.5,
+            "p": 24,
+            "w": 0,
+            "l": 23,
+            "d": 4
+          }
+        ],
+        "rank": 64,
+        "podiums": 1,
+        "best": 1
       },
       {
         "key": "76561198040861578",
@@ -12021,45 +12645,69 @@
             "d": 0
           }
         ],
-        "rank": 62,
+        "rank": 65,
         "podiums": 0,
         "best": 15
       },
       {
-        "key": "name:Lunarbunny",
-        "name": "Lunarbunny",
-        "rating": 1413.5,
-        "peak": 1544.1,
-        "cups": 2,
-        "pairs": 41,
+        "key": "76561198149636594",
+        "name": "Quickracer10",
+        "rating": 1428.7,
+        "peak": 1745.6,
+        "cups": 5,
+        "pairs": 110,
         "wins": 0,
-        "losses": 24,
+        "losses": 48,
         "draws": 2,
-        "avg_pos": 13.0,
+        "avg_pos": 10.6,
         "gold": 0,
         "silver": 0,
-        "bronze": 0,
+        "bronze": 1,
         "history": [
           {
-            "e": 28,
-            "r": 1544.1,
+            "e": 3,
+            "r": 1745.6,
+            "p": 3,
+            "w": 24,
+            "l": 2,
+            "d": 0
+          },
+          {
+            "e": 11,
+            "r": 1570.5,
+            "p": 13,
+            "w": 8,
+            "l": 12,
+            "d": 1
+          },
+          {
+            "e": 14,
+            "r": 1600.9,
             "p": 9,
             "w": 10,
             "l": 8,
-            "d": 2
+            "d": 0
           },
           {
-            "e": 30,
-            "r": 1413.5,
-            "p": 17,
-            "w": 5,
-            "l": 16,
+            "e": 27,
+            "r": 1716.2,
+            "p": 6,
+            "w": 13,
+            "l": 5,
             "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1428.7,
+            "p": 22,
+            "w": 5,
+            "l": 21,
+            "d": 1
           }
         ],
-        "rank": 63,
-        "podiums": 0,
-        "best": 9
+        "rank": 66,
+        "podiums": 1,
+        "best": 3
       },
       {
         "key": "76561198758353504",
@@ -12093,7 +12741,7 @@
             "d": 0
           }
         ],
-        "rank": 64,
+        "rank": 67,
         "podiums": 0,
         "best": 14
       },
@@ -12129,7 +12777,7 @@
             "d": 0
           }
         ],
-        "rank": 65,
+        "rank": 68,
         "podiums": 0,
         "best": 14
       },
@@ -12165,21 +12813,401 @@
             "d": 2
           }
         ],
-        "rank": 66,
+        "rank": 69,
+        "podiums": 0,
+        "best": 15
+      },
+      {
+        "key": "76561198041670380",
+        "name": "Weside",
+        "rating": 1363.6,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 38,
+        "wins": 0,
+        "losses": 26,
+        "draws": 1,
+        "avg_pos": 14.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 3,
+            "r": 1313.6,
+            "p": 21,
+            "w": 6,
+            "l": 20,
+            "d": 0
+          },
+          {
+            "e": 6,
+            "r": 1363.6,
+            "p": 7,
+            "w": 5,
+            "l": 6,
+            "d": 1
+          }
+        ],
+        "rank": 70,
+        "podiums": 0,
+        "best": 5
+      },
+      {
+        "key": "76561198846673916",
+        "name": "Matic_D",
+        "rating": 1341.1,
+        "peak": 1616.1,
+        "cups": 2,
+        "pairs": 41,
+        "wins": 0,
+        "losses": 26,
+        "draws": 1,
+        "avg_pos": 14.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 28,
+            "r": 1616.1,
+            "p": 7,
+            "w": 14,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 31,
+            "r": 1341.1,
+            "p": 21,
+            "w": 0,
+            "l": 20,
+            "d": 1
+          }
+        ],
+        "rank": 71,
+        "podiums": 0,
+        "best": 7
+      },
+      {
+        "key": "name:MCRJAKE17",
+        "name": "MCRJAKE17",
+        "rating": 1318.6,
+        "peak": 1500,
+        "cups": 3,
+        "pairs": 81,
+        "wins": 0,
+        "losses": 53,
+        "draws": 6,
+        "avg_pos": 18.7,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 15,
+            "r": 1379.6,
+            "p": 23,
+            "w": 9,
+            "l": 22,
+            "d": 2
+          },
+          {
+            "e": 16,
+            "r": 1469.1,
+            "p": 14,
+            "w": 13,
+            "l": 13,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1318.6,
+            "p": 19,
+            "w": 0,
+            "l": 18,
+            "d": 4
+          }
+        ],
+        "rank": 72,
+        "podiums": 0,
+        "best": 14
+      },
+      {
+        "key": "76561198314583077",
+        "name": "ShyGirlyRaccoon",
+        "rating": 1312.4,
+        "peak": 1500,
+        "cups": 7,
+        "pairs": 131,
+        "wins": 0,
+        "losses": 91,
+        "draws": 13,
+        "avg_pos": 14.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1488.0,
+            "p": 11,
+            "w": 9,
+            "l": 10,
+            "d": 0
+          },
+          {
+            "e": 2,
+            "r": 1310.9,
+            "p": 24,
+            "w": 6,
+            "l": 23,
+            "d": 0
+          },
+          {
+            "e": 4,
+            "r": 1286.2,
+            "p": 14,
+            "w": 3,
+            "l": 13,
+            "d": 0
+          },
+          {
+            "e": 12,
+            "r": 1229.0,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 3
+          },
+          {
+            "e": 18,
+            "r": 1311.0,
+            "p": 7,
+            "w": 6,
+            "l": 6,
+            "d": 0
+          },
+          {
+            "e": 27,
+            "r": 1330.6,
+            "p": 15,
+            "w": 3,
+            "l": 14,
+            "d": 1
+          },
+          {
+            "e": 28,
+            "r": 1312.4,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          }
+        ],
+        "rank": 73,
+        "podiums": 0,
+        "best": 7
+      },
+      {
+        "key": "name:CritterZoid",
+        "name": "CritterZoid",
+        "rating": 1306.3,
+        "peak": 1534.5,
+        "cups": 2,
+        "pairs": 38,
+        "wins": 0,
+        "losses": 21,
+        "draws": 10,
+        "avg_pos": 11.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 6,
+            "r": 1534.5,
+            "p": 5,
+            "w": 7,
+            "l": 4,
+            "d": 1
+          },
+          {
+            "e": 16,
+            "r": 1306.3,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 9
+          }
+        ],
+        "rank": 74,
+        "podiums": 0,
+        "best": 5
+      },
+      {
+        "key": "76561198976514611",
+        "name": "sailingman",
+        "rating": 1304.7,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 42,
+        "wins": 0,
+        "losses": 26,
+        "draws": 16,
+        "avg_pos": 14.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 28,
+            "r": 1388.1,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 9
+          },
+          {
+            "e": 29,
+            "r": 1304.7,
+            "p": 16,
+            "w": 0,
+            "l": 15,
+            "d": 7
+          }
+        ],
+        "rank": 75,
+        "podiums": 0,
+        "best": 12
+      },
+      {
+        "key": "76561199842604096",
+        "name": "Dartho Mas",
+        "rating": 1301.9,
+        "peak": 1500,
+        "cups": 3,
+        "pairs": 73,
+        "wins": 0,
+        "losses": 52,
+        "draws": 9,
+        "avg_pos": 18.3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 14,
+            "r": 1388.7,
+            "p": 14,
+            "w": 0,
+            "l": 13,
+            "d": 5
+          },
+          {
+            "e": 15,
+            "r": 1429.6,
+            "p": 22,
+            "w": 12,
+            "l": 21,
+            "d": 0
+          },
+          {
+            "e": 17,
+            "r": 1301.9,
+            "p": 19,
+            "w": 0,
+            "l": 18,
+            "d": 4
+          }
+        ],
+        "rank": 76,
+        "podiums": 0,
+        "best": 14
+      },
+      {
+        "key": "name:Lunar_eclipse",
+        "name": "Lunar_eclipse",
+        "rating": 1290.1,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 31,
+        "wins": 0,
+        "losses": 28,
+        "draws": 1,
+        "avg_pos": 15.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 18,
+            "r": 1368.7,
+            "p": 12,
+            "w": 0,
+            "l": 11,
+            "d": 1
+          },
+          {
+            "e": 19,
+            "r": 1290.1,
+            "p": 18,
+            "w": 2,
+            "l": 17,
+            "d": 0
+          }
+        ],
+        "rank": 77,
+        "podiums": 0,
+        "best": 12
+      },
+      {
+        "key": "76561198042873074",
+        "name": "krisu",
+        "rating": 1258.1,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 47,
+        "wins": 0,
+        "losses": 31,
+        "draws": 16,
+        "avg_pos": 16.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 11,
+            "r": 1356.9,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 7
+          },
+          {
+            "e": 16,
+            "r": 1258.1,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 9
+          }
+        ],
+        "rank": 78,
         "podiums": 0,
         "best": 15
       },
       {
         "key": "76561198040976717",
         "name": "Lilly Fenn",
-        "rating": 1365.8,
+        "rating": 1251.2,
         "peak": 1644.5,
-        "cups": 19,
-        "pairs": 375,
+        "cups": 20,
+        "pairs": 402,
         "wins": 0,
-        "losses": 237,
-        "draws": 47,
-        "avg_pos": 13.5,
+        "losses": 260,
+        "draws": 51,
+        "avg_pos": 14.0,
         "gold": 0,
         "silver": 0,
         "bronze": 0,
@@ -12335,475 +13363,31 @@
             "w": 4,
             "l": 17,
             "d": 0
+          },
+          {
+            "e": 33,
+            "r": 1251.2,
+            "p": 24,
+            "w": 0,
+            "l": 23,
+            "d": 4
           }
         ],
-        "rank": 67,
+        "rank": 79,
         "podiums": 0,
         "best": 4
       },
       {
-        "key": "76561198041670380",
-        "name": "Weside",
-        "rating": 1363.6,
-        "peak": 1500,
-        "cups": 2,
-        "pairs": 38,
-        "wins": 0,
-        "losses": 26,
-        "draws": 1,
-        "avg_pos": 14.0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 3,
-            "r": 1313.6,
-            "p": 21,
-            "w": 6,
-            "l": 20,
-            "d": 0
-          },
-          {
-            "e": 6,
-            "r": 1363.6,
-            "p": 7,
-            "w": 5,
-            "l": 6,
-            "d": 1
-          }
-        ],
-        "rank": 68,
-        "podiums": 0,
-        "best": 5
-      },
-      {
-        "key": "76561198846673916",
-        "name": "Matic_D",
-        "rating": 1341.1,
-        "peak": 1616.1,
-        "cups": 2,
-        "pairs": 41,
-        "wins": 0,
-        "losses": 26,
-        "draws": 1,
-        "avg_pos": 14.0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 28,
-            "r": 1616.1,
-            "p": 7,
-            "w": 14,
-            "l": 6,
-            "d": 0
-          },
-          {
-            "e": 31,
-            "r": 1341.1,
-            "p": 21,
-            "w": 0,
-            "l": 20,
-            "d": 1
-          }
-        ],
-        "rank": 69,
-        "podiums": 0,
-        "best": 7
-      },
-      {
-        "key": "name:MCRJAKE17",
-        "name": "MCRJAKE17",
-        "rating": 1318.6,
-        "peak": 1500,
-        "cups": 3,
-        "pairs": 81,
-        "wins": 0,
-        "losses": 53,
-        "draws": 6,
-        "avg_pos": 18.7,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 15,
-            "r": 1379.6,
-            "p": 23,
-            "w": 9,
-            "l": 22,
-            "d": 2
-          },
-          {
-            "e": 16,
-            "r": 1469.1,
-            "p": 14,
-            "w": 13,
-            "l": 13,
-            "d": 0
-          },
-          {
-            "e": 17,
-            "r": 1318.6,
-            "p": 19,
-            "w": 0,
-            "l": 18,
-            "d": 4
-          }
-        ],
-        "rank": 70,
-        "podiums": 0,
-        "best": 14
-      },
-      {
-        "key": "76561198314583077",
-        "name": "ShyGirlyRaccoon",
-        "rating": 1312.4,
-        "peak": 1500,
-        "cups": 7,
-        "pairs": 131,
-        "wins": 0,
-        "losses": 91,
-        "draws": 13,
-        "avg_pos": 14.0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 1,
-            "r": 1488.0,
-            "p": 11,
-            "w": 9,
-            "l": 10,
-            "d": 0
-          },
-          {
-            "e": 2,
-            "r": 1310.9,
-            "p": 24,
-            "w": 6,
-            "l": 23,
-            "d": 0
-          },
-          {
-            "e": 4,
-            "r": 1286.2,
-            "p": 14,
-            "w": 3,
-            "l": 13,
-            "d": 0
-          },
-          {
-            "e": 12,
-            "r": 1229.0,
-            "p": 15,
-            "w": 0,
-            "l": 14,
-            "d": 3
-          },
-          {
-            "e": 18,
-            "r": 1311.0,
-            "p": 7,
-            "w": 6,
-            "l": 6,
-            "d": 0
-          },
-          {
-            "e": 27,
-            "r": 1330.6,
-            "p": 15,
-            "w": 3,
-            "l": 14,
-            "d": 1
-          },
-          {
-            "e": 28,
-            "r": 1312.4,
-            "p": 12,
-            "w": 0,
-            "l": 11,
-            "d": 9
-          }
-        ],
-        "rank": 71,
-        "podiums": 0,
-        "best": 7
-      },
-      {
-        "key": "name:CritterZoid",
-        "name": "CritterZoid",
-        "rating": 1306.3,
-        "peak": 1534.5,
-        "cups": 2,
-        "pairs": 38,
-        "wins": 0,
-        "losses": 21,
-        "draws": 10,
-        "avg_pos": 11.5,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 6,
-            "r": 1534.5,
-            "p": 5,
-            "w": 7,
-            "l": 4,
-            "d": 1
-          },
-          {
-            "e": 16,
-            "r": 1306.3,
-            "p": 18,
-            "w": 0,
-            "l": 17,
-            "d": 9
-          }
-        ],
-        "rank": 72,
-        "podiums": 0,
-        "best": 5
-      },
-      {
-        "key": "76561198976514611",
-        "name": "sailingman",
-        "rating": 1304.7,
-        "peak": 1500,
-        "cups": 2,
-        "pairs": 42,
-        "wins": 0,
-        "losses": 26,
-        "draws": 16,
-        "avg_pos": 14.0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 28,
-            "r": 1388.1,
-            "p": 12,
-            "w": 0,
-            "l": 11,
-            "d": 9
-          },
-          {
-            "e": 29,
-            "r": 1304.7,
-            "p": 16,
-            "w": 0,
-            "l": 15,
-            "d": 7
-          }
-        ],
-        "rank": 73,
-        "podiums": 0,
-        "best": 12
-      },
-      {
-        "key": "76561199842604096",
-        "name": "Dartho Mas",
-        "rating": 1301.9,
-        "peak": 1500,
-        "cups": 3,
-        "pairs": 73,
-        "wins": 0,
-        "losses": 52,
-        "draws": 9,
-        "avg_pos": 18.3,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 14,
-            "r": 1388.7,
-            "p": 14,
-            "w": 0,
-            "l": 13,
-            "d": 5
-          },
-          {
-            "e": 15,
-            "r": 1429.6,
-            "p": 22,
-            "w": 12,
-            "l": 21,
-            "d": 0
-          },
-          {
-            "e": 17,
-            "r": 1301.9,
-            "p": 19,
-            "w": 0,
-            "l": 18,
-            "d": 4
-          }
-        ],
-        "rank": 74,
-        "podiums": 0,
-        "best": 14
-      },
-      {
-        "key": "name:Lunar_eclipse",
-        "name": "Lunar_eclipse",
-        "rating": 1290.1,
-        "peak": 1500,
-        "cups": 2,
-        "pairs": 31,
-        "wins": 0,
-        "losses": 28,
-        "draws": 1,
-        "avg_pos": 15.0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 18,
-            "r": 1368.7,
-            "p": 12,
-            "w": 0,
-            "l": 11,
-            "d": 1
-          },
-          {
-            "e": 19,
-            "r": 1290.1,
-            "p": 18,
-            "w": 2,
-            "l": 17,
-            "d": 0
-          }
-        ],
-        "rank": 75,
-        "podiums": 0,
-        "best": 12
-      },
-      {
-        "key": "76561198042873074",
-        "name": "krisu",
-        "rating": 1258.1,
-        "peak": 1500,
-        "cups": 2,
-        "pairs": 47,
-        "wins": 0,
-        "losses": 31,
-        "draws": 16,
-        "avg_pos": 16.5,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 11,
-            "r": 1356.9,
-            "p": 15,
-            "w": 0,
-            "l": 14,
-            "d": 7
-          },
-          {
-            "e": 16,
-            "r": 1258.1,
-            "p": 18,
-            "w": 0,
-            "l": 17,
-            "d": 9
-          }
-        ],
-        "rank": 76,
-        "podiums": 0,
-        "best": 15
-      },
-      {
-        "key": "76561197961191126",
-        "name": "alpa",
-        "rating": 1247.0,
-        "peak": 1500,
-        "cups": 2,
-        "pairs": 40,
-        "wins": 0,
-        "losses": 35,
-        "draws": 0,
-        "avg_pos": 18.5,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 19,
-            "r": 1429.4,
-            "p": 15,
-            "w": 5,
-            "l": 14,
-            "d": 0
-          },
-          {
-            "e": 30,
-            "r": 1247.0,
-            "p": 22,
-            "w": 0,
-            "l": 21,
-            "d": 0
-          }
-        ],
-        "rank": 77,
-        "podiums": 0,
-        "best": 15
-      },
-      {
-        "key": "76561198071556725",
-        "name": "gameface",
-        "rating": 1228.9,
-        "peak": 1500,
-        "cups": 2,
-        "pairs": 40,
-        "wins": 0,
-        "losses": 32,
-        "draws": 8,
-        "avg_pos": 17.0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 1,
-            "r": 1356.0,
-            "p": 13,
-            "w": 0,
-            "l": 12,
-            "d": 7
-          },
-          {
-            "e": 31,
-            "r": 1228.9,
-            "p": 21,
-            "w": 0,
-            "l": 20,
-            "d": 1
-          }
-        ],
-        "rank": 78,
-        "podiums": 0,
-        "best": 13
-      },
-      {
         "key": "name:Shinikage221",
         "name": "Shinikage221",
-        "rating": 1210.8,
+        "rating": 1248.6,
         "peak": 1500,
-        "cups": 4,
-        "pairs": 81,
+        "cups": 5,
+        "pairs": 108,
         "wins": 0,
-        "losses": 61,
-        "draws": 10,
-        "avg_pos": 16.2,
+        "losses": 82,
+        "draws": 11,
+        "avg_pos": 17.4,
         "gold": 0,
         "silver": 0,
         "bronze": 0,
@@ -12839,11 +13423,91 @@
             "w": 0,
             "l": 18,
             "d": 3
+          },
+          {
+            "e": 33,
+            "r": 1248.6,
+            "p": 22,
+            "w": 5,
+            "l": 21,
+            "d": 1
           }
         ],
-        "rank": 79,
+        "rank": 80,
         "podiums": 0,
         "best": 12
+      },
+      {
+        "key": "76561197961191126",
+        "name": "alpa",
+        "rating": 1247.0,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 40,
+        "wins": 0,
+        "losses": 35,
+        "draws": 0,
+        "avg_pos": 18.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 19,
+            "r": 1429.4,
+            "p": 15,
+            "w": 5,
+            "l": 14,
+            "d": 0
+          },
+          {
+            "e": 30,
+            "r": 1247.0,
+            "p": 22,
+            "w": 0,
+            "l": 21,
+            "d": 0
+          }
+        ],
+        "rank": 81,
+        "podiums": 0,
+        "best": 15
+      },
+      {
+        "key": "76561198071556725",
+        "name": "gameface",
+        "rating": 1228.9,
+        "peak": 1500,
+        "cups": 2,
+        "pairs": 40,
+        "wins": 0,
+        "losses": 32,
+        "draws": 8,
+        "avg_pos": 17.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 1,
+            "r": 1356.0,
+            "p": 13,
+            "w": 0,
+            "l": 12,
+            "d": 7
+          },
+          {
+            "e": 31,
+            "r": 1228.9,
+            "p": 21,
+            "w": 0,
+            "l": 20,
+            "d": 1
+          }
+        ],
+        "rank": 82,
+        "podiums": 0,
+        "best": 13
       },
       {
         "key": "76561198988960546",
@@ -12885,21 +13549,141 @@
             "d": 0
           }
         ],
-        "rank": 80,
+        "rank": 83,
         "podiums": 0,
         "best": 20
       },
       {
+        "key": "76561198096236961",
+        "name": "koz",
+        "rating": 1158.3,
+        "peak": 1500,
+        "cups": 6,
+        "pairs": 147,
+        "wins": 0,
+        "losses": 117,
+        "draws": 22,
+        "avg_pos": 20.5,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1214.8,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 4
+          },
+          {
+            "e": 3,
+            "r": 1124.1,
+            "p": 24,
+            "w": 0,
+            "l": 23,
+            "d": 3
+          },
+          {
+            "e": 5,
+            "r": 1261.2,
+            "p": 14,
+            "w": 8,
+            "l": 13,
+            "d": 0
+          },
+          {
+            "e": 10,
+            "r": 1217.5,
+            "p": 21,
+            "w": 0,
+            "l": 20,
+            "d": 6
+          },
+          {
+            "e": 16,
+            "r": 1203.5,
+            "p": 18,
+            "w": 0,
+            "l": 17,
+            "d": 9
+          },
+          {
+            "e": 19,
+            "r": 1158.3,
+            "p": 20,
+            "w": 0,
+            "l": 19,
+            "d": 0
+          }
+        ],
+        "rank": 84,
+        "podiums": 0,
+        "best": 14
+      },
+      {
+        "key": "76561198076209946",
+        "name": "[ZET]maskeddog",
+        "rating": 1140.9,
+        "peak": 1500,
+        "cups": 4,
+        "pairs": 85,
+        "wins": 0,
+        "losses": 68,
+        "draws": 17,
+        "avg_pos": 18.0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "history": [
+          {
+            "e": 2,
+            "r": 1214.8,
+            "p": 26,
+            "w": 0,
+            "l": 25,
+            "d": 4
+          },
+          {
+            "e": 3,
+            "r": 1124.1,
+            "p": 24,
+            "w": 0,
+            "l": 23,
+            "d": 3
+          },
+          {
+            "e": 7,
+            "r": 1156.9,
+            "p": 7,
+            "w": 0,
+            "l": 6,
+            "d": 7
+          },
+          {
+            "e": 12,
+            "r": 1140.9,
+            "p": 15,
+            "w": 0,
+            "l": 14,
+            "d": 3
+          }
+        ],
+        "rank": 85,
+        "podiums": 0,
+        "best": 7
+      },
+      {
         "key": "76561198070406017",
         "name": "DragonShadow84290",
-        "rating": 1159.5,
+        "rating": 1132.1,
         "peak": 1500,
-        "cups": 8,
-        "pairs": 158,
+        "cups": 9,
+        "pairs": 185,
         "wins": 0,
-        "losses": 119,
-        "draws": 35,
-        "avg_pos": 15.9,
+        "losses": 142,
+        "draws": 39,
+        "avg_pos": 16.8,
         "gold": 0,
         "silver": 0,
         "bronze": 0,
@@ -12967,143 +13751,31 @@
             "w": 0,
             "l": 18,
             "d": 3
+          },
+          {
+            "e": 33,
+            "r": 1132.1,
+            "p": 24,
+            "w": 0,
+            "l": 23,
+            "d": 4
           }
         ],
-        "rank": 81,
+        "rank": 86,
         "podiums": 0,
         "best": 11
       },
       {
-        "key": "76561198096236961",
-        "name": "koz",
-        "rating": 1158.3,
-        "peak": 1500,
-        "cups": 6,
-        "pairs": 147,
-        "wins": 0,
-        "losses": 117,
-        "draws": 22,
-        "avg_pos": 20.5,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 2,
-            "r": 1214.8,
-            "p": 26,
-            "w": 0,
-            "l": 25,
-            "d": 4
-          },
-          {
-            "e": 3,
-            "r": 1124.1,
-            "p": 24,
-            "w": 0,
-            "l": 23,
-            "d": 3
-          },
-          {
-            "e": 5,
-            "r": 1261.2,
-            "p": 14,
-            "w": 8,
-            "l": 13,
-            "d": 0
-          },
-          {
-            "e": 10,
-            "r": 1217.5,
-            "p": 21,
-            "w": 0,
-            "l": 20,
-            "d": 6
-          },
-          {
-            "e": 16,
-            "r": 1203.5,
-            "p": 18,
-            "w": 0,
-            "l": 17,
-            "d": 9
-          },
-          {
-            "e": 19,
-            "r": 1158.3,
-            "p": 20,
-            "w": 0,
-            "l": 19,
-            "d": 0
-          }
-        ],
-        "rank": 82,
-        "podiums": 0,
-        "best": 14
-      },
-      {
-        "key": "76561198076209946",
-        "name": "[ZET]maskeddog",
-        "rating": 1140.9,
-        "peak": 1500,
-        "cups": 4,
-        "pairs": 85,
-        "wins": 0,
-        "losses": 68,
-        "draws": 17,
-        "avg_pos": 18.0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 0,
-        "history": [
-          {
-            "e": 2,
-            "r": 1214.8,
-            "p": 26,
-            "w": 0,
-            "l": 25,
-            "d": 4
-          },
-          {
-            "e": 3,
-            "r": 1124.1,
-            "p": 24,
-            "w": 0,
-            "l": 23,
-            "d": 3
-          },
-          {
-            "e": 7,
-            "r": 1156.9,
-            "p": 7,
-            "w": 0,
-            "l": 6,
-            "d": 7
-          },
-          {
-            "e": 12,
-            "r": 1140.9,
-            "p": 15,
-            "w": 0,
-            "l": 14,
-            "d": 3
-          }
-        ],
-        "rank": 83,
-        "podiums": 0,
-        "best": 7
-      },
-      {
         "key": "76561198451895679",
         "name": "L3mmy",
-        "rating": 1140.6,
+        "rating": 1118.7,
         "peak": 1500,
-        "cups": 18,
-        "pairs": 371,
+        "cups": 19,
+        "pairs": 398,
         "wins": 0,
-        "losses": 292,
-        "draws": 61,
-        "avg_pos": 17.2,
+        "losses": 315,
+        "draws": 65,
+        "avg_pos": 17.6,
         "gold": 0,
         "silver": 0,
         "bronze": 0,
@@ -13251,9 +13923,17 @@
             "w": 0,
             "l": 18,
             "d": 3
+          },
+          {
+            "e": 33,
+            "r": 1118.7,
+            "p": 24,
+            "w": 0,
+            "l": 23,
+            "d": 4
           }
         ],
-        "rank": 84,
+        "rank": 87,
         "podiums": 0,
         "best": 7
       }
